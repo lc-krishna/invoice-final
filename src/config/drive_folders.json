@@ -1,0 +1,5386 @@
+{
+  "folders": [
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1gRraG_bZ1EikKOc5gF9fGEKdWDkVJOoK",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "12uiX-3Z5Qq36sIoY1cu_fGOxOS3O_ww1",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "01 Utility Vendor - Messer",
+      "folderId": "16nP0m-zPqmz3Liv-opXIaPTSXInfedI3",
+      "fullPath": "/Root/01 Utility Vendor - Messer",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "02 Lucky Community LLC",
+      "folderId": "1tyHHesLoGuVsdOmaoWtdBNv1bFffi8nJ",
+      "fullPath": "/Root/02 Lucky Community LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "A & M Tree Services",
+      "folderId": "1LTUDZiNCBT2MtJ1wPFMceCOmiHapg5fH",
+      "fullPath": "/Root/A & M Tree Services",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Adriene Soucier",
+      "folderId": "19NP5Bvmv88I5NitrJ0Eg7-LwMDNhgcxZ",
+      "fullPath": "/Root/Adriene Soucier",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Affordable Tree Services INC",
+      "folderId": "1NIaFQnCCA5Cu0cXY3jKc1Y052CtSMPnX",
+      "fullPath": "/Root/Affordable Tree Services INC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Andrew Brewer",
+      "folderId": "1VpHmszAnw-dUPV3M6hj0umIwwgYeFJgW",
+      "fullPath": "/Root/Andrew Brewer",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Arbin Gomez",
+      "folderId": "1Y86X5ZTq8RTMRPJu4ZacO9DT6kxizxpR",
+      "fullPath": "/Root/Arbin Gomez",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Aryn Spahr",
+      "folderId": "1AKiDf4UppBgl5GOIR_pg3ZEm1etpBLo2",
+      "fullPath": "/Root/Aryn Spahr",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "ARZ Solutions_Capex Submetering",
+      "folderId": "1Em1XBx0rWPznwhUuUH6wa4kOD3YyKOm-",
+      "fullPath": "/Root/ARZ Solutions_Capex Submetering",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Aucoin's Plumbing Services",
+      "folderId": "1Pyd6kKkU7r7SDP-e6E1_duN7asUOkMv8",
+      "fullPath": "/Root/Aucoin's Plumbing Services",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "B&B Plumbing Repair, LLC",
+      "folderId": "1mF7sP1sAzHDkwtm80fS6w5eYzeyYmNgc",
+      "fullPath": "/Root/B&B Plumbing Repair, LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Bantaa, LLC",
+      "folderId": "1TW2frORbK_vXWzLyJ5fCcn9bmJEn5Zdu",
+      "fullPath": "/Root/Bantaa, LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Barriere Construction_Road work",
+      "folderId": "1QCvfVj12XQUWP2LXtXH_eD3DnBzKRhH5",
+      "fullPath": "/Root/Barriere Construction_Road work",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Blevins Inc",
+      "folderId": "1WeCbS3qiaNBBaVggVsAfsOJuo_nzVGcE",
+      "fullPath": "/Root/Blevins Inc",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Byron Pierre",
+      "folderId": "137WgQdMTFrknBl27rxupsWx_xTeD3whT",
+      "fullPath": "/Root/Byron Pierre",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Carr, Riggs & Ingram",
+      "folderId": "15bY8yXmkN_Vp9dnW1S6E7kpUyU4tOA8O",
+      "fullPath": "/Root/Carr, Riggs & Ingram",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Checks",
+      "folderId": "17SYQz_86wcEBYJQ4bSt8j7uh-G28tAjv",
+      "fullPath": "/Root/Checks",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Chris Paving LLC",
+      "folderId": "1s6D2Ry_OjAYQbigDfDt6qdIdn5Quvsum",
+      "fullPath": "/Root/Chris Paving LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Chris's Paving_ Road Work",
+      "folderId": "1lpr6W3KnF-MBZ_ezAkB4SEd-RoiZLIDh",
+      "fullPath": "/Root/Chris's Paving_ Road Work",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Cleco",
+      "folderId": "1SVbbog7pNcGP3QEggXqpKBgzdO97s5Hh",
+      "fullPath": "/Root/Cleco",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Cleco Servitude For 3 New Pads",
+      "folderId": "1pYi4kPLQmp63BGRGAB97qFPx-D61IcM-",
+      "fullPath": "/Root/Cleco Servitude For 3 New Pads",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Consulting Services",
+      "folderId": "1JQXCW5oCI_PRm3a9yHMg3tbqymcWPkDI",
+      "fullPath": "/Root/Consulting Services",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "CSM",
+      "folderId": "1AKlRVJjCm6rjkrLH5BRJw2HJMj5B4-_j",
+      "fullPath": "/Root/CSM",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "DiMarco Plumbing",
+      "folderId": "1zCsL8_TkoQ538R2oGHP7lSuFEjg3hIn0",
+      "fullPath": "/Root/DiMarco Plumbing",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Drain Surgeon_Sewer & Plumbing",
+      "folderId": "16WDNvdefLdx5HzjNVRlUEvV9eWUzz-7W",
+      "fullPath": "/Root/Drain Surgeon_Sewer & Plumbing",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Draw Requests",
+      "folderId": "1AIgwKKn-C3_ke61LFw4zJQZu6BCHVHSS",
+      "fullPath": "/Root/Draw Requests",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "FastSign",
+      "folderId": "1-mXV_1ImI4aZr3KY3a7HNZeqq1YWr4Zu",
+      "fullPath": "/Root/FastSign",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Floor & Decor",
+      "folderId": "11dn8sJ9_j4Zi_Be4HLzGiOEGTBExDwkP",
+      "fullPath": "/Root/Floor & Decor",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Frank Harrison Asphalt Paving_Road Work",
+      "folderId": "1_flZ9Isg362nNRa761tLCV4nlfWynDai",
+      "fullPath": "/Root/Frank Harrison Asphalt Paving_Road Work",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Franklin Palomeo",
+      "folderId": "1MKDA4VRjzcSmEHhJ6YSCSY0FLguO06b2",
+      "fullPath": "/Root/Franklin Palomeo",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "George Pender",
+      "folderId": "1GvZBQAqx1AvzdXrv0mNujhmk910oGAax",
+      "fullPath": "/Root/George Pender",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Giron Consulting LLC",
+      "folderId": "1LARQt2vCZdgb01-llyAZG1PEsu0OFpjW",
+      "fullPath": "/Root/Giron Consulting LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Good Bones",
+      "folderId": "1vs0e-9MUGGHMu-MhCc3g-i4WsRTZ-WQz",
+      "fullPath": "/Root/Good Bones",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "HIP Estimates",
+      "folderId": "154vSkklj4ieOzKXs2wG-fvaPWNE9rnOQ",
+      "fullPath": "/Root/HIP Estimates",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1ypUvlyrrAxFBZLyTZm0i8-6V8g_h_V_h",
+      "fullPath": "/Root/Home Depot",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "HUB",
+      "folderId": "1ALhgfrBNzw9fPMNYCcDiTHHaQNrGWNdC",
+      "fullPath": "/Root/HUB",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "JMS LLC",
+      "folderId": "1Mabc1GEo4DEQMOfSpzi2eP28w7FeiIXf",
+      "fullPath": "/Root/JMS LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "John Simmon",
+      "folderId": "1fRvs-aopvHaQe4atUtqjJjKUSSkcoBFf",
+      "fullPath": "/Root/John Simmon",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Jones Fussel LLP",
+      "folderId": "1F7qS_mXvBtrnXnb9usCYi0vhrwYm5JSV",
+      "fullPath": "/Root/Jones Fussel LLP",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "KBarber Enterprises, LLC_Road work",
+      "folderId": "1WETuf3mbjcwAbYT5SNAcIC48TkKJRadO",
+      "fullPath": "/Root/KBarber Enterprises, LLC_Road work",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Ken Brown & Sons,Inc",
+      "folderId": "1Yy6inhcHJOHnwRuE-1z3avxo8N9Tc_MI",
+      "fullPath": "/Root/Ken Brown & Sons,Inc",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "LA Sec of State",
+      "folderId": "1MUCd5P1p_2E-hhI_cmZnN10hkLWFsKs2",
+      "fullPath": "/Root/LA Sec of State",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Legacy Construction & Design_Electrical Work",
+      "folderId": "1UykTd4j6HTIm7n1oHEE0ZpA3TKVLGdSS",
+      "fullPath": "/Root/Legacy Construction & Design_Electrical Work",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Lynnard Bell Sr",
+      "folderId": "1YSNBIdTPDd-YL7PIhWFOh6OBnqR8AgnN",
+      "fullPath": "/Root/Lynnard Bell Sr",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Messer CAPEX",
+      "folderId": "1_6GAJq2UdPyBXyKQe8SfGmR5Xpu4dRz0",
+      "fullPath": "/Root/Messer CAPEX",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Metron - Farnier LLC",
+      "folderId": "1GZgRcuhK_mgmhcudO4u5CHCxO9tBYZ83",
+      "fullPath": "/Root/Metron - Farnier LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Metron Agreement (Sub-metering)",
+      "folderId": "1V_boNqVHlQg6WEDRq_KXvzq0Wv0b6JTU",
+      "fullPath": "/Root/Metron Agreement (Sub-metering)",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Metron Sustainable Services",
+      "folderId": "10tHvF7MPF1cSs7oAsEMH4jOW9ys_7lQo",
+      "fullPath": "/Root/Metron Sustainable Services",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Michael Diaz",
+      "folderId": "1BzrH2YOpHikIR9EcRKP5L9JKWuz3CLKc",
+      "fullPath": "/Root/Michael Diaz",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Miguel Angel Cruz",
+      "folderId": "14EBOUNnYo7Zm_rOf7C3W8QjDcl5hyUby",
+      "fullPath": "/Root/Miguel Angel Cruz",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Obed Construction LLC",
+      "folderId": "1y40lfyRaQQWR46VVWppMzCjESHfUiorb",
+      "fullPath": "/Root/Obed Construction LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Purchase a home Lot 58",
+      "folderId": "1NFTLd6_4U0aO5Ho0AYIFskkFhrczhJ8Q",
+      "fullPath": "/Root/Purchase a home Lot 58",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Rubia Murillo",
+      "folderId": "1YN2Krb9KSuJkJ2uxqsoQOOykHedb3v1G",
+      "fullPath": "/Root/Rubia Murillo",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Rutilio Salguero",
+      "folderId": "1JwE3x7nc0VLBCHQ-QxonbGN4MunZzim1",
+      "fullPath": "/Root/Rutilio Salguero",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "SAM",
+      "folderId": "19IGioSyizpwrXqUGYVsmfleQBZIHbBya",
+      "fullPath": "/Root/SAM",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Shane Lefreau",
+      "folderId": "1Vl_7VThl5g96Eo2EKutowe5S90XgryNP",
+      "fullPath": "/Root/Shane Lefreau",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "ShowMojo",
+      "folderId": "1-jmt5FRwdacLtwrx4_C09r_CxtUHhQBP",
+      "fullPath": "/Root/ShowMojo",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Speed read submetring",
+      "folderId": "1W73x6-TmZwXjz07A9WQQwzl2qbUpFoBY",
+      "fullPath": "/Root/Speed read submetring",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "STR HOLDINGS LLC",
+      "folderId": "18rugAbOn_Ce3b89H8FHpmU32TMq4WAhj",
+      "fullPath": "/Root/STR HOLDINGS LLC",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Style Crest_Skirting",
+      "folderId": "1ta_51HhMCXOH5TqDHfTMp98uFB-oLxkb",
+      "fullPath": "/Root/Style Crest_Skirting",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Stylecrest",
+      "folderId": "13vtlHdsSFKWkfBMXnUCCKa3bBAX9fkQb",
+      "fullPath": "/Root/Stylecrest",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Tarzan Lawn & Landscaping LLC,",
+      "folderId": "19CwPf0BOvoz70D1npyWUowJxcwgu9tdU",
+      "fullPath": "/Root/Tarzan Lawn & Landscaping LLC,",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Terese's Top",
+      "folderId": "11LmTEXaRVuwG8knwJtLd5z-VMcCdaL6J",
+      "fullPath": "/Root/Terese's Top",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Terracon",
+      "folderId": "1AKpNCsmw5DTiDptHs2278P2L6BPjUzvL",
+      "fullPath": "/Root/Terracon",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "The Advocate",
+      "folderId": "1QjqDBLKYg_2hNJZbXwDtAgSGGkD-JzCh",
+      "fullPath": "/Root/The Advocate",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Town Of Pearl River",
+      "folderId": "1fnpAZlQ5HmV0NEgJdT8DGyDMeq_hhqNx",
+      "fullPath": "/Root/Town Of Pearl River",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Uhaul",
+      "folderId": "13Flrk0rmv-lMbaiqmhiJvrKd-bW7h-UQ",
+      "fullPath": "/Root/Uhaul",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "Waste Pro",
+      "folderId": "1fx6JFgUI5OWuEMQ45lYl6gibdYsNHqSH",
+      "fullPath": "/Root/Waste Pro",
+      "community": "Messer Community"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1UsgGJCfFnQ6EgnnpkhQPtps4DPlGH9lM",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1PMmoA-NjP-yX5-WExcDucMa4-xt7CXNZ",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "1.Utility Invoices - Shady Pines",
+      "folderId": "18d1-D2YO6sREP-PBxYmhJOgY-JTUGueV",
+      "fullPath": "/Root/1.Utility Invoices - Shady Pines",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "2.Lucky Communities LLC",
+      "folderId": "12O2yQdREMZCDr-Y5ezRv8FmjMDR-xi9_",
+      "fullPath": "/Root/2.Lucky Communities LLC",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "2021 CCR Distribution Form",
+      "folderId": "1iP6UOzACEL4RUxkBPwW3BKtQGkPV-Hmg",
+      "fullPath": "/Root/2021 CCR Distribution Form",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Amazon",
+      "folderId": "1qoM3I6PrBVE_y-rW84TQAaSR2PC4anjg",
+      "fullPath": "/Root/Amazon",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Asphalt Paving",
+      "folderId": "1Ub7aDo8JRFi4bsldEV4mP9NzpYdHEjiu",
+      "fullPath": "/Root/Asphalt Paving",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Asphalt Services LLC",
+      "folderId": "11wYoJkjrY738cx1AzombCag_dNZn1Hz5",
+      "fullPath": "/Root/Asphalt Services LLC",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "August Miller",
+      "folderId": "1o5Q8_BwYz2ef8Jr01O2QhZmiLEjvYrgt",
+      "fullPath": "/Root/August Miller",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "AZR Solution_Submetering",
+      "folderId": "1b6cDaW-SB_zsj1M1Rj-dBiUT5zcsBN3C",
+      "fullPath": "/Root/AZR Solution_Submetering",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "B&A House Movers",
+      "folderId": "1EbBhsuMAT_VSrifIW4dy6UokmSIAIsL1",
+      "fullPath": "/Root/B&A House Movers",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "14tU5f3sBtDuMxXi9pCNZ5BcHJS0IW9zQ",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Brinson Plumbing and Construction",
+      "folderId": "1KMH6rMkbq1cRP1QC7wtSfD4RFTvSsObx",
+      "fullPath": "/Root/Brinson Plumbing and Construction",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Byron Pierre",
+      "folderId": "1tPoilFHv-GXYjwrBIKwfWABIXSE0A1ga",
+      "fullPath": "/Root/Byron Pierre",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "C&J Sewer Treatment Systems",
+      "folderId": "1AmONsmknsnO9Iw8rkv1OI24uaSzqVN1N",
+      "fullPath": "/Root/C&J Sewer Treatment Systems",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Capex",
+      "folderId": "1AqgED1PdMlLfax47zj3737FJq5c5Q-ap",
+      "fullPath": "/Root/Capex",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Carr, Riggs & Ingram, LLC",
+      "folderId": "1aTolMq5WyKM4x6U35BAZ2gRdxxgK2-sp",
+      "fullPath": "/Root/Carr, Riggs & Ingram, LLC",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Check",
+      "folderId": "1Pccuiv4rrWqZNLvFRPbQCZsRs2GT3I2K",
+      "fullPath": "/Root/Check",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Chris Purchases",
+      "folderId": "1dNMXXGnEhSsMc0fDuH5MNIH79jjHhoV3",
+      "fullPath": "/Root/Chris Purchases",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Curtis Environmental Services",
+      "folderId": "17Cg-0QvAJWp_0s4w0U3q2GDg9ACJlIsu",
+      "fullPath": "/Root/Curtis Environmental Services",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Darria Bonner",
+      "folderId": "1wDCWQSNxfM5qbF87NHyyoimXiDUyiEJX",
+      "fullPath": "/Root/Darria Bonner",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "DEQ Louisiana",
+      "folderId": "1ltN1UV5lSconBxGoRNa3azIEI5BFBCBQ",
+      "fullPath": "/Root/DEQ Louisiana",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Drain Surgeon",
+      "folderId": "1CnT3ZbJgmeS198yPvWvTWAS4GAZ9aUar",
+      "fullPath": "/Root/Drain Surgeon",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Draw Requests",
+      "folderId": "1ATnl1M6GoQ1OqQosuYsnsKte-vqKsJuA",
+      "fullPath": "/Root/Draw Requests",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Enterprise Aquatics LLC DBA Louisiana Pond",
+      "folderId": "1NzCMkznVd53sPRD-jA44OzUS4hhGUtGC",
+      "fullPath": "/Root/Enterprise Aquatics LLC DBA Louisiana Pond",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Fairmont Insurance",
+      "folderId": "1RRYBVYyVd0iaL7dzn77AJQXRENIAuZ9L",
+      "fullPath": "/Root/Fairmont Insurance",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Fast Sign",
+      "folderId": "1CkW-SyyVrf6UJs_n8YQEuIrPARUyWpgs",
+      "fullPath": "/Root/Fast Sign",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "George Pender Jr",
+      "folderId": "1fWDHysHMSJpaTI60s8hH-dTEEyWgJZV3",
+      "fullPath": "/Root/George Pender Jr",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1IIpoyh-LionliQHU_1L9xYsk5LxIaS2B",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "GSA",
+      "folderId": "1ZcoMgii7-FnzX-ipVF3GyBL52thTf2M_",
+      "fullPath": "/Root/GSA",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Herring Gas Company",
+      "folderId": "1wKvqKrbzVHa9MrvHvsS_eCjWbHaNhTcp",
+      "fullPath": "/Root/Herring Gas Company",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1KFEBnZCRMOuF1UNdTqjSwv6t62uaehdW",
+      "fullPath": "/Root/Home Depot",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "KBarber Enterprises LLC",
+      "folderId": "11-BwoxTXF2oO6aP-hpl5Tg5hLwtc_ZD3",
+      "fullPath": "/Root/KBarber Enterprises LLC",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "LA Sec of State",
+      "folderId": "1Lmg8bOz6tTK1-kBMjS4AVI_BB7jJEsUe",
+      "fullPath": "/Root/LA Sec of State",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "LDEQ",
+      "folderId": "12zSkKLoZX_mcL_cvyFytphp8RcMgDe8J",
+      "fullPath": "/Root/LDEQ",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Legacy Construction",
+      "folderId": "134UdKPquEhhvPvxFfOXxm2q4iDdsHG37",
+      "fullPath": "/Root/Legacy Construction",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Legacy Construction And Design LLC",
+      "folderId": "1GLOaO4d-0b9ade4VhSKFc9lFGlOYkUCI",
+      "fullPath": "/Root/Legacy Construction And Design LLC",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Louisiana Department of Health",
+      "folderId": "1gKnsWMvu0f3ep9h9NG9G3NgrltF4ZF52",
+      "fullPath": "/Root/Louisiana Department of Health",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Lynnard Bell",
+      "folderId": "16US0vCvH0COBjjxGK-feZ2_1vWSFb39l",
+      "fullPath": "/Root/Lynnard Bell",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Metron Sustainable",
+      "folderId": "1Ljf5lg6Qjy918UG1yIugQgwhNsxeu5r8",
+      "fullPath": "/Root/Metron Sustainable",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "MH Village",
+      "folderId": "1HCaTdDOMl_q3pjVJnB79AhXb_KMQp4MY",
+      "fullPath": "/Root/MH Village",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Michael Diaz",
+      "folderId": "1BnpOhzlzYtSTjnp-ZlfKUaBPY3n__X2S",
+      "fullPath": "/Root/Michael Diaz",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Miscellaneous",
+      "folderId": "1VIhFyb96D4_1SLy-IbLR5byJ9z_sXPIB",
+      "fullPath": "/Root/Miscellaneous",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "OBED",
+      "folderId": "16Rf2tt_yffoNwkvBrHorwt7D_uplty7M",
+      "fullPath": "/Root/OBED",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "PARISH Electrical SOlution",
+      "folderId": "11ab9xA6ToUv3C8SwE33Mng7O_OTINyYU",
+      "fullPath": "/Root/PARISH Electrical SOlution",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Rubia Murillo",
+      "folderId": "1AbVnfcYpi1qYFcC6WEJuXl3Vz7ksgtlC",
+      "fullPath": "/Root/Rubia Murillo",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Showmojo",
+      "folderId": "1elg-e9Uqq5oZvGPyH46Oqs4fSbZfzsBG",
+      "fullPath": "/Root/Showmojo",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Singletary's Tree Services",
+      "folderId": "1ZYuoGpjxpkXGqC7rgpBgxq_NfHSD09cV",
+      "fullPath": "/Root/Singletary's Tree Services",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Speed read (submetering)",
+      "folderId": "1muBeotpV4_9przIaUeIWEmDCLBBwp-Mf",
+      "fullPath": "/Root/Speed read (submetering)",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "St.Tammany",
+      "folderId": "1QGh1X1D-P9CTsnesDYL3P2x-VDW3OZWr",
+      "fullPath": "/Root/St.Tammany",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "State of Louisiana",
+      "folderId": "1apcNATZHfzOkjuxM6HlTPTMycgd20a7I",
+      "fullPath": "/Root/State of Louisiana",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Stylecrest",
+      "folderId": "1tOe9VidhobVVxPEmzVX0jUhXjASlE0Pz",
+      "fullPath": "/Root/Stylecrest",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Terracon",
+      "folderId": "1w1LuqFSogSql3rNi3IxFoWOr64A06BsX",
+      "fullPath": "/Root/Terracon",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "The Home Depot",
+      "folderId": "1BJIDFpQcfohjApMLopBEvcPtn33UVI9K",
+      "fullPath": "/Root/The Home Depot",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Tonya Miller",
+      "folderId": "1-KmKbuDERbj9uYwYjjr1VZTpOJ5CGTNh",
+      "fullPath": "/Root/Tonya Miller",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "Traffic Safety Store",
+      "folderId": "131bjkPM6BjXWjCFdYNimSpA8hEcVGaWS",
+      "fullPath": "/Root/Traffic Safety Store",
+      "community": "Shady Pines MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "18_1j74uQPV32LG5Np8FhCZeS-LavChs3",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1ffElGhUz8mhmBGC-lynoDEl6xQu4KMvI",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "1.Utility Vendors - Oakview",
+      "folderId": "1bVKSK2n2LrBoDPfkTV6pT2PsGrdkakto",
+      "fullPath": "/Root/1.Utility Vendors - Oakview",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "2. Lucky Communities LLC",
+      "folderId": "16SKz_i4Lp9EZWnbbG47qTPAxnWUzqND1",
+      "fullPath": "/Root/2. Lucky Communities LLC",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Affidavit of Publication",
+      "folderId": "18__KTaAOAQLgQXy7FjQI_M3IZmaukUKY",
+      "fullPath": "/Root/Affidavit of Publication",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Asphalt Paving",
+      "folderId": "16PRvmyZv4uP55A0E3F3LCOPnDV3wqIyk",
+      "fullPath": "/Root/Asphalt Paving",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "AWS( American Wastewater System)",
+      "folderId": "1khfIG72zs3uRKd7Rz65gFbE1Sz1aKD8Q",
+      "fullPath": "/Root/AWS( American Wastewater System)",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "B&B Tree Service_Oakview_02.28.2025",
+      "folderId": "1pMFzNCOEH5jEjJMKDLLSAeVoQbftL_5A",
+      "fullPath": "/Root/B&B Tree Service_Oakview_02.28.2025",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Bantaa, LLC",
+      "folderId": "1504Jmf2zOMsQIWBiG-rn9j0rP6gjbud0",
+      "fullPath": "/Root/Bantaa, LLC",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "BLEVINS INC",
+      "folderId": "1AICeiEIiz5BLix_94SpN7-bonuIDHvbd",
+      "fullPath": "/Root/BLEVINS INC",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "CAPEX",
+      "folderId": "1TOz0udAuGN5S1a4JBSObi2yZxDkshvpK",
+      "fullPath": "/Root/CAPEX",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Carr, Riggs & Ingram, LLC",
+      "folderId": "1Sc38Wr_JyhUQXwDXj_89ZOCpmPBdcUsf",
+      "fullPath": "/Root/Carr, Riggs & Ingram, LLC",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Checks",
+      "folderId": "167ftLy_Q4iGp03UXYbAqj8T1ubKI2-D4",
+      "fullPath": "/Root/Checks",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Chris Purchases",
+      "folderId": "1VhNWB1esRFwIAgurC9vcuhv-Zs7TArQI",
+      "fullPath": "/Root/Chris Purchases",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Cox Business",
+      "folderId": "11IKhEIun44gMvshcEk1lE6mWODBFlx8n",
+      "fullPath": "/Root/Cox Business",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Crawford Fire & Safety",
+      "folderId": "11lQcLKU3iB_aTfOxP74R4u_t7AHJ3RXx",
+      "fullPath": "/Root/Crawford Fire & Safety",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Culverts",
+      "folderId": "1aK48Ld01pDxebK-YzogB2-Py_6HCO0Jx",
+      "fullPath": "/Root/Culverts",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Curtis Environment",
+      "folderId": "1XmE3uJv3ciM5HnEXHlP7r2DHwxYG43JE",
+      "fullPath": "/Root/Curtis Environment",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "DEQ Louisiana",
+      "folderId": "1Q3wJp7yxqu8fwVHS6yVhxCB0M7edCD6y",
+      "fullPath": "/Root/DEQ Louisiana",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Electronic Protection Services",
+      "folderId": "1zpBvQxZOTucjUaia0rDqqxhDMIzFlVRN",
+      "fullPath": "/Root/Electronic Protection Services",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Fairmont Insurance",
+      "folderId": "1A1fkxabhFFfxmfplW4og3lWcl3FEyN-F",
+      "fullPath": "/Root/Fairmont Insurance",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Fairmont Insurance Brokers LTD",
+      "folderId": "1sSlMewc8RqFuPJe6Xfxs0m4dZSGWZJoP",
+      "fullPath": "/Root/Fairmont Insurance Brokers LTD",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Fastsign",
+      "folderId": "1q8NFMjSt0LDH0LHstxdvC-iawbgrVY8W",
+      "fullPath": "/Root/Fastsign",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Gas Reimbursement",
+      "folderId": "12TgBv7WCYmOW_14PwIR1VEkq2EpNzCpV",
+      "fullPath": "/Root/Gas Reimbursement",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Giron Consulting LLC",
+      "folderId": "1f3FEycSb_rzrcsvptrAM3O_2xXMhat15",
+      "fullPath": "/Root/Giron Consulting LLC",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1MC_uXUXyHaQGrZ51n51NLjDHPf-pTFtH",
+      "fullPath": "/Root/Home Depot",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Jermanius Francis",
+      "folderId": "1qsxrIMEzffvXi0qW_PFfp_KvWl-O_pcb",
+      "fullPath": "/Root/Jermanius Francis",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "JFS",
+      "folderId": "1s3noFe2V7nfYl-dfnnm0WVYaqqw88mwB",
+      "fullPath": "/Root/JFS",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Jones Walker",
+      "folderId": "1A1fU1HuqGaQ0oxDbEsjLdJbJlcjz1Vlp",
+      "fullPath": "/Root/Jones Walker",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Joseph Broussard",
+      "folderId": "1WwuJRgxJwx3hbJZfqz15lXnCBx6kbkJW",
+      "fullPath": "/Root/Joseph Broussard",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "LA Secretary of State",
+      "folderId": "1MWfrnb2y0G1lwRPNQTkcZXdmxB0dPTEI",
+      "fullPath": "/Root/LA Secretary of State",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Lafayette Parish Waterworks",
+      "folderId": "1JtUZl4uSX704o2O4J3ZEayzVzGFwXCZB",
+      "fullPath": "/Root/Lafayette Parish Waterworks",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "LDEQ",
+      "folderId": "13hhESvvEaTlOfNM1tEYsjDBwZRV8RiCp",
+      "fullPath": "/Root/LDEQ",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Legacy Construction Reimbursement",
+      "folderId": "1vBx7r7s1ASDYO-lzgmwWR5Bd5bMZmz4F",
+      "fullPath": "/Root/Legacy Construction Reimbursement",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Let's Get It Done Lawn Care LLC",
+      "folderId": "1deeGnPsxGFq5Vsld7n6piNeozpRlBinS",
+      "fullPath": "/Root/Let's Get It Done Lawn Care LLC",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Louisiana Department of Revenue",
+      "folderId": "1BwEFnuYEPt0XiUjceiS0OyOtjdBdy98k",
+      "fullPath": "/Root/Louisiana Department of Revenue",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Lowe's",
+      "folderId": "10ehMy4zY4P9Pa1sz-ODHKVw19X5z9oPc",
+      "fullPath": "/Root/Lowe's",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Lynnard Bell Sr.",
+      "folderId": "1aDB9a5dApmnUq4NH1dlMtp5eSMldOfbq",
+      "fullPath": "/Root/Lynnard Bell Sr.",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Mediaacadien",
+      "folderId": "1fIiYJXyIR1E2DMGdeINugOCTUwl94iLO",
+      "fullPath": "/Root/Mediaacadien",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "MONARCH",
+      "folderId": "1K2_7dfYlPyue3jG45PYdE3w8iCKojgS2",
+      "fullPath": "/Root/MONARCH",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Next Plumbing LLC",
+      "folderId": "1V16W3Xl1tQ7YYVC09RDxe9XePpHRumUB",
+      "fullPath": "/Root/Next Plumbing LLC",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Oge's Waste Management",
+      "folderId": "10iMH8SFdezvW2_bbzkPxpfkgfbD1TWhj",
+      "fullPath": "/Root/Oge's Waste Management",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Parish Electrical Solutions",
+      "folderId": "1tCQiOCsaiQ_-HaF073dzMpsf-sMMhZ7O",
+      "fullPath": "/Root/Parish Electrical Solutions",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Paylease.com",
+      "folderId": "1ipUCUyCa1PjbkQVO6gI2Mw1wHHvS5xmd",
+      "fullPath": "/Root/Paylease.com",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "pelican Waste and Debris",
+      "folderId": "1HnM90r48GdWZ8AasnDuUuj-TuYwL4psJ",
+      "fullPath": "/Root/pelican Waste and Debris",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Property Tax",
+      "folderId": "1VZIzTcWIUK_cMcbiwlmB5hXi7yDa6N6l",
+      "fullPath": "/Root/Property Tax",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Q4 Distribution 2022",
+      "folderId": "1gjjdXvSgojFh95Z2aqPJlKY4CMheZ336",
+      "fullPath": "/Root/Q4 Distribution 2022",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Rachelle Bernard",
+      "folderId": "130csDNWmhnyGGvHrVty3b3IpRhPr62fq",
+      "fullPath": "/Root/Rachelle Bernard",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Renz & Associates, Inc.",
+      "folderId": "1jrKrPsXaIILlQ7HxnzG7FHUtaexAXcO5",
+      "fullPath": "/Root/Renz & Associates, Inc.",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Republic Services",
+      "folderId": "1km1sLofvXxpU2qZu_X_E2KAY_UckQgQW",
+      "fullPath": "/Root/Republic Services",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Roman Bernard",
+      "folderId": "1n_QxzFdYRGYQ4EjMn6uR0oD-QKiIr9Ca",
+      "fullPath": "/Root/Roman Bernard",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Samantha Journet",
+      "folderId": "1ZCjYw6Cab8JhVeBFYCfRNV1FzFQaRo_o",
+      "fullPath": "/Root/Samantha Journet",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Schewing Electrical",
+      "folderId": "1MH7uLogDW96LpMxN19tu5Ex4j9z2iW4w",
+      "fullPath": "/Root/Schewing Electrical",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Schwing Electric",
+      "folderId": "1623UOpe2brLG8BKfYHIjkNsMJcZMQAsL",
+      "fullPath": "/Root/Schwing Electric",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Scott\u2019s Tree Service",
+      "folderId": "1xmgFa-OdPHyzERnpckJTARYU-oa0PpjM",
+      "fullPath": "/Root/Scott\u2019s Tree Service",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "States of Louisiana",
+      "folderId": "1Vfvj1HOVnDkR8rIkgFiclgUKhLiafnsP",
+      "fullPath": "/Root/States of Louisiana",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Terry reimbursement",
+      "folderId": "1_tCW3NBmEsuq893MDgAvTYDXYgNFQ1jP",
+      "fullPath": "/Root/Terry reimbursement",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Tonya Miller",
+      "folderId": "1ETbVzFz8XBuJFhxFGFg1EJD6b9xLbPQ6",
+      "fullPath": "/Root/Tonya Miller",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Verkada",
+      "folderId": "1ey2QFAcRE1c5s8syBdzkFRjFoiaUuvk4",
+      "fullPath": "/Root/Verkada",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "WIFI Printer",
+      "folderId": "1qI5CpGvOaOMca6ZMeerhlgHZqLi45mLj",
+      "fullPath": "/Root/WIFI Printer",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "Xavier Leopaul",
+      "folderId": "1LaoqNjqzu40J92PMa0k6f2GrFYFoiMzP",
+      "fullPath": "/Root/Xavier Leopaul",
+      "community": "Oakview MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1xMu6yoaPa0rsClNvYfhlB3WN2XDvalgE",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1E2mqBJfUdjL9UsalY6ekGQ6a04QRbkTI",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "1.Lucky Communities LLC",
+      "folderId": "1Xj1O_e8UqGoMY22fV3gWHQKS3Cg60fzc",
+      "fullPath": "/Root/1.Lucky Communities LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "2.Utility Invoices - Country Estate",
+      "folderId": "1XjQ-NA7NC0ImH7sL-AqLzjMCFk7iZy_Z",
+      "fullPath": "/Root/2.Utility Invoices - Country Estate",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "A C Tanks,INC",
+      "folderId": "1jmOYELx7zWGnTw0mw2oJvo-tUyuQD_at",
+      "fullPath": "/Root/A C Tanks,INC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Absolute Service LLC",
+      "folderId": "1s6DK2x0R9XLCKnLfxUZ9WLWwQEYzS3ms",
+      "fullPath": "/Root/Absolute Service LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Alabama Department of Revenue",
+      "folderId": "1EO9Ml8v_P4dbw-ubnokSv-UlwgScXmM4",
+      "fullPath": "/Root/Alabama Department of Revenue",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Alabama Power",
+      "folderId": "1dFyYazvYNkbMZDFGHPTBrPLkVYwcDh8e",
+      "fullPath": "/Root/Alabama Power",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Bantaa, LLC",
+      "folderId": "13jvT0iNPubp3WO_0MpqEFoAmQ4t7T--x",
+      "fullPath": "/Root/Bantaa, LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Battiste Tree Service, LLC",
+      "folderId": "1XkJGfYW9t0fvhLy2E7uOLYV0vQlTb3T0",
+      "fullPath": "/Root/Battiste Tree Service, LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Broche Hallins",
+      "folderId": "1BEWRuuaiaDwjul9aGp-N9zA9xP-JXjtq",
+      "fullPath": "/Root/Broche Hallins",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Call News",
+      "folderId": "1JeJWMaKNvZ3EJ179o0p4OTS_qaRLOstz",
+      "fullPath": "/Root/Call News",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Capex",
+      "folderId": "1zB6ZaD31cIOK7Z027jdY1whb2R1Q8MdU",
+      "fullPath": "/Root/Capex",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Carr, Riggs & Ingram, LLC Untitled folder",
+      "folderId": "1DkAHGMiZ2pmgnI5S3PCn0sNwOjWOs-n_",
+      "fullPath": "/Root/Carr, Riggs & Ingram, LLC Untitled folder",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "CE POH Registration Receipts",
+      "folderId": "18ARvkii1kKuBPNjMeInDGMvMToES_dDI",
+      "fullPath": "/Root/CE POH Registration Receipts",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Christopher's Landscaping",
+      "folderId": "1B9c45YiZPUNWFSEfQbbrIKvjJ7biym1S",
+      "fullPath": "/Root/Christopher's Landscaping",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Clarkes Construction",
+      "folderId": "1hKBUjUxZvBaSzUhlQoNjGUi7BkEKR-DI",
+      "fullPath": "/Root/Clarkes Construction",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Clayton",
+      "folderId": "15SyLwBW4SsYMoD3ytQCG6hOT0yzyxYuN",
+      "fullPath": "/Root/Clayton",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "CMH Manufacturing, Inc",
+      "folderId": "18O-jYJeKyS_ea6j6hOfzvb0YBg0ERMa7",
+      "fullPath": "/Root/CMH Manufacturing, Inc",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Coastal Asphalt",
+      "folderId": "1R5yII9u-rKV5OZ87-TjMqFW9ljY8Ndgp",
+      "fullPath": "/Root/Coastal Asphalt",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Country Estates Privilege Tax",
+      "folderId": "1nQDXJXsF7MFFGQcXcwBwNAFQD_jbmYqi",
+      "fullPath": "/Root/Country Estates Privilege Tax",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Drain Busters Plumbing",
+      "folderId": "11OSe0118IejlR4tpNhVzKE5Yl00N6jeF",
+      "fullPath": "/Root/Drain Busters Plumbing",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Erica Morgan",
+      "folderId": "1mAbn-31oTxxx15clx7ot0XdBq6OCJfTu",
+      "fullPath": "/Root/Erica Morgan",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "EZ-Flow Plumbing and Drain Cleaning",
+      "folderId": "1_l0gzi-lxAiMB0IYoohW5SOBuaYH5OmM",
+      "fullPath": "/Root/EZ-Flow Plumbing and Drain Cleaning",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "FAIRMONT INSURANCE BROKERS",
+      "folderId": "1v_CCES1ORcFoTa-Uf1hKVqCSfmadG4NZ",
+      "fullPath": "/Root/FAIRMONT INSURANCE BROKERS",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "FASTSIGNS",
+      "folderId": "1DWCjRZhCbNpyM00t5Jk6mBRQz51DCdnC",
+      "fullPath": "/Root/FASTSIGNS",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Giron Consulting LLC",
+      "folderId": "1lVc0QbPK-SMkhDMe-8J9-CR-11a3YSM5",
+      "fullPath": "/Root/Giron Consulting LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Hansen Super Techs LLC",
+      "folderId": "1S4TgFwvlrq-XnSytgbcDOYR6Dj1Px-PE",
+      "fullPath": "/Root/Hansen Super Techs LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Hollins Painting & Construction",
+      "folderId": "1Dj9bI9wvBeTKfYETmhX-Xpj8o4nRFkkS",
+      "fullPath": "/Root/Hollins Painting & Construction",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1AnVOjMwlKs2MsUdBQnKf_L9r4XDNVI1h",
+      "fullPath": "/Root/Home Depot",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "J. William Parkes, P.E",
+      "folderId": "1Hoo2VZTGwFpGVnKvWfejV5D0Ow9HIUGc",
+      "fullPath": "/Root/J. William Parkes, P.E",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Jacob Carlton",
+      "folderId": "1NTaaBVI582KVZL3Yk7eP_JXXEaQmFrqA",
+      "fullPath": "/Root/Jacob Carlton",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "John Parker Engagement letter",
+      "folderId": "1HENgXleLXwDPgb8gXGk4vBc-uRgZV2fy",
+      "fullPath": "/Root/John Parker Engagement letter",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "John Robert",
+      "folderId": "1CTXr0WX71vf7dHVPUCp9ncVMytCVPrLw",
+      "fullPath": "/Root/John Robert",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Joseph Simmon",
+      "folderId": "1J1wxcrVaJXmv88ZVnnSBjQ888kZGp66s",
+      "fullPath": "/Root/Joseph Simmon",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Judy Simmon",
+      "folderId": "1VOmBzt-Aul3inn6EfRkwefK9foqYMSxQ",
+      "fullPath": "/Root/Judy Simmon",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Kaiser Supply",
+      "folderId": "1Z0a_KwsPoDAIui4ERYlmhs3f3Bdf2J67",
+      "fullPath": "/Root/Kaiser Supply",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Keith Yates",
+      "folderId": "1ed7cMKx-izkbEHevYgIMYvnkvMwYewfg",
+      "fullPath": "/Root/Keith Yates",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Kolbi Wright",
+      "folderId": "1Dtj4IYuWS7LMN04wEQjyln_YSIcd94oB",
+      "fullPath": "/Root/Kolbi Wright",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Legacy Construction",
+      "folderId": "1pUdj70vGg8xtW2Z4ZnmJxroG-15_fvSn",
+      "fullPath": "/Root/Legacy Construction",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Little Hauling & Construction",
+      "folderId": "1SjxMRvo_Fn_FkWIBLe9fpbmV5ID6K9Ce",
+      "fullPath": "/Root/Little Hauling & Construction",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Lowe's",
+      "folderId": "162mRtmLR_EfF00sR8Kb-TE3_hkMzhChk",
+      "fullPath": "/Root/Lowe's",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Lynnard Bell Sr.",
+      "folderId": "1dpQYTZjdGrURu1BgAo0V3KztA4_hb2Oa",
+      "fullPath": "/Root/Lynnard Bell Sr.",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Magnolia South Contracting, LLC",
+      "folderId": "1GVBulDAoH0RMd3FjLhZbKSc_NJLfRyRi",
+      "fullPath": "/Root/Magnolia South Contracting, LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Magnum Mobile Home Movers",
+      "folderId": "19d9_MxzROfV5w8MXiSUqFUZG1MLZMeEd",
+      "fullPath": "/Root/Magnum Mobile Home Movers",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Mobile County Water Authority",
+      "folderId": "1XdReaDFDdStmvkvxbxOLimGNAcIhf0Qx",
+      "fullPath": "/Root/Mobile County Water Authority",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Monster Mulching",
+      "folderId": "1rboofFnDyQCCxtnussRkqrwRAMx_r8kD",
+      "fullPath": "/Root/Monster Mulching",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Nicole Simon",
+      "folderId": "1EPrWAvlDwlwBNAVWOme4U7DZnmFoftkg",
+      "fullPath": "/Root/Nicole Simon",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "One call plumbing service LLC",
+      "folderId": "1N7pgTVViiMC_Sx6ZS1uzRI3Tl9Yelt3M",
+      "fullPath": "/Root/One call plumbing service LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Parker Law Office",
+      "folderId": "1WJNJMMNv7AN_z2xA8p8VoevRWbX9cXjA",
+      "fullPath": "/Root/Parker Law Office",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Precision Paving LLC",
+      "folderId": "1rrYtbFlYwJsrpf-OFS94RoBiWptShnaH",
+      "fullPath": "/Root/Precision Paving LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Precision Services LLC",
+      "folderId": "1-1nYTWIqWi0ypnxCqqg0osPsr-8MCnvM",
+      "fullPath": "/Root/Precision Services LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "ProSheild Pest and Termite",
+      "folderId": "1bGd81g_mkEIefR5NUwYlYKHs3GHFJz48",
+      "fullPath": "/Root/ProSheild Pest and Termite",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Quality Septic LLC",
+      "folderId": "1zaa2O8Q-fdYhQk5Z-SaFisw3EParckAM",
+      "fullPath": "/Root/Quality Septic LLC",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Roto Rooter Plumbing & Water Cleanup",
+      "folderId": "1VLfzlaTtCnWwnKxji6gGrEmA7jPA05n6",
+      "fullPath": "/Root/Roto Rooter Plumbing & Water Cleanup",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Secretary of State",
+      "folderId": "1_EN_tglRMLJI_wWWHXTC8JSKLk8R97e4",
+      "fullPath": "/Root/Secretary of State",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Septic Tank Installation",
+      "folderId": "1cfBxzaH-gi1414rkhkird0I-DGWsE95i",
+      "fullPath": "/Root/Septic Tank Installation",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Servis First Bank",
+      "folderId": "1DwWbcKqlly1vGiRLIA6Qu9bSbY7l5eUH",
+      "fullPath": "/Root/Servis First Bank",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Shawn Rouse",
+      "folderId": "181v0NYHMrQi6DHpPahcsxncflIPXlv9w",
+      "fullPath": "/Root/Shawn Rouse",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Shoals Tree Service",
+      "folderId": "1jl54dzHNQ9ObCzcjiuZdWuaJqoOwzALF",
+      "fullPath": "/Root/Shoals Tree Service",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Southern Energy Homes",
+      "folderId": "1dx44ralKwHguAunwx1ataNNh2JYZo3Rd",
+      "fullPath": "/Root/Southern Energy Homes",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Southern Energy homes Inc",
+      "folderId": "11nMN-QSoRiuQIcWBccwgk1eX5F3uG6wD",
+      "fullPath": "/Root/Southern Energy homes Inc",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Tammy Gilbert",
+      "folderId": "1-kA9gKkWJRNp8jt53YirxM4ckzOLLWcg",
+      "fullPath": "/Root/Tammy Gilbert",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Track 1099",
+      "folderId": "1yX_zHxfKTGz6j6evb9MJZwR1PoQ_q7UH",
+      "fullPath": "/Root/Track 1099",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Trevor- Grass Cutting",
+      "folderId": "1SuoEgEHE3yGb2WLt0QEKJGKl18HbKj3W",
+      "fullPath": "/Root/Trevor- Grass Cutting",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Walley Plumbing Company",
+      "folderId": "1PdfcjU90kXYmGy3C7Bv_bsgCFBG7f6Z2",
+      "fullPath": "/Root/Walley Plumbing Company",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "Warren Tree Services",
+      "folderId": "1gYljv9VqUgEGjqeMo8dJAztiLrg9gMcY",
+      "fullPath": "/Root/Warren Tree Services",
+      "community": "Country Estates MHP"
+    },
+    {
+      "folderName": "01 | Models",
+      "folderId": "1ovjH3UUubH3fU3EW0TPdYtxHhs4u90Z8",
+      "fullPath": "/Root/01 | Models",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "02 | DD & Seller Marketing",
+      "folderId": "1ok-AoiU2mEFwTI2LtYRUl_deIRTDIur_",
+      "fullPath": "/Root/02 | DD & Seller Marketing",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "03 | PSA & LOI, Amendments, Legal Notices",
+      "folderId": "1os_P4RyahPJM-j2XeAiTr9Xw9Qlm1rYc",
+      "fullPath": "/Root/03 | PSA & LOI, Amendments, Legal Notices",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "04 | Loans & Banking",
+      "folderId": "1oa5__yX47NiC1o4D6gkIdeNFTpOu-4iM",
+      "fullPath": "/Root/04 | Loans & Banking",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "05 | Investors",
+      "folderId": "1p7zvIiwJxbzclGGDyBs_lRG1_EOq-vSZ",
+      "fullPath": "/Root/05 | Investors",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "06 | Marketing & Presentations",
+      "folderId": "1oaFnvlBmfNfpz6J_OhHVWse3-Zmwd6RN",
+      "fullPath": "/Root/06 | Marketing & Presentations",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "07 | Comps & Market Data, Research",
+      "folderId": "1pF8eNws7LyIlqGgyzAAjzZUbM3QQ-Z37",
+      "fullPath": "/Root/07 | Comps & Market Data, Research",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "08 | Zoning & Land Use",
+      "folderId": "1p5_R3qf28OpT-x645lzdUoU-_QVB_UKa",
+      "fullPath": "/Root/08 | Zoning & Land Use",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "09 | Permits & Licenses",
+      "folderId": "1pRGzl4hGIcJscMQNN3JkPXaw2MWa_FM_",
+      "fullPath": "/Root/09 | Permits & Licenses",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "10 | Photos & Videos",
+      "folderId": "1pXH7_YBZcKRQo4LJ8sl6pgYGe57ar68g",
+      "fullPath": "/Root/10 | Photos & Videos",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "11   Legal",
+      "folderId": "1oR3yBWGEkHXMfOahc8ZGuIXnsNM6tk8u",
+      "fullPath": "/Root/11   Legal",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "12   Environmental",
+      "folderId": "1oMqHPBYAmFkxVnX8293c5jz_ofkFMbwN",
+      "fullPath": "/Root/12   Environmental",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "13   Title & Survey",
+      "folderId": "1oTS4LleDSbn-le3dOgukjro5BtjS4nCH",
+      "fullPath": "/Root/13   Title & Survey",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "14   Insurance",
+      "folderId": "1oG3Mob_oMC9m_Gmfx1PKVWsyr7SQBdzo",
+      "fullPath": "/Root/14   Insurance",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "15   Closings",
+      "folderId": "1oCJzxTPqEcouYyCYycKnD-Zv1l675oQx",
+      "fullPath": "/Root/15   Closings",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "16   Taxes & Accounting",
+      "folderId": "1pvsfquJKK_kz_Fur0o4yufhqN49do9ld",
+      "fullPath": "/Root/16   Taxes & Accounting",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "17   Financials & Budgets",
+      "folderId": "1pjd9Q9VXLJBzRp9gHAMA6SniJUVrMqQz",
+      "fullPath": "/Root/17   Financials & Budgets",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "18   Vendors",
+      "folderId": "1pUAzILrZfyjAjqE_DzQ427rcpghFjsjW",
+      "fullPath": "/Root/18   Vendors",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "19   Incidents",
+      "folderId": "1pfBX0lLyF1h9rAN5LKJIFC194-9hp6R5",
+      "fullPath": "/Root/19   Incidents",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "20   Property Management",
+      "folderId": "1p4fzWTElgc8kPccvSXUkpKacjKfdJSR5",
+      "fullPath": "/Root/20   Property Management",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "21   Asset Management",
+      "folderId": "1pF_rb2-edhsJwZORyQp2ioQXqZWGQ79Z",
+      "fullPath": "/Root/21   Asset Management",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "22   Development Plans, Design",
+      "folderId": "1__Qm7aji8FN7PCfN2KAAxzsUhl0Sz2iV",
+      "fullPath": "/Root/22   Development Plans, Design",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "23   Incentives, Subsidies, & Benefits",
+      "folderId": "1oyhsfH7b8z6QK6Vrv97--bGk_JmeKFZl",
+      "fullPath": "/Root/23   Incentives, Subsidies, & Benefits",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "24   Press & Awards",
+      "folderId": "1pjfkYqfdHjbMzFw8SD8NZ-G_l8_6gxzf",
+      "fullPath": "/Root/24   Press & Awards",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "25   Home Sales",
+      "folderId": "1xWJvdZUVWvWbAue66bwv4TAopaGuU2Yh",
+      "fullPath": "/Root/25   Home Sales",
+      "community": "Steele Creek MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1WGtPFOkgdnmK0D4yRhq_VXpZhy6LyrcG",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1kblgNhVSr7CU9DhVV0aOg8uPLcvxjjBn",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities LLC",
+      "folderId": "1f9phoGjnirjXgvH33FSkIUBXPcO3_jVV",
+      "fullPath": "/Root/1. Lucky Communities LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "2.Utility Invoices - Chef One",
+      "folderId": "1fC-_rwHlAQh7CoZi1jdLPsdy5AbJjYFV",
+      "fullPath": "/Root/2.Utility Invoices - Chef One",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "A1 Drain Cleaners",
+      "folderId": "1ZhwfFcU1fTB6gcoYi1IGJkmdL5Nr748-",
+      "fullPath": "/Root/A1 Drain Cleaners",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Alex All Star",
+      "folderId": "1PfWgJe8ZindVekfTaqNwe5stm3Awim4n",
+      "fullPath": "/Root/Alex All Star",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Alexis Avila Lizarde",
+      "folderId": "1hvwXJrZHY4NpltsLrOmKFPBg0YsG0PWE",
+      "fullPath": "/Root/Alexis Avila Lizarde",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Alexis Perez",
+      "folderId": "1lEf3wUBs7_x-tmLublfFklRtBb8BiO7d",
+      "fullPath": "/Root/Alexis Perez",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Asphalt Services",
+      "folderId": "1_e5QNGLUbIFMJdVJckY4TJ6tuwHvFxkp",
+      "fullPath": "/Root/Asphalt Services",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Asphalt services LLC",
+      "folderId": "1qzpGeMWprqkq0btukbzGFXRMUQugJlYz",
+      "fullPath": "/Root/Asphalt services LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "August Miller",
+      "folderId": "1IroiubLMAxH1SSJ5za016mz6XnLOYRvm",
+      "fullPath": "/Root/August Miller",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "AZR Solutions",
+      "folderId": "1BuYjlsjTyyWCSZLqJCrvoLTgdE8av_Ky",
+      "fullPath": "/Root/AZR Solutions",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "1TZKGaqtBXO6_2pOZKc_j5ufoziIBH3fO",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Bryan K. Pierre",
+      "folderId": "180v0FtETfPliT5x731FHlOU5vnDHqt6g",
+      "fullPath": "/Root/Bryan K. Pierre",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Carr, Riggs & Ingram, LLC",
+      "folderId": "1Q5OiofizbmgPpXfLGFLj3dRDFVK7jkv4",
+      "fullPath": "/Root/Carr, Riggs & Ingram, LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Carruth Brothers",
+      "folderId": "1tXoEriGShJgzNaER1mcEg8iM6DF6ZQX0",
+      "fullPath": "/Root/Carruth Brothers",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Chris Gas Reimbursement-20231129T140213Z-001",
+      "folderId": "1GlJHXmF1rAHPilwnbBi0ocs8b2VwEKCl",
+      "fullPath": "/Root/Chris Gas Reimbursement-20231129T140213Z-001",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Chris' Paving, LLC",
+      "folderId": "1mOJWEuyH-jjDxC4klj0h_2nApMZ16OoU",
+      "fullPath": "/Root/Chris' Paving, LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "1gfpaYnAUzlDDJs1BfQQ3gMQxz1h9nzUS",
+      "fullPath": "/Root/CSC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "CSM",
+      "folderId": "1KXJymtW8bn52EXBOzNkAjVU1ss7Cewuj",
+      "fullPath": "/Root/CSM",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Drain Buster",
+      "folderId": "1YVvzj1l-wg9Num_jf4-pCfvywT1JOy9r",
+      "fullPath": "/Root/Drain Buster",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Entergy New Orleans, LLC",
+      "folderId": "1adpkHcCpH81-mbReKLTeuYkjYMJm7X_4",
+      "fullPath": "/Root/Entergy New Orleans, LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "First City Court of Orleans",
+      "folderId": "1duGlt2eyBZfkrLMR27NG4WMM0NfPik6s",
+      "fullPath": "/Root/First City Court of Orleans",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "George Pender",
+      "folderId": "1kgotqUkEXvg5FOqgeO8Bif5R7FvS-fvr",
+      "fullPath": "/Root/George Pender",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Giron Consulting, LLC",
+      "folderId": "1z7T_quMuQ_34UGkMvFnD2nL_qzn9wkNl",
+      "fullPath": "/Root/Giron Consulting, LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Hanks Stump Grinding",
+      "folderId": "1Ge88sCi5ZpZ12N888HoNPaGUf6jq96jn",
+      "fullPath": "/Root/Hanks Stump Grinding",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1sxPt8j_VKaZQb0HOyXDpiQRVpdmGaaN4",
+      "fullPath": "/Root/Home Depot",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Homestore Directs",
+      "folderId": "1kCaLXZA377__pW2Mey0scASyNf-Cqm3F",
+      "fullPath": "/Root/Homestore Directs",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Hub International Limited",
+      "folderId": "1pwjCaCf616B_nEO3vkfv79G20UGlnj4n",
+      "fullPath": "/Root/Hub International Limited",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "JT Capital Advisors",
+      "folderId": "1epq7PvT7UkPPFdAOSyfAMjNDxSN7r2Nk",
+      "fullPath": "/Root/JT Capital Advisors",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Ken Sons Brown",
+      "folderId": "1uHplze0PUe-rfVlow9VZnG94fQm_fGzx",
+      "fullPath": "/Root/Ken Sons Brown",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Legacy Construction and Design LLC",
+      "folderId": "1ypuH6jNIzC9yakvKPdskby_pL587RY5E",
+      "fullPath": "/Root/Legacy Construction and Design LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Louisiana Citizens Insurance",
+      "folderId": "1_R_TLrAWem6wJ691c0-45lw5t8ko-Es3",
+      "fullPath": "/Root/Louisiana Citizens Insurance",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Lynnard Bell",
+      "folderId": "1deryCXSnggT_HoiE7qJOC3-q11EVpGiu",
+      "fullPath": "/Root/Lynnard Bell",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Magic Rooter Services",
+      "folderId": "1K0Hhq24cMUmHEIk5n6yxejd55a7mlfTH",
+      "fullPath": "/Root/Magic Rooter Services",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Mailboxes",
+      "folderId": "1R5sM83gg-m657kbiciBbIxlDm1a9nAyV",
+      "fullPath": "/Root/Mailboxes",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "METRON SUSTAINABLE SERVICES, INC",
+      "folderId": "1TTb3DO_jbJDz0PDUCwn9MFmh47yFnMHB",
+      "fullPath": "/Root/METRON SUSTAINABLE SERVICES, INC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Metron Water submetering",
+      "folderId": "1enY4a9UcnFReHC8R-qwJIR-sZtc_tCNj",
+      "fullPath": "/Root/Metron Water submetering",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "MetronFarnier Service LLC",
+      "folderId": "1JopiwhE97MdFmf_MJR94G8V2jJoaYpN1",
+      "fullPath": "/Root/MetronFarnier Service LLC",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "MH Village",
+      "folderId": "1_e0JtbVdBQxnfVeo-H5zlo3dTYGISoly",
+      "fullPath": "/Root/MH Village",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Michael Diaz",
+      "folderId": "1oOAydxgoGA6LIdMCdMiNqnJzqcI8ho-K",
+      "fullPath": "/Root/Michael Diaz",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Nailan Turner",
+      "folderId": "1HstuclVyqNQQkRDsNdJkcJx5Fpwdm2RC",
+      "fullPath": "/Root/Nailan Turner",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Nola Dirty Work",
+      "folderId": "1ebNLL0znrwWwIg91hQhO2zrSvsKiqlgc",
+      "fullPath": "/Root/Nola Dirty Work",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Property Tax",
+      "folderId": "1v1ZsfuD8zlfJhK2sXpLmfDlXcfbXMVX7",
+      "fullPath": "/Root/Property Tax",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Real Estate Tax",
+      "folderId": "1iOVUsLgDt94M4OVzsrE4bUNlDY33aopS",
+      "fullPath": "/Root/Real Estate Tax",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Red River Bank",
+      "folderId": "17sVsBWGnFYx38P9gGZcsge-2QUK84mHM",
+      "fullPath": "/Root/Red River Bank",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Refricom247",
+      "folderId": "19EIg_hSd89o8yHdMNUZHm3VulHFv-ba9",
+      "fullPath": "/Root/Refricom247",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Renz & Associates, Inc.",
+      "folderId": "1eo4_ZgCxahtIPX6icqgCQYdFd1nmazZo",
+      "fullPath": "/Root/Renz & Associates, Inc.",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Rory Windhorst",
+      "folderId": "19-nJRoJQlfcNb_5SVI92YRHlKpKuHROS",
+      "fullPath": "/Root/Rory Windhorst",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Rubia Murillo",
+      "folderId": "1ePrPlGRIT-XJBj5rcFF8gNg2yqNyFWOu",
+      "fullPath": "/Root/Rubia Murillo",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Sewerage and Water Board of New Orleans",
+      "folderId": "1kULUHEpQu_Vv9en-1rDv-L7r4CRmapNf",
+      "fullPath": "/Root/Sewerage and Water Board of New Orleans",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Spencer Crochett",
+      "folderId": "1afM_k8Pi9NzcGQdsq47uUJmxTssRGkpP",
+      "fullPath": "/Root/Spencer Crochett",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Stump Grinding",
+      "folderId": "1RoHWfRr3kXNOuqAaWXAwHX0b-ec1dcEh",
+      "fullPath": "/Root/Stump Grinding",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Style Crest Inc",
+      "folderId": "1r5ThNSZJ6sTos1C9iOrEpn_uoZtZPNwb",
+      "fullPath": "/Root/Style Crest Inc",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Traffic Safety Store",
+      "folderId": "11Z5mfv2IPW8j741MJP44udstSavIzlnG",
+      "fullPath": "/Root/Traffic Safety Store",
+      "community": "Chef One MHP"
+    },
+    {
+      "folderName": "Robert Vansplinter",
+      "folderId": "1bCdwE2wpjWYFfQET-UvWnG8ZFUfwTt2-",
+      "fullPath": "/Root/ Robert Vansplinter",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1oSzmm-OOXVysNZquHhUoQA1RLu1LiILI",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1q9Gzx21P7HiAtRhjfHEilKPhIcKJ6RVY",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities LLC",
+      "folderId": "1Olii3kRPl5g_BWwKFxdBOx8mS7sEvX2q",
+      "fullPath": "/Root/1. Lucky Communities LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "1D Lawn Services",
+      "folderId": "1InZq4BHqmfzVx4MDqDxJUZQ-q3c0-Kdl",
+      "fullPath": "/Root/1D Lawn Services",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Affordable Tree Services",
+      "folderId": "1LwT99EZIcyXKFNyWJIqbjKqosPBTs8bD",
+      "fullPath": "/Root/Affordable Tree Services",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Alabama Department of Revenue",
+      "folderId": "1liLKtTZn1CxFdaD-FF_MfXWsYqKrDln-",
+      "fullPath": "/Root/Alabama Department of Revenue",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Alvin Wayne Madden",
+      "folderId": "1vpiCkez4yRRuoTfsQ68Sw-wBzQrAr0DM",
+      "fullPath": "/Root/Alvin Wayne Madden",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Amazon",
+      "folderId": "1cYwBFU4bt1--DTDqUanOqRrl9GnwxaKg",
+      "fullPath": "/Root/Amazon",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Amber Handley",
+      "folderId": "13o3ugc3y2nAwzEu3vXbt-wWYSlQCnyKv",
+      "fullPath": "/Root/Amber Handley",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Bantaa, LLC",
+      "folderId": "13t1jDwB4JDaLnMMX3zDpG6XfmRDdAii5",
+      "fullPath": "/Root/Bantaa, LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Barnett Plumbing LLC",
+      "folderId": "1f7RkW2nARp3iIj1qQ5ern4u3fmfelD5J",
+      "fullPath": "/Root/Barnett Plumbing LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Bluff Creek Electric",
+      "folderId": "159LJLcc9wG_yipdOdAom2UO5qDbWs5WP",
+      "fullPath": "/Root/Bluff Creek Electric",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Branyon Electric LLC",
+      "folderId": "1FYsC6StzSGjTP5eXXv-tr72EjYqO3Sxn",
+      "fullPath": "/Root/Branyon Electric LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Brighter Electric, LLC",
+      "folderId": "1sQ4sWtTJprCtPWNczc1P4-7T1zuf_j5N",
+      "fullPath": "/Root/Brighter Electric, LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Carr, Riggs & Ingram, LLC",
+      "folderId": "18iK4f0ga9r3msCa1GGa6SNPhTokTZPPX",
+      "fullPath": "/Root/Carr, Riggs & Ingram, LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Colbert County Reporter",
+      "folderId": "1xSSNUhPboVLNz-fZucSHTWgoffXkeQMY",
+      "fullPath": "/Root/Colbert County Reporter",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Dayrit C. Linfuegor",
+      "folderId": "15BwM-TliGhjvh1GCS7EOCL7ro11AawZy",
+      "fullPath": "/Root/Dayrit C. Linfuegor",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Days Inn",
+      "folderId": "12ZuKBemoo0x8K4UQ73x1lvR9nJiWsroi",
+      "fullPath": "/Root/Days Inn",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Derria Bonner",
+      "folderId": "1WWaSlGmYkWiQXnjxr4LDVFiW0eWbwRjd",
+      "fullPath": "/Root/Derria Bonner",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Fast Sign",
+      "folderId": "1R8u2TWUB9JrAkCQRlcF4vwHHlQXBID-Y",
+      "fullPath": "/Root/Fast Sign",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Fuller",
+      "folderId": "1LxYdKPAX6YkZB3HS60m30aThHsnEYSGV",
+      "fullPath": "/Root/Fuller",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Garver Surveyor",
+      "folderId": "1H8_GLlL5hWazRCTgzwVKTi1-U9Nq4sVf",
+      "fullPath": "/Root/Garver Surveyor",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Giron Consulting LLC",
+      "folderId": "1RBOto0CXzzxm_aqGoJmyTqX9wV2-CwEp",
+      "fullPath": "/Root/Giron Consulting LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Haley Laurenz",
+      "folderId": "1PmyT-XtLy1PGRjTXM-nUmjbMdwNCB0xE",
+      "fullPath": "/Root/Haley Laurenz",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "HBP Electrical, LLC",
+      "folderId": "1cXeaqTspcjq7E0GX8W09-18wTS1x7QbX",
+      "fullPath": "/Root/HBP Electrical, LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "JD Lawn Care Services",
+      "folderId": "1jtiyQ-Y_sID_jfD68wHY78gf7dkP0jmS",
+      "fullPath": "/Root/JD Lawn Care Services",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Legacy Constructions LLC",
+      "folderId": "1Cegi1FRSOeJyXdf_I2ZxyPtXoTXPyM74",
+      "fullPath": "/Root/Legacy Constructions LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Loftin Holt Hall & Hargett LLP",
+      "folderId": "1VYneV_RIjYlH3jTusxAyMEIiwpQzUvBu",
+      "fullPath": "/Root/Loftin Holt Hall & Hargett LLP",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "MPE Services",
+      "folderId": "1iEOf1sHtHggjiDaFw5lGvnmkRrI_QLg3",
+      "fullPath": "/Root/MPE Services",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Precision Asphalt",
+      "folderId": "1Uyy87RFtjIaO7ZZOZXcF5TbnwvqlipH1",
+      "fullPath": "/Root/Precision Asphalt",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Property Tax",
+      "folderId": "1hShZ1OImGS15QTFJ_zSIsVWeQxRF02j-",
+      "fullPath": "/Root/Property Tax",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Reli",
+      "folderId": "1-sdofYLPU2ajroc7bN9I7uMReEbfW1I3",
+      "fullPath": "/Root/Reli",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Reli Settlement Solutions, LLC",
+      "folderId": "1fm5d-vGGzXhe29-G3W2RUpGTprvXlhFd",
+      "fullPath": "/Root/Reli Settlement Solutions, LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Renz & Associates, Inc.",
+      "folderId": "16eTfhrUwbwPOSUAFLCLqoaewNkLbfAtg",
+      "fullPath": "/Root/Renz & Associates, Inc.",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Roto Rooter",
+      "folderId": "1y63ERtsTHfBZ_61Ofzs6NU7LjcyXE9dw",
+      "fullPath": "/Root/Roto Rooter",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Ryan LLC",
+      "folderId": "132xf4HYTHG_S7h4fHZCmzvbqmOQ_X_q-",
+      "fullPath": "/Root/Ryan LLC",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Servis 1st Bank Loan",
+      "folderId": "1yW0mQRa7wIkpxUMdW47cvF6RXcfrRkLL",
+      "fullPath": "/Root/Servis 1st Bank Loan",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Sharp's Lawn and Tree Service",
+      "folderId": "1AATxX4mOEwXnSZILPLiLFsWkRaG65ZG8",
+      "fullPath": "/Root/Sharp's Lawn and Tree Service",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Shoals Tree Service",
+      "folderId": "1jdAR7R9PxTFongQ63JvnOWcuoLibTOgL",
+      "fullPath": "/Root/Shoals Tree Service",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Sonny Hamlet",
+      "folderId": "1Hi4iEbmeCRG3MmDB1-Zz6Si5WpD-wFCp",
+      "fullPath": "/Root/Sonny Hamlet",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "State of Alabama",
+      "folderId": "138rG831HKlN5t65zXoQxBn80cvjckn7u",
+      "fullPath": "/Root/State of Alabama",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Tommy L,Oswalt, Revenue Commissioner",
+      "folderId": "1kbc_NIurdaRBcQ7dQ4qy9s3y-bjTFTbD",
+      "fullPath": "/Root/Tommy L,Oswalt, Revenue Commissioner",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Tree Commander",
+      "folderId": "1ZtK50SzedZqec1m9wYbspwFN1pPcKXTa",
+      "fullPath": "/Root/Tree Commander",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Whitney Henry",
+      "folderId": "15NX9DSHEkNJPZQhXA3PX2015AqZJVW2x",
+      "fullPath": "/Root/Whitney Henry",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "WRIGHT LAW, P.C",
+      "folderId": "1jTo1lbzdMxWDQh-9E-cUzUtRx0CSCwus",
+      "fullPath": "/Root/WRIGHT LAW, P.C",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "Zters Inc",
+      "folderId": "1AQxGxmXPdWGyTQu7a4LAVDf372A7owSl",
+      "fullPath": "/Root/Zters Inc",
+      "community": "Muscle Shoals MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1AEAIWSduM3hQ34RKKYmn5uf1TkL9DtzI",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "17RyY-KCo3IJ5txYYs2DICeIcc6V2B0Le",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "1.Utility Invoices -  Sidlenie",
+      "folderId": "1MMdrnmGaOdDA3rMuLCmwjG6BdN-yVdvg",
+      "fullPath": "/Root/1.Utility Invoices -  Sidlenie",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "2. Lucky Communities LLC",
+      "folderId": "1MQ7Bd6F7JGCAMcaKr8eT5Xz-FEucClXT",
+      "fullPath": "/Root/2. Lucky Communities LLC",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "A1 Drain Cleaners -Rory Windhorst",
+      "folderId": "1XBv0ETZ40oKH24hxkrNho5Tc9FBFX1CL",
+      "fullPath": "/Root/A1 Drain Cleaners -Rory Windhorst",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "August Miller",
+      "folderId": "1CkroGHm1h2ApSnSgc8xOYqbMY_oITj9T",
+      "fullPath": "/Root/August Miller",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "15ZmNudW_8PU_vh3qgb7P1wkJRfDBajcz",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Blevins Inc",
+      "folderId": "1XcayQ8_A-qslEPL-48o7Lq5U6sHOaSxj",
+      "fullPath": "/Root/Blevins Inc",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Carr, Riggs & Ingram, LLC",
+      "folderId": "1TfoMbujUb_tfE5mXiXxDIL-9YqWi3XES",
+      "fullPath": "/Root/Carr, Riggs & Ingram, LLC",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Chase",
+      "folderId": "1TFRWJ3oD96ZlBTfWcTEs8DJ3Uj2EfzrG",
+      "fullPath": "/Root/Chase",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Fast Sign",
+      "folderId": "1Krkr7Ex0z_Et3WFslg7Ww3Gnq1iu5YO0",
+      "fullPath": "/Root/Fast Sign",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Giron Consulting LLC",
+      "folderId": "1A3bDI3yJqZxvdXKWZyTmu8Yc3QW8JnIq",
+      "fullPath": "/Root/Giron Consulting LLC",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1OJJivLMsYD_R6OVf8y7q_c2cyX-hjwvg",
+      "fullPath": "/Root/Home Depot",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "HUB International Limited",
+      "folderId": "1rQqVpypxbaszsMD8PyqKzI8esV4qxkHW",
+      "fullPath": "/Root/HUB International Limited",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "LA Secretary of State",
+      "folderId": "1MwNC7fHRB9m1gZMSbU-l1aAITpGJOSYq",
+      "fullPath": "/Root/LA Secretary of State",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Legacy Construction",
+      "folderId": "1elyHiobOszinAw0NUduTtntNL68z7Nln",
+      "fullPath": "/Root/Legacy Construction",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Magic Rooter Services",
+      "folderId": "1F7-u2DAFSj0JPXoubBs8M2W26tk8kJtd",
+      "fullPath": "/Root/Magic Rooter Services",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Metron Sustainable",
+      "folderId": "1IPTD65CVGG96ctQ3S8_q61MsMDsPTaIc",
+      "fullPath": "/Root/Metron Sustainable",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Rock N Roll",
+      "folderId": "1OGueA_Xc7BhOuv6qCr68bqKJYTpaUe8u",
+      "fullPath": "/Root/Rock N Roll",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Rory Windhorst",
+      "folderId": "1zK4tcZtwr5Z-U1ShpRYMWHyevWkKVDgh",
+      "fullPath": "/Root/Rory Windhorst",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Stylecrest",
+      "folderId": "141WJRw35FHanelAwckmiYWPRd1zB31_J",
+      "fullPath": "/Root/Stylecrest",
+      "community": "Sidlenie MHP"
+    },
+    {
+      "folderName": "Vanderbilt Remarketing",
+      "folderId": "1R5OWG93OfV2TpcTlENK7KajAgshEAz9P",
+      "fullPath": "/Root/ Vanderbilt Remarketing",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "11qQekMB3KIP0poT0U49j4p2Rivn5uH1p",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1BSmrr_uHMjO_xqzTEjcUbwKLC3DWmVEX",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities LLC",
+      "folderId": "1JIWwbyiiUdojxT0NxvWpvM6lkkcZRGgd",
+      "fullPath": "/Root/1. Lucky Communities LLC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "2.Utility Invoices - Satsuma Heights",
+      "folderId": "1JOFFuHnqHsmD3drILCYa-btFryj-6KAi",
+      "fullPath": "/Root/2.Utility Invoices - Satsuma Heights",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Abiders Backflow",
+      "folderId": "1ctP_dsKdfIU5giToiN0up4BYT5qnEPYo",
+      "fullPath": "/Root/Abiders Backflow",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Achord's Dirt Work And Land Services LLC",
+      "folderId": "1UgSpk7FRfOju1Fv2wev6M-pw_Rpjl9FI",
+      "fullPath": "/Root/Achord's Dirt Work And Land Services LLC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Amazon",
+      "folderId": "1LmEZYL63fiPxeXyoUbZ-sPREhQ1v4KFT",
+      "fullPath": "/Root/Amazon",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Arbor Vision",
+      "folderId": "1obSIaZ6_7u4valfkvNngrSYMGNw3gxMt",
+      "fullPath": "/Root/Arbor Vision",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Armstrong's Supply Company, Inc",
+      "folderId": "1zfK56SyChielT9WdOLNOMIa0EzPHtBUr",
+      "fullPath": "/Root/Armstrong's Supply Company, Inc",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Asphalt Paving",
+      "folderId": "126yK-lfkZnqN5OygYczrrjK0C2QTiKrH",
+      "fullPath": "/Root/Asphalt Paving",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "164RC79CUhfGVCZ6QvyIuG1E9surrpgSD",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Blevins INC",
+      "folderId": "1cVHaSM4SkATHe_ScUX7RzCgsgHqXi0L-",
+      "fullPath": "/Root/Blevins INC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Brewers Mobile Home Movers LLC",
+      "folderId": "1jHFDqr8MpzyWzNz-sTeiOVmzrO3WxVDM",
+      "fullPath": "/Root/Brewers Mobile Home Movers LLC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Brotherhood Electrical",
+      "folderId": "1Zlt4azxhKgUBw9aSy5bDkig1Zp9c_5kc",
+      "fullPath": "/Root/Brotherhood Electrical",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "CAPEX",
+      "folderId": "1zmxIGtDQWsUy70y3_br_cFumyrK1MDlY",
+      "fullPath": "/Root/CAPEX",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Carlos Ramirez",
+      "folderId": "153q9gxzm-jIOaaPfIuPutnYRBcEW4WJV",
+      "fullPath": "/Root/Carlos Ramirez",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Chase",
+      "folderId": "1MVpgJeaF9BxplcVZRIPaNSqNzBFDtvku",
+      "fullPath": "/Root/Chase",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Christopher Shorty",
+      "folderId": "10qHV4iaxwftGI-QzeXhyzubQNdwTZ1T8",
+      "fullPath": "/Root/Christopher Shorty",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Clearstream Services",
+      "folderId": "1LOKjcG872HiWG1Kl9ML8Sk6nsb34j2S6",
+      "fullPath": "/Root/Clearstream Services",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Courtney Martin",
+      "folderId": "1ijJVwqjfzQ8wUDBVijWWLVDKpnJPaj1S",
+      "fullPath": "/Root/Courtney Martin",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Deville Plumbing, LLC",
+      "folderId": "1MluTBVzLvlkipBloK9pmys6ZJEE2kjhs",
+      "fullPath": "/Root/Deville Plumbing, LLC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "EDDIE'S Tractor & Stump Grinding. LLC",
+      "folderId": "1zQc399HruvSMeBHFPyXaDftesKwQdoLD",
+      "fullPath": "/Root/EDDIE'S Tractor & Stump Grinding. LLC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Fast Sign",
+      "folderId": "1WkwnTBxyGXWPQKw0MrQRy2dXJTCyj3O5",
+      "fullPath": "/Root/Fast Sign",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Fisk Plumbing",
+      "folderId": "13bvJX57YekYh1H-6rtrRW-qw1HFHTzTD",
+      "fullPath": "/Root/Fisk Plumbing",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "George Pender Jr",
+      "folderId": "1gIkeJCRW1Bx56mCmpXXea46E2IuHRcl7",
+      "fullPath": "/Root/George Pender Jr",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1x9_Kn4qk0HUoyVGaXqAVe41QSb-NHgGc",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "GSA Home",
+      "folderId": "12qgZLvU-ohEXrIj0XA4-w3AAS1ejhVfB",
+      "fullPath": "/Root/GSA Home",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Jake's Plumbing",
+      "folderId": "1cyOaR7Pc0VhbDqhr4b_yqDZuWJnN7uhd",
+      "fullPath": "/Root/Jake's Plumbing",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "James Duncan",
+      "folderId": "1IS1PtwY0CY0Sy34BTA9C6EBeHYg0KlJQ",
+      "fullPath": "/Root/James Duncan",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "James Travis Graham",
+      "folderId": "1IA40P-vIp_8tsxxjxCcQx72Wd6aY0zWq",
+      "fullPath": "/Root/James Travis Graham",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Joseph Yanora",
+      "folderId": "1ZiJ9M49IVm9v2E8pr8wmlnB7w53UZGQm",
+      "fullPath": "/Root/Joseph Yanora",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "La Certificate Service",
+      "folderId": "1Wzy3JNx9-LJ575mijPGGjcLArh2yvs_H",
+      "fullPath": "/Root/La Certificate Service",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "LA Secretary of State",
+      "folderId": "1N--sjKM10Wa1-FBroevNml157HqTme52",
+      "fullPath": "/Root/LA Secretary of State",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "LDEQ",
+      "folderId": "15GFS1RSzoCZFo_E5csjxI0tXK3pXYMcp",
+      "fullPath": "/Root/LDEQ",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Legacy Construction",
+      "folderId": "12FctqYZ-2pmio6Z_UjJ53fJTCJF0YM8y",
+      "fullPath": "/Root/Legacy Construction",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Lynnard Bell",
+      "folderId": "1YG7xgSFRZwo5YrDOTzC9Ds3nIHm0jHqO",
+      "fullPath": "/Root/Lynnard Bell",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "MH Village",
+      "folderId": "1Ip7z3p5TATMRAVrKRwj_cz1ICkFzmc7c",
+      "fullPath": "/Root/MH Village",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Mobile Insurance",
+      "folderId": "1GfjhU4N2GohkrfplnrYj-0RoA2yPbWAc",
+      "fullPath": "/Root/Mobile Insurance",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Mowing & Blowing Lawn Care",
+      "folderId": "1t2xNJV2AB9VyuGgW_0yJdLQuieDiy-zX",
+      "fullPath": "/Root/Mowing & Blowing Lawn Care",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Plumbing",
+      "folderId": "1fWKTPaW34ZCqhWa95-2rQXkyIGRRXpOQ",
+      "fullPath": "/Root/Plumbing",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Renz & Associates, Inc.",
+      "folderId": "1GkE60rc1KUMmx_1ViZzZYuT04TF70H0g",
+      "fullPath": "/Root/Renz & Associates, Inc.",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Riggins Mechanical, LLC",
+      "folderId": "1S_iMa1fziTq668pi-DPCZ3Y4G-EiGmZk",
+      "fullPath": "/Root/Riggins Mechanical, LLC",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Roto Rooter",
+      "folderId": "1XriPV-3BV2N4EVvWJICafq4-kPiCqEOA",
+      "fullPath": "/Root/Roto Rooter",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Rubia Murillo",
+      "folderId": "14yI1q-aM6uNhKDHelXX9GtOCgjHCnLdf",
+      "fullPath": "/Root/Rubia Murillo",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Scott Sutton",
+      "folderId": "1Crv2S1BkhXyPF-U6zkrV-rpwoqTle6I5",
+      "fullPath": "/Root/Scott Sutton",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Showmojo",
+      "folderId": "12ydyexEOD2DQMbaXQIKqd8aur9RtDsbR",
+      "fullPath": "/Root/Showmojo",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Southern Roll Off",
+      "folderId": "1_urBgOjcup5pKd_SQVuH8u8Leq8y0Qvv",
+      "fullPath": "/Root/Southern Roll Off",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "State of Louisiana",
+      "folderId": "1oXwyeBJytlxshAvNT7mgszripG9h5Hgs",
+      "fullPath": "/Root/State of Louisiana",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Style Crest inc",
+      "folderId": "1AYAbl0Nrotxsws_ZsyTpZmyRnBSTPtTW",
+      "fullPath": "/Root/Style Crest inc",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "Thermacote Inc",
+      "folderId": "1zeIGPROnOlMxf_IpNYnaBv3LCORIppmU",
+      "fullPath": "/Root/Thermacote Inc",
+      "community": "Satsuma Heights MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1-ndlB9KGmOH2RMD7rBCgDV4E7FRThhYQ",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "17ibu-iVIrMPBQ7CjX_utX2-OkJEtTuYO",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "1. Utility Vendors - Pinhook Lafayette",
+      "folderId": "1G2Z7M8-oAgpy4GzYHSzpsqUw0BwPHbF9",
+      "fullPath": "/Root/1. Utility Vendors - Pinhook Lafayette",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "2. Lucky Communities LLC",
+      "folderId": "1G1cRP1OHeOp_sM7tRqUE85wK3bY_BuWA",
+      "fullPath": "/Root/2. Lucky Communities LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Acadiana Land Services LLC",
+      "folderId": "1LriMTp3xOLMbxQzTjmnX2koMqdZjcQiq",
+      "fullPath": "/Root/Acadiana Land Services LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Acadiana Waste Services, LLC",
+      "folderId": "1DQY6a2ir3fluIWHuhT4PyhVl4Pf4SgKI",
+      "fullPath": "/Root/Acadiana Waste Services, LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Acme Co",
+      "folderId": "1_euHs7M9RDBXnyFW1MCFY4x5H8EurbPS",
+      "fullPath": "/Root/Acme Co",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "16Zqj4O0ggtDWhXV6VUx2nlFFVnHaba7g",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Billeaud's Water well Services",
+      "folderId": "1oQE7GQAROfJk5Ea9GB4Kwc-Q3R0xnRvd",
+      "fullPath": "/Root/Billeaud's Water well Services",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Black Bear Asset Management LLC",
+      "folderId": "1vWpl6UJuMmtG-S-MbVPmDwtMM4C3Cdkn",
+      "fullPath": "/Root/Black Bear Asset Management LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "C&S Fencing",
+      "folderId": "14QoN6mtDEn6soKsy0Yhjg4HFYlOsW1h5",
+      "fullPath": "/Root/C&S Fencing",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "CH Rhodes Capital - Lou Mirando",
+      "folderId": "18D-yg4YGxO6t0XWDvXBYvoseQNe1uMCx",
+      "fullPath": "/Root/CH Rhodes Capital - Lou Mirando",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Chris Paving LLC",
+      "folderId": "1JYzoyTb-333D_T5YtVaCS7Ut1kUrJ6ew",
+      "fullPath": "/Root/Chris Paving LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "1K3z7Qh7Vw7LX1hZqS-DBAUNI--JyVMN9",
+      "fullPath": "/Root/CSC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "DEQ Business",
+      "folderId": "1NCG19vkMFkiQT0LLxUFmoO75Jd-ZiebQ",
+      "fullPath": "/Root/DEQ Business",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Electric Gates & Access",
+      "folderId": "1ZV5foXWo1E7sI_JgCAOxBQq65dX3-xPU",
+      "fullPath": "/Root/Electric Gates & Access",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "G&J Mobile Home Services LLC",
+      "folderId": "1yHMiB0hUj0HBI4JjSnImUPyOKXTd2IHb",
+      "fullPath": "/Root/G&J Mobile Home Services LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "GIRON CONSULTING LLC",
+      "folderId": "1iNtKAcJmGiyd-gw_IxmIHkphY-804kyq",
+      "fullPath": "/Root/GIRON CONSULTING LLC",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Hub City Tree & Preservation",
+      "folderId": "1_8LHv5Sduc7kNffGuDfAkEbGfKGxKqmp",
+      "fullPath": "/Root/Hub City Tree & Preservation",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "John Swanson",
+      "folderId": "1E2XoLeIqTPTvbptkao1ICz_RcoaaCa38",
+      "fullPath": "/Root/John Swanson",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Lafayette Community Dev. Planning",
+      "folderId": "17stA8NXQWSKHv9RaOBk3SljJoYzO7Ogw",
+      "fullPath": "/Root/Lafayette Community Dev. Planning",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "LDH",
+      "folderId": "1G6Xj6WcIonnPC7tZCNnBgtfrCqS5Bjt5",
+      "fullPath": "/Root/LDH",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Leslie Marie Romero",
+      "folderId": "1H0LyOZ-FYnMEY8lhsjcWS5vQfkgPhIcZ",
+      "fullPath": "/Root/Leslie Marie Romero",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "MH Village",
+      "folderId": "1FwexG1rgaJ9UIot7pR8J-LgeAabVcRm9",
+      "fullPath": "/Root/MH Village",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Miscellaneous",
+      "folderId": "1zlUKtqb-WB0LdpwRSxOkSh4gdAUj1qIQ",
+      "fullPath": "/Root/Miscellaneous",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Mobile Insurance",
+      "folderId": "1jVfxl_zHUOH4gFhtBKjHZTUzWNurajvv",
+      "fullPath": "/Root/Mobile Insurance",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Next Plumbing",
+      "folderId": "16gWh3lN4ZsFdclFcOgO3n52Kg1u9RBta",
+      "fullPath": "/Root/Next Plumbing",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Parish Electrical Solutions",
+      "folderId": "1e3YK0MBQAl3eATraNlrXT8eV7bUwzeWC",
+      "fullPath": "/Root/Parish Electrical Solutions",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Pelican Waste & Debris",
+      "folderId": "1JTR75eT_cHg4J8yT6rYhfGUTu3m2s5pa",
+      "fullPath": "/Root/Pelican Waste & Debris",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Ragin Pest Elimination",
+      "folderId": "1Dkj12vx58EVKe2CJLGskoDwpuFYGBFTl",
+      "fullPath": "/Root/Ragin Pest Elimination",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Renz & Associates, Inc.",
+      "folderId": "10Zq_nShy9p6hBRrXyX7I94S3umfUPJy_",
+      "fullPath": "/Root/Renz & Associates, Inc.",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Richoux Electric",
+      "folderId": "1wCgBR2q4p9-3vFCpmazLMCs6QXA642jS",
+      "fullPath": "/Root/Richoux Electric",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Scott\u2019s Tree Service",
+      "folderId": "17KYKAanR8tB-GZkDKcqnQQH9ImnH5k5v",
+      "fullPath": "/Root/Scott\u2019s Tree Service",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "State of Louisiana",
+      "folderId": "1UqfuH8creNyBbH40uBo5loxbYewHLA3c",
+      "fullPath": "/Root/State of Louisiana",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Terry Lavergne",
+      "folderId": "19f75boOo65BmSQKunKRHumQ95RQE1lx2",
+      "fullPath": "/Root/Terry Lavergne",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "Winter Title agency",
+      "folderId": "1EcU5szdU1q_KxOlSCzE5dH_s61IZk6te",
+      "fullPath": "/Root/Winter Title agency",
+      "community": "Lafayette MHP LLC"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "13j70HgwEX-EHfK6JuTOihS7ZPLKUDqnT",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1b8l4WgxDYHcrDb3bHhDnkPCogj0PhLhM",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities",
+      "folderId": "1Aek5jViCN38R-DkVXA1kQG7CfvtBULBR",
+      "fullPath": "/Root/1. Lucky Communities",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "2.Utility Invoices - Rainbow Terrace",
+      "folderId": "1ES0OqoAXAh_fCGWoelwJxbOCCLBf-t0X",
+      "fullPath": "/Root/2.Utility Invoices - Rainbow Terrace",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "A-1 Movers",
+      "folderId": "1KniymDP1dVpUVJMABUS0gBQs5yq3Hsdi",
+      "fullPath": "/Root/A-1 Movers",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Aaron Roberts",
+      "folderId": "1-rVIJiOlDY1N2j7MY5iLHNaoGPmInwdB",
+      "fullPath": "/Root/Aaron Roberts",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Bantaa.,LLC",
+      "folderId": "16hLxl2RLTOYoYgrK3r4YZfYV0WgDbifx",
+      "fullPath": "/Root/Bantaa.,LLC",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "BCP Real Estate Media",
+      "folderId": "13i7MiNomL_Pxn0I8D5HEIQz4uFbTTijm",
+      "fullPath": "/Root/BCP Real Estate Media",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Big Blue Contractors LLC",
+      "folderId": "10UCDKskIUAma_cst2UhK82clqWABpdLI",
+      "fullPath": "/Root/Big Blue Contractors LLC",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "BLEVINS INC",
+      "folderId": "1E8MSFwkacYuHZ9nKSMVXQmWUgO-idGTN",
+      "fullPath": "/Root/BLEVINS INC",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Bobby Colyer",
+      "folderId": "1N1zg8xpcjf6E2rN9R4oWLTKntkZm0sDr",
+      "fullPath": "/Root/Bobby Colyer",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "CAPEX",
+      "folderId": "1zXAyHZt5xMxAX37_zoTxxxHBc3oUCpup",
+      "fullPath": "/Root/CAPEX",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Central Kentucky 360, LLC",
+      "folderId": "13CUaJZfKLfThrUA0WNztwSg88CgB5TWQ",
+      "fullPath": "/Root/Central Kentucky 360, LLC",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "CH Rhodes Realty Capital",
+      "folderId": "1i99wYaWZnUtjppM9bWJ_XoQs5heGkPNv",
+      "fullPath": "/Root/CH Rhodes Realty Capital",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Chris Gas Reimbursement",
+      "folderId": "1crrQtFl0eARMgGd254ssytZPj-J43xwm",
+      "fullPath": "/Root/Chris Gas Reimbursement",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Commonwealth of Kentucky",
+      "folderId": "1QT2T20gpZUZsUouZc5uLBG0qe__Q5wwc",
+      "fullPath": "/Root/Commonwealth of Kentucky",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "CSC - Rainbow Terrace Mobile Home Park LLC / Company ID:4547519",
+      "folderId": "1cV1KxC5R3Ki9DthVd5uPINF-qnI2jrK5",
+      "fullPath": "/Root/CSC - Rainbow Terrace Mobile Home Park LLC / Company ID:4547519",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Encon Equipment",
+      "folderId": "1N3bCfaggShGr6pi_Cp2RfVHIOi4gQ2Qh",
+      "fullPath": "/Root/Encon Equipment",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Engineers of the South",
+      "folderId": "124Xq2yLpgDAArbI77zJb4EJqGavlZc3J",
+      "fullPath": "/Root/Engineers of the South",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Enterprise Car Rental",
+      "folderId": "19mqdCwzkj9B26Ki-V7vt7walAGXc-EvR",
+      "fullPath": "/Root/Enterprise Car Rental",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Fast Flow Plumbing",
+      "folderId": "1LDH9rx4ie7eREqZP2x5Burcjzssb0qnQ",
+      "fullPath": "/Root/Fast Flow Plumbing",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Flasher Sign",
+      "folderId": "1GzXwkaODPWSBu2jMB-jTrmMJbfs7BDNB",
+      "fullPath": "/Root/Flasher Sign",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Fouser Environmental Services",
+      "folderId": "11X-9aZDnhId2kFJz39aVrGGmXKze0DPK",
+      "fullPath": "/Root/Fouser Environmental Services",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1qcgNcHyO5Z1vs5SSKcKOOTN_XOktA_Fe",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Hub International",
+      "folderId": "1dplUZOdyKX02xvvWHRE6nOR-971aYE3F",
+      "fullPath": "/Root/Hub International",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "J Blanton Land Surveying, LLC",
+      "folderId": "1AhUUyA_plZcU0elOZp3y8WQ6fGrkywdz",
+      "fullPath": "/Root/J Blanton Land Surveying, LLC",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Jeffries Heating & Air + Plumbing",
+      "folderId": "1huSESpv5ZUTDkTrfsdMyVy4s5g9Pu2CM",
+      "fullPath": "/Root/Jeffries Heating & Air + Plumbing",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "John Swanson",
+      "folderId": "1AwKkZw91xVJiGpsQVbKLxxAfsPBALt1v",
+      "fullPath": "/Root/John Swanson",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Kentucky License",
+      "folderId": "11mrBPIh535EDQlHWQK799-fCOMRdrCNX",
+      "fullPath": "/Root/Kentucky License",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Lake Cumberland District HD",
+      "folderId": "1JxHe8mOtBJ-Z35OwcWpF1QWCQCTyz9Nh",
+      "fullPath": "/Root/Lake Cumberland District HD",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "MH 49 & 52",
+      "folderId": "1KseV08h1f6r5z1KQOygKJzTJ0WFa4mFb",
+      "fullPath": "/Root/MH 49 & 52",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Michael Galloway",
+      "folderId": "190wzuk7Tl-xw_4UG3JCg8D0X4fyo1clw",
+      "fullPath": "/Root/Michael Galloway",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Miscellaneous",
+      "folderId": "1joqWIvG32p6jKeYmfAqPFm78PaLwwwAo",
+      "fullPath": "/Root/Miscellaneous",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Quality Electric Service",
+      "folderId": "1iOIXbDW9zQe0OrBgb68AKKMgKbd7vJRA",
+      "fullPath": "/Root/Quality Electric Service",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "RC Contractors | Electrical Work | Sewer Plant_06-14-2024",
+      "folderId": "1KD_SNj_u_UWMTeI3B8NAufaEh-VaEFvJ",
+      "fullPath": "/Root/RC Contractors | Electrical Work | Sewer Plant_06-14-2024",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Renz & Associates, Inc.",
+      "folderId": "1v0GhsJPHJUgNKUC_QH3obQhX_FFZeR8s",
+      "fullPath": "/Root/Renz & Associates, Inc.",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Robert Colyer",
+      "folderId": "1spY1uO1zPKbT7Qrk07sgKrDC0CDZeH-w",
+      "fullPath": "/Root/Robert Colyer",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Roney's Plumbing, Inc",
+      "folderId": "1hviCBM-L_x637hivy_5YEqb4UGr0zAAw",
+      "fullPath": "/Root/Roney's Plumbing, Inc",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "South Kentucky Rural electric Cooperative corporation",
+      "folderId": "1LruqeIKwAkQEfj_qQRxtmvZ1iQGS5G2C",
+      "fullPath": "/Root/South Kentucky Rural electric Cooperative corporation",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Southern Energy Homes",
+      "folderId": "1AxLVUIf-0spgVMWh_c7S_tv51PLiCEYq",
+      "fullPath": "/Root/Southern Energy Homes",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "The Pond Guy",
+      "folderId": "16fw2YptiWxL94OovgrW-celikQtVzOwO",
+      "fullPath": "/Root/The Pond Guy",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "USA Bluebook",
+      "folderId": "1JhXwQvAFGI1M56ZZGdpSQngRzSkhdNNG",
+      "fullPath": "/Root/USA Bluebook",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Waste Connections",
+      "folderId": "1hR0vrhMmQ5KeIssfQH97mFYukSZqxKDL",
+      "fullPath": "/Root/Waste Connections",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "Yard Farmers LLC",
+      "folderId": "1wPx9PDD6JMh_aMipihzOvxN64u2jCiJ3",
+      "fullPath": "/Root/Yard Farmers LLC",
+      "community": "Rainbow Terrace MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "156AFqYDgozk9P7OSG6U4MiiJR5VKez6o",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1nECrsW1B2-9w2mCE4-V376r6kGr_KcX1",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities LLC",
+      "folderId": "16aTHTxkNigBoNIBAHstcU27JLCfUnQRO",
+      "fullPath": "/Root/1. Lucky Communities LLC",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "1. Utility Invoices - Parkwood",
+      "folderId": "1_sdLC3HZ8IZqTgy2ZQaxhuw8zOzJj27C",
+      "fullPath": "/Root/1. Utility Invoices - Parkwood",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "BantaaLLC",
+      "folderId": "16FusR_9CaBaDLsflKuuveiZkqukP_jJl",
+      "fullPath": "/Root/BantaaLLC",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Brown",
+      "folderId": "1FTS01mbtZdro5H8L-bBmTlM1FuGwtWkN",
+      "fullPath": "/Root/Brown",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Brown Cooling",
+      "folderId": "1Qs-cVrhv5OzoQk51SQxg8CVbt0Fg4HxP",
+      "fullPath": "/Root/Brown Cooling",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Business Document Center",
+      "folderId": "1OB_J2y4PbLdfivpS9BfQARDnWddeLXK7",
+      "fullPath": "/Root/Business Document Center",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "City of Bessemer",
+      "folderId": "1ImUBO4qWQHxsDMMwsM75HZARwg1faB2k",
+      "fullPath": "/Root/City of Bessemer",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Craig's Quality Tree Service",
+      "folderId": "1OOARcha2jPcatwcHpQC7epzfsqJDfJxD",
+      "fullPath": "/Root/Craig's Quality Tree Service",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "1wer72FTBv2OUM3kYFQWtLntvPGUb6wd7",
+      "fullPath": "/Root/CSC",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Daleware",
+      "folderId": "1p9xjOV4KLBWMV67RBmLwMCGTNyrwjcB0",
+      "fullPath": "/Root/Daleware",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Diana Camacho",
+      "folderId": "1IlavqoMdLzKDCuMxnKAtkpe10TJxTlkj",
+      "fullPath": "/Root/Diana Camacho",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Dronegenuity",
+      "folderId": "1UQySuMh_XhKDlSyTen1na75SPWc1NbW8",
+      "fullPath": "/Root/Dronegenuity",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Engineers of the South",
+      "folderId": "1Pl9oHPILipB98LnWvXN4stibUpD8eGz0",
+      "fullPath": "/Root/Engineers of the South",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Engineers of the South, LLC",
+      "folderId": "1kJY1KWgBtvPHBSSlanb7QYMqrD7dsaym",
+      "fullPath": "/Root/Engineers of the South, LLC",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Fox Family Electrical",
+      "folderId": "1TLTxDvD8BcGPYn6NoK-X6wr87G1dHxkM",
+      "fullPath": "/Root/Fox Family Electrical",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Gagb,LLC",
+      "folderId": "1uB6iqHdkxtc7PExHxKb6p47mcERJxCZQ",
+      "fullPath": "/Root/Gagb,LLC",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1Py8XXOxhKKAbsH7nkW_dsqNESYUnUkj2",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Gray's Tree Service",
+      "folderId": "1YnR0d6n15tmz2p34fidhQ58-vuaM-0Yn",
+      "fullPath": "/Root/Gray's Tree Service",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Hoss Up Hauling and Rentals llc",
+      "folderId": "1VbQLklqRaCRnR50QpGgHELyl2UyeC8Ry",
+      "fullPath": "/Root/Hoss Up Hauling and Rentals llc",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Hoss up Hauling Rentals",
+      "folderId": "1kJf4-GUipZUW4e-33f2Q77pqc2S48RcP",
+      "fullPath": "/Root/Hoss up Hauling Rentals",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Hub International",
+      "folderId": "1gVFEJ6ogYIUXg7h0ZiE1UouVrrLLHGAE",
+      "fullPath": "/Root/Hub International",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Jefferson County",
+      "folderId": "1gJpMcpv3kQpuXC3_AiGM7KvCjFCmSPXh",
+      "fullPath": "/Root/Jefferson County",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Jones Electrical Contractors",
+      "folderId": "1nORh3_piUAXhvGsxul4IQj0z0nDczY80",
+      "fullPath": "/Root/Jones Electrical Contractors",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Lynnard Bell",
+      "folderId": "1KNIaMZ8DDi7aPsprNG2kuBzUFCgEnssP",
+      "fullPath": "/Root/Lynnard Bell",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "M.Wayne Wheeler PC",
+      "folderId": "1qOjBU7EvRu7k8twPSCgLtJG6Ax8l5njC",
+      "fullPath": "/Root/M.Wayne Wheeler PC",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Madden Plumbing Services, lnc",
+      "folderId": "1swyxKc9Cpayd9bTlimKDyWeptJfliym5",
+      "fullPath": "/Root/Madden Plumbing Services, lnc",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Meeks Environmental",
+      "folderId": "1YdzXJP_n4VyX4VcRAwvEPPuaYw9OV_4o",
+      "fullPath": "/Root/Meeks Environmental",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Moore Coal Co, Inc",
+      "folderId": "1kAeCF1bT8esI6Qzp-2NjyoUI4jwhQieO",
+      "fullPath": "/Root/Moore Coal Co, Inc",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Precision Services",
+      "folderId": "1zHnP2T1m9MbWs-Cc358Bzz03B3Xwdno3",
+      "fullPath": "/Root/Precision Services",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Premier Sign Co",
+      "folderId": "11KOdMDgD63ZqgVgOJiws2CuJvE2dsBGg",
+      "fullPath": "/Root/Premier Sign Co",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Pro Services",
+      "folderId": "14Sw9xIgh4nIBLo32dGTKhhpnt0dL-MCT",
+      "fullPath": "/Root/Pro Services",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Reeds Lawn Care Service",
+      "folderId": "1ZUQQwX4tchQ0SvzeGWnXNVBmeEotZKxt",
+      "fullPath": "/Root/Reeds Lawn Care Service",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Renz & Associates, Inc",
+      "folderId": "1kZU0Xpy2Doe8a7zVjS1mzfCbKBy3glyp",
+      "fullPath": "/Root/Renz & Associates, Inc",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "SFI",
+      "folderId": "12vUgCsz0UNq0CK62Tlwdk04SCMrXs7aC",
+      "fullPath": "/Root/SFI",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "The Bearded Landsca er LLC",
+      "folderId": "1dxUSK9qdqFFJt3MRmU7lKJGZmW2CMVDc",
+      "fullPath": "/Root/The Bearded Landsca er LLC",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "The Bearded Landscaper",
+      "folderId": "1CgSbadbjH679Qp99mFJz0BXjtLvkZZT2",
+      "fullPath": "/Root/The Bearded Landscaper",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "The Greensboro Watchman, Inc",
+      "folderId": "1aY4LdNxhMyNmU4-w8hLGRq1eqrieSa32",
+      "fullPath": "/Root/The Greensboro Watchman, Inc",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Vendor Directory",
+      "folderId": "1J-uXeEaGjDzIHuEj3S9NEVlQikyUT_W1",
+      "fullPath": "/Root/Vendor Directory",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "Winter Title Agency",
+      "folderId": "1GBb13vyjDxhwdxEDqxBAFrOoaSRVktiU",
+      "fullPath": "/Root/Winter Title Agency",
+      "community": "Parkwood MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1iZ7RKaRtEsDFBHCkfOLSBG2pm8MznCXv",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1UkAqZL0rSw0J2CAXb1qP_REb4f4y4HPY",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "1.Utility Invoices - Sonnier",
+      "folderId": "16xvI1nMAoQoPSKfvMnxZxN0xVls_s7Fa",
+      "fullPath": "/Root/1.Utility Invoices - Sonnier",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "2. Lucky Communities",
+      "folderId": "1WAjbg39UCq8PzN1RDiTqePdNkNI1WZqZ",
+      "fullPath": "/Root/2. Lucky Communities",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Able Plumbing LLC",
+      "folderId": "1WnY6AT9Q3y-i_99xHKV2vgsOgvwUI8Ib",
+      "fullPath": "/Root/Able Plumbing LLC",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "AllStar Plumbing",
+      "folderId": "1pOrW3AUXvzM2zdv-Ye9_u9UQFnHcv2Ky",
+      "fullPath": "/Root/AllStar Plumbing",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Armstrong's Supply Company",
+      "folderId": "1Tf1IRSzIXcm2l8n8mR2d9L-0WoTZkYgz",
+      "fullPath": "/Root/Armstrong's Supply Company",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Asphalt Paving",
+      "folderId": "1vwLSMjY-hkSitJCEvJslgVzJ7KSgaAgG",
+      "fullPath": "/Root/Asphalt Paving",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Bantaa, LLC",
+      "folderId": "1zKOzNMq1Oc9g0WuOAbLcI3Sbg8oruFxa",
+      "fullPath": "/Root/Bantaa, LLC",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Big Red Dumpters",
+      "folderId": "11QqMDcaH7UzRqR3giLHoBaevSBrLK-iu",
+      "fullPath": "/Root/Big Red Dumpters",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Chase O for Business",
+      "folderId": "1TVGGtAnZ1wKPM3PIMS6Q0MeUs1qNUd4C",
+      "fullPath": "/Root/Chase O for Business",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Check",
+      "folderId": "1mjZ2OmdzBrisS9uHbfSDsggNWyuuUYpv",
+      "fullPath": "/Root/Check",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "City of Lake Charles",
+      "folderId": "10Lkbz4qRR-YAfwI3rrQ6C56lLwYbxGuS",
+      "fullPath": "/Root/City of Lake Charles",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Construction Funding Co., LLC",
+      "folderId": "1JRHxdxYb5qTXB-n4iVq7QcMUFPteXUnB",
+      "fullPath": "/Root/Construction Funding Co., LLC",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "142Qdq1X9H7mek2YR2bUrRk9ef0Ep35dd",
+      "fullPath": "/Root/CSC",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "CSC - SONNIER MOBILE HOME PARK LLC / Company ID:4604127",
+      "folderId": "11WL05OjfScBmnf_LWMFZ3WC9sXSAYhtY",
+      "fullPath": "/Root/CSC - SONNIER MOBILE HOME PARK LLC / Company ID:4604127",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Daley's Tree Service",
+      "folderId": "1tKtrzu1aXViZ1eFk9DRozXwd3_1SacWG",
+      "fullPath": "/Root/Daley's Tree Service",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "David Abshire",
+      "folderId": "1dCTwqJ47BLpsqlZiBV1dHMi7dB-1MRT3",
+      "fullPath": "/Root/David Abshire",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "David Alishire",
+      "folderId": "1yDMAqDNdDSuaY8e8PHS5z49Ph_6QosxL",
+      "fullPath": "/Root/David Alishire",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Dillon Disposal",
+      "folderId": "1VbFWgEQfC4OmbenE4MqCWc7U_VOHs07a",
+      "fullPath": "/Root/Dillon Disposal",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Dronegenuity",
+      "folderId": "1Az6lt9iciaKKLrtHNnshgkLdy6kYnz6b",
+      "fullPath": "/Root/Dronegenuity",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Entergy",
+      "folderId": "1xV50oDVr7OowqZdvNWZShsTtOzJhx_M5",
+      "fullPath": "/Root/Entergy",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Fastsign",
+      "folderId": "1H-PgCN6fKRUFlOx-0Vmnv9a4pYdoRiac",
+      "fullPath": "/Root/Fastsign",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Franklin Palomo",
+      "folderId": "1USZP68TeHDZZq9QH4WlR-VA23WiL7jsa",
+      "fullPath": "/Root/Franklin Palomo",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "16xZGfwpBrnf-pnGT7aIAfQLyZECZNta7",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Golden Empire",
+      "folderId": "1HwEypp-YqhAHWH0BIXP_vlCFlhb9L3OX",
+      "fullPath": "/Root/Golden Empire",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Growth and Grace Homes LLC",
+      "folderId": "1s-FeatMT8di37x57FV2BvOlXbon1sj9N",
+      "fullPath": "/Root/Growth and Grace Homes LLC",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1TIfX9cqi5w0NrF2M53LUtSkv2327bP3P",
+      "fullPath": "/Root/Home Depot",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "HomeStore Direct_Mailboxes",
+      "folderId": "1dcl29rShEuQGj7gsoVqVQIGoB8LAroi6",
+      "fullPath": "/Root/HomeStore Direct_Mailboxes",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Joseph Plumbing",
+      "folderId": "1jtr19yxkAbpGp47LMAOyUF2nUminwWqw",
+      "fullPath": "/Root/Joseph Plumbing",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Kansas Lumber Homestore",
+      "folderId": "1U7UEaOZahSn7gdBkem6F55aWzMsNr_Zx",
+      "fullPath": "/Root/Kansas Lumber Homestore",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Lake Charles City Court",
+      "folderId": "1MkZO8mthRJQl_NqhMtoeZ_I8Js4DNzKJ",
+      "fullPath": "/Root/Lake Charles City Court",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Lanier Plumbing",
+      "folderId": "1opMdEmiFcHN4cOaDXLYHvmhg-3BdJfVl",
+      "fullPath": "/Root/Lanier Plumbing",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Larry",
+      "folderId": "18_0xcI_eqRYluloeABtqAQax-xSql_4T",
+      "fullPath": "/Root/Larry",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Marlon Moreno",
+      "folderId": "1V0epcp7gvPO56s3KTbuTr1DzBchFLK04",
+      "fullPath": "/Root/Marlon Moreno",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Metron Sustainable",
+      "folderId": "1jeiNDjM39mMhIvx7_CXKfz0Pk11Ld7oj",
+      "fullPath": "/Root/Metron Sustainable",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Orleans Street Metal",
+      "folderId": "1HlcwHzvmMKWyCa7p61ROzvVL14I8HjKr",
+      "fullPath": "/Root/Orleans Street Metal",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Poissots Mobile Home Movers",
+      "folderId": "1i7jrszHCb7TPBh3NRgz-I80qhlu84V8r",
+      "fullPath": "/Root/Poissots Mobile Home Movers",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "S S Contractors",
+      "folderId": "1nzJ779nrZ7BP7ug4XvH7RgrAe8JIfNin",
+      "fullPath": "/Root/S S Contractors",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Traffic Safety",
+      "folderId": "1VkpOsiTOHWt7ED_Lex4NPbDOnYF7VnE1",
+      "fullPath": "/Root/Traffic Safety",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "Vista Print",
+      "folderId": "13pRWtcWP8NjvQ26JF3_V0KtGk_9cpStm",
+      "fullPath": "/Root/Vista Print",
+      "community": "Sonnier MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "19DBm3hWWE8Z4l_L-3JIQAtIcAePRiFtR",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1O9QypmUgQBk9oxqyNoZVB4D8pKJp7mFP",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities",
+      "folderId": "1_Svre7HBRthzDFygIHmExJgbMfZMO6md",
+      "fullPath": "/Root/1. Lucky Communities",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "1.Utility Invoices - Remwood",
+      "folderId": "1SMSUpLzuE5IsUDSkxeOW7D8e2YYaMQ5y",
+      "fullPath": "/Root/1.Utility Invoices - Remwood",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Active Tree Services",
+      "folderId": "1n1kL8xC0ZnvIedE1sJfNRNNrgDlSpBqt",
+      "fullPath": "/Root/Active Tree Services",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Angela Ct Lot 3-Remwood",
+      "folderId": "1IgRWwO2xgYUC6cb1IERV1KAMO-icseK2",
+      "fullPath": "/Root/Angela Ct Lot 3-Remwood",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "1HlMxRIUWihSxxPLJHVf84dXBBxKZPvJG",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Benjamin Franklin",
+      "folderId": "15Xq5XlErdUQF8r0EgN-sGOvJdEHVl3kp",
+      "fullPath": "/Root/Benjamin Franklin",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Check",
+      "folderId": "1NCgwtYybaFarVLc2dDcr117HTo5tuvgI",
+      "fullPath": "/Root/Check",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "City Court Of Houma",
+      "folderId": "1-Pg4G-5-L4zup4EE5drYSYboE7nym4aw",
+      "fullPath": "/Root/City Court Of Houma",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Coastal Mechanical",
+      "folderId": "1q9BecnTt1IUojvtWN4zspDB4Jw3PmNfC",
+      "fullPath": "/Root/Coastal Mechanical",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Consolidated Waterworks District No. 1",
+      "folderId": "1JaBMm7I3LRcGV8ezVB7iDcQExnEd0m9L",
+      "fullPath": "/Root/Consolidated Waterworks District No. 1",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Construction Funding Co., LLC",
+      "folderId": "1JlSMB4zO4PMyTh4nZb0OHA_KYWaUcD3G",
+      "fullPath": "/Root/Construction Funding Co., LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "18ozeYWwnRB3q4hJv3-qmi4apYIvBzsOH",
+      "fullPath": "/Root/CSC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "David Cleaner",
+      "folderId": "1dYbNHeM3Wsj5ggsdt1xHwzQ1zbUt4YvO",
+      "fullPath": "/Root/David Cleaner",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "David Gas Reimbursement",
+      "folderId": "13R7bVN9OraD_wcjkSxe7rtU-8n0cQqEv",
+      "fullPath": "/Root/David Gas Reimbursement",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "David Songe",
+      "folderId": "11ZsLARgSMXj3J4lemIwn13xdCMQSBcW7",
+      "fullPath": "/Root/David Songe",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Derim Coro",
+      "folderId": "1dKH5g-ZYa4YNAkM7j0y9J_RVIW8v188r",
+      "fullPath": "/Root/Derim Coro",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Down South Electric & AC LLC",
+      "folderId": "11W0nLL2598VV-x3KFESIhUXUP863OxP9",
+      "fullPath": "/Root/Down South Electric & AC LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Dronegenuity",
+      "folderId": "18GL5TLZStBrgni85qQ0UaJtTWIE0MIow",
+      "fullPath": "/Root/Dronegenuity",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Earl Naguin Jr. Plumbing LLC",
+      "folderId": "1rV6fJyNdjTj93w-DeMHuoPBOyytdkpzn",
+      "fullPath": "/Root/Earl Naguin Jr. Plumbing LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Encon Equipment",
+      "folderId": "1S0CpOrF0tYfklqoSHwpOTt9Y3NEzxi_x",
+      "fullPath": "/Root/Encon Equipment",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "George Pender JR",
+      "folderId": "19vq9t4SMbGnCbbZDF7JMcF96IChc3tP7",
+      "fullPath": "/Root/George Pender JR",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1f6ZR6kp9ML10IghllIDfvJeoUYhzj5n7",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Gulf South Homes",
+      "folderId": "1xf9CcCatu_3Fi-sWoNg3o5h_PYM-vDUx",
+      "fullPath": "/Root/Gulf South Homes",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Houma Tractor & Equipment",
+      "folderId": "1J5siL4BJVCvFHHBC-TBFY6BK7rQppg8N",
+      "fullPath": "/Root/Houma Tractor & Equipment",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Hub International Gulf South",
+      "folderId": "1SkGrfhN7tFIdId-g3FIOZl3HjC5ydbcH",
+      "fullPath": "/Root/Hub International Gulf South",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Huey P. Stockstill, LLC",
+      "folderId": "15IjchwyiiDo-kHHFfbzhHokXc6CmGlsf",
+      "fullPath": "/Root/Huey P. Stockstill, LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "J&B Tree Service",
+      "folderId": "1o47cjDdT4GZdnkSOI3EeexLHFHqGiG2r",
+      "fullPath": "/Root/J&B Tree Service",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Jonathan Blum Plumbing & Excavation LLC",
+      "folderId": "1iavWpqBZa0LxoKAB89Mh_i6MDn6jWYBV",
+      "fullPath": "/Root/Jonathan Blum Plumbing & Excavation LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Legacy construction and design LLC",
+      "folderId": "1hpEOnf9d49vZOVG3McxnxoNAIjz4YJn1",
+      "fullPath": "/Root/Legacy construction and design LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Lirette Dirt Service",
+      "folderId": "1ZnOGEUGk8wb5V6rINn3SNwJ6HGQoAhWi",
+      "fullPath": "/Root/Lirette Dirt Service",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Lirette Dirt Services",
+      "folderId": "1GWKSz8J8vNIYo3eE6UGa0qwDHIIQH6t3",
+      "fullPath": "/Root/Lirette Dirt Services",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Lisa Henderson",
+      "folderId": "1sIvWUd05xuN3soiBzVWDq_pZ0iG4cgP5",
+      "fullPath": "/Root/Lisa Henderson",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Lynnard Bell Sr",
+      "folderId": "1do0PNYSHGTp64vYIsdyA12LHSi5M_fu8",
+      "fullPath": "/Root/Lynnard Bell Sr",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Philips Songe",
+      "folderId": "1pkSVCxJIIOqQYSs4S3rbNN5VD_2EUzCX",
+      "fullPath": "/Root/Philips Songe",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Ric Bajon & Associates, LLC",
+      "folderId": "1Z9c4FJFACkgabSSZ7zvuydvX9s1IRRyp",
+      "fullPath": "/Root/Ric Bajon & Associates, LLC",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Rubia Murillo",
+      "folderId": "1mwLesJoBt8nUXZyyfA31pDwUFkB_cbwr",
+      "fullPath": "/Root/Rubia Murillo",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Sarah Armond",
+      "folderId": "1plPIaEgBpR5wW039FR1oBXNywyfxIVPN",
+      "fullPath": "/Root/Sarah Armond",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Slats Lucas Aggregates",
+      "folderId": "1qAse95Rr3qS_aBVpFfbgDKp58tyOxvPB",
+      "fullPath": "/Root/Slats Lucas Aggregates",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "SLECA",
+      "folderId": "1hstIQYeqv69yRSblmsYQBoQTlhtFGhV1",
+      "fullPath": "/Root/SLECA",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "STAT- Waste",
+      "folderId": "1dd85rMXWruLUp1x-fReD48Pc7w6fbFec",
+      "fullPath": "/Root/STAT- Waste",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "Stylecrest",
+      "folderId": "149AcWxU7s8GP5aDqNJN8moLUaqe5bOi1",
+      "fullPath": "/Root/Stylecrest",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "The Home Depot",
+      "folderId": "1PIW17JXXRWtHX6DRuNqQd6eO-jhswzD6",
+      "fullPath": "/Root/The Home Depot",
+      "community": "Remwood MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1BdDsD7HW49FjUPQhRgznNbs2XHpmEU38",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "16yYyCo4lfnMB__RMA4HzU8zKdSYmZWHb",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "1.Lucky Communities",
+      "folderId": "1Nc_5OdBoRdaBT4QbxKfSaHCreksr0ezK",
+      "fullPath": "/Root/1.Lucky Communities",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Ace Rooter & Plumbing",
+      "folderId": "1b-uP1jjT9_PXq2JtT_ydV4Ej1E1n2Zv2",
+      "fullPath": "/Root/Ace Rooter & Plumbing",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Arkansas\u201dAsphaltman LLC",
+      "folderId": "12YXJeh8CbX37VywmLoyd2ySDESIoqJ1e",
+      "fullPath": "/Root/Arkansas\u201dAsphaltman LLC",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "B & K Land Services LLC",
+      "folderId": "1C1zqoOIDKs5Q9gYVQB6zfsBJOCS1u3dX",
+      "fullPath": "/Root/B & K Land Services LLC",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "1zNx_PZugz3H8sXQiNQYvwSNtyvCYNVfb",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Bloomberg",
+      "folderId": "1C22lxTiFdFkY1h0_sgl65rqAmQsJcSjb",
+      "fullPath": "/Root/Bloomberg",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Bloomberg (LEI Registration)",
+      "folderId": "13_LfacQdfoZHGoTnFuD1ciUX9S8ine1f",
+      "fullPath": "/Root/Bloomberg (LEI Registration)",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Bradford Fencing",
+      "folderId": "1R3EtxucuaKhrSq0sdE09M9dMEYcSnsHH",
+      "fullPath": "/Root/Bradford Fencing",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "1IPUCtUchnkTizblTcubxlYn815JVq97A",
+      "fullPath": "/Root/CSC",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Flyguys (Drone Service)",
+      "folderId": "1RbMoH78YrBW6WqbDBtgbKts4lEDdvasB",
+      "fullPath": "/Root/Flyguys (Drone Service)",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1S1xRMFMgrEhlYca3ehvEnPwN0KWqdjoO",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Hub International (Insurance)",
+      "folderId": "1jF2DxLwoJJ9ayYwag57gvvDLS2i6QRrH",
+      "fullPath": "/Root/Hub International (Insurance)",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Jeremy's Landscaping",
+      "folderId": "1OIdUwUuycsBiTdlXnfzVWFSLqRrfysTe",
+      "fullPath": "/Root/Jeremy's Landscaping",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "JILES, BROWN & VINSON, LLP",
+      "folderId": "1UmaEMhtp2-QAmpCqc-5H9FxmJzLkP8RD",
+      "fullPath": "/Root/JILES, BROWN & VINSON, LLP",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Joshua Williams",
+      "folderId": "1wjjBm_OMZDzWY-uof1cDYsoYSU1-eAH9",
+      "fullPath": "/Root/Joshua Williams",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Miscellaneous",
+      "folderId": "1feG2fiSnzBbuXWbRQ9Im_rbQ-pOhOETe",
+      "fullPath": "/Root/Miscellaneous",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Mitchell Williams (Conway AR MHP)",
+      "folderId": "1Uz8-2exJONobjJbcw3eXdNxssErp1AqB",
+      "fullPath": "/Root/Mitchell Williams (Conway AR MHP)",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Moore Brother's Printing",
+      "folderId": "1m3eZWKBUCpK1pw4tJa2qSqD2dO2zo5by",
+      "fullPath": "/Root/Moore Brother's Printing",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Renz & Associates (Phase I Enviro)",
+      "folderId": "1bryJ5DCnUnsIE5-e5Pakg6O4arRYZHXo",
+      "fullPath": "/Root/Renz & Associates (Phase I Enviro)",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Rhodes Realty Capital",
+      "folderId": "1l_wUBU1FcDgNUJ38WPC8JfJcv8stX5tI",
+      "fullPath": "/Root/Rhodes Realty Capital",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Taran Electrical and Construction Inc",
+      "folderId": "1Viz0xHRAJH0SqQ4ensAEm6EPsilyL9lI",
+      "fullPath": "/Root/Taran Electrical and Construction Inc",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "Tyler Group (Survey)",
+      "folderId": "1LxZWbe6ZvTVwo7cxzBw2HFirY8R4pp6P",
+      "fullPath": "/Root/Tyler Group (Survey)",
+      "community": "Glen Echo MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1HPssRAvuD0sBQ7Iue6cbspPwp-4LdkkM",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1wswLsjdATSOLdD_TgrlkWIeOGAW-q9ZK",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "1.Lucky Communities LLC",
+      "folderId": "16vYAMuZj0uahcuiww_48CrP8mLQZJm2C",
+      "fullPath": "/Root/1.Lucky Communities LLC",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Acadian Construction Services",
+      "folderId": "13DuuEOpQ4HV-RE9b4Or2sVYvUWcyGfSP",
+      "fullPath": "/Root/Acadian Construction Services",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Acadiana Land Services LLC",
+      "folderId": "1v9rOPcWk7My4Mh4jp4He0D7exLDaXtIx",
+      "fullPath": "/Root/Acadiana Land Services LLC",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "B & B Tree Service",
+      "folderId": "1Np1TiaMPs4AWyeFBOd35p5I_i7KR16ZE",
+      "fullPath": "/Root/B & B Tree Service",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "1zyg2cyiZ_fpEb6FV27kyx3wmcJiiMjSa",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Brothers Fencing",
+      "folderId": "19wPpcMc1oJv85DFSdX5ebUfPM4Och7VR",
+      "fullPath": "/Root/Brothers Fencing",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Bryan Pierre",
+      "folderId": "1bnyvez70vi0TMlw06bMb8xxR8yr-GvVk",
+      "fullPath": "/Root/Bryan Pierre",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Cajun Fencing",
+      "folderId": "1x_oDV7QGH_b92quqwS2TP-ZCe7ycLnx_",
+      "fullPath": "/Root/Cajun Fencing",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Capex Work",
+      "folderId": "1Hxhb6eYlwgxczW8lNvKTGw2bqaH36Qvv",
+      "fullPath": "/Root/Capex Work",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Cashio's Home Improvements LLC",
+      "folderId": "15OS7ySsgIrmWtQz1hlZTc0EE63wD_LbC",
+      "fullPath": "/Root/Cashio's Home Improvements LLC",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Charles Cashio",
+      "folderId": "1hP384daHhnkPL52yyV2t43VgGlTC8gKN",
+      "fullPath": "/Root/Charles Cashio",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Chris Paving",
+      "folderId": "11QWP9khnJp0nAgOcOQg245YCTp7ZWD-m",
+      "fullPath": "/Root/Chris Paving",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Clearstream Services Inc",
+      "folderId": "1itseLxpTgNG048GsX_9poVWjX_nH1gn8",
+      "fullPath": "/Root/Clearstream Services Inc",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "16lSA_VF3NR2XrCHwkG-7DhJ8y3f3ZVID",
+      "fullPath": "/Root/CSC",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Enterprise",
+      "folderId": "171e6dbX3YXjQNqrM6wbS9evBJnUWM7yB",
+      "fullPath": "/Root/Enterprise",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Fastsign",
+      "folderId": "1RR72h8HtdbBPk-1JWe3hMZoBiNZI4HwB",
+      "fullPath": "/Root/Fastsign",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "17ARqk9CsX2OnD-DAiS_q42B9tj54hr_A",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1R9JWd-uGTSUWsj2S317hzeYWIA3pzTVE",
+      "fullPath": "/Root/Home Depot",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Jermanius Francis",
+      "folderId": "1de1l8GdFWs9XfqKPMGEXgfwmDv8bu4Ug",
+      "fullPath": "/Root/Jermanius Francis",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "JFS Services",
+      "folderId": "1wgD5OeZXtWT21xhFYveSJPI7KwhvYmCb",
+      "fullPath": "/Root/JFS Services",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Joseph Broussard",
+      "folderId": "1bUbqnMJiD7ZvNrzq4AdpmJzoseB9eM49",
+      "fullPath": "/Root/Joseph Broussard",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Lynnard Bell",
+      "folderId": "1ATQb21Xq_R0Dsn48KfHTCqurwl6PiDaa",
+      "fullPath": "/Root/Lynnard Bell",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Parish Electrical Solutions",
+      "folderId": "1KT6MozCtMJKoT4Rc0b1vWeFfVY9A08uA",
+      "fullPath": "/Root/Parish Electrical Solutions",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Terry Reimbursement",
+      "folderId": "1aH2KV8aCxHGOBUbQKrgbLByi8lLsnz-i",
+      "fullPath": "/Root/Terry Reimbursement",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "Utility Invoices- Malapart Oaks",
+      "folderId": "1vsOaRDmhOMMLUMnV6v_hAN9n8iQ0JToC",
+      "fullPath": "/Root/Utility Invoices- Malapart Oaks",
+      "community": "Malapart Oaks MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1CWb-ADnvO83lX6kw9hQfrRbqAhPwsJK1",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1p8tXC5gABaa7iYc4q94YY_J4qdFeGr-U",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "1.Lucky Communities LLC",
+      "folderId": "19_eBLdwSnFkm7vwB91eA7R2nenGQcTi9",
+      "fullPath": "/Root/1.Lucky Communities LLC",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "1.Utility Invoices- Lucky Oak",
+      "folderId": "1D7qLWNyhVXJoOKMtcPp75VAlf9hTz6jU",
+      "fullPath": "/Root/1.Utility Invoices- Lucky Oak",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "1zgsP8sKm9FsGSkUslqzdNYrI0FwLyTo0",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Bryan Pierre",
+      "folderId": "1b1fb9nyKNzIgFGyC4LiNpB5R6qc9QKkq",
+      "fullPath": "/Root/Bryan Pierre",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "CAPEX Work",
+      "folderId": "1GPCF34vrdeuC95wlaqJGSthMsRB_RWwZ",
+      "fullPath": "/Root/CAPEX Work",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Chris' Paving",
+      "folderId": "1DYREake2CPCbqzZlbe-w0oFw6s01gfE3",
+      "fullPath": "/Root/Chris' Paving",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "ClearStream Services",
+      "folderId": "1cjt_RFiYwllz6qtJfP_NacxlRNEK0N90",
+      "fullPath": "/Root/ClearStream Services",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Construction Funding Co LLC",
+      "folderId": "131tyYGMq_myukPp3Y5EsukynnTyq5o1j",
+      "fullPath": "/Root/Construction Funding Co LLC",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Contracts",
+      "folderId": "1l5Yi9knDDDpKCcPAORew9fFw80krmzrV",
+      "fullPath": "/Root/Contracts",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "1-YtamqrH7nE9H4Rr1v9ktvgeBhxIZc2v",
+      "fullPath": "/Root/CSC",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Driveway",
+      "folderId": "15CdGxaV0vMR4Lvdz3zf-icDvSUX-lFey",
+      "fullPath": "/Root/Driveway",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Enterprise",
+      "folderId": "195ywWBX2bF2nzTP_65N5Pl1q87pMhC06",
+      "fullPath": "/Root/Enterprise",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Fastsign",
+      "folderId": "1RNMjMmOM_IhFLAk9y5RU4tWE3Ze-XEtM",
+      "fullPath": "/Root/Fastsign",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Giron Consulting LLC",
+      "folderId": "18hyTRBQDqG8Z7pXqK_Ga9NPhez7O6rYl",
+      "fullPath": "/Root/Giron Consulting LLC",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "John Eardley IV",
+      "folderId": "1j50uLJDy32XvT1hAXzQSx1bouDaX0VNu",
+      "fullPath": "/Root/John Eardley IV",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Next Plumbing",
+      "folderId": "1hrSR7bTmUo8MVLeXwYnoUYXn8S0S7QLn",
+      "fullPath": "/Root/Next Plumbing",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Parish Electrical Solutions",
+      "folderId": "1VwHt1KDb85hRsMxpN_91XbbXfb4Tgrya",
+      "fullPath": "/Root/Parish Electrical Solutions",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Pressure Washing & Exterior Cleaning",
+      "folderId": "1hzmzUD_FYC8U0MbZP6xkZSkbjre2n18A",
+      "fullPath": "/Root/Pressure Washing & Exterior Cleaning",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Rayne City Court",
+      "folderId": "1NR9O35YGzwXLKrfbSYG-4PapyE8pI9_R",
+      "fullPath": "/Root/Rayne City Court",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Renasant Bank",
+      "folderId": "1EDNmxkcMud67NmdDha5dnA7yJLgn9Vo4",
+      "fullPath": "/Root/Renasant Bank",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Richoux Electric",
+      "folderId": "1QS4pMImm-qdaJVaFLjZtfdQbC9YCTXAp",
+      "fullPath": "/Root/Richoux Electric",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "Terry Reimbursement",
+      "folderId": "1aCHcHXX302coHHKpck3NrFcTAKp9YvAk",
+      "fullPath": "/Root/Terry Reimbursement",
+      "community": "Lucky Oak MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1KNKFgLgBu-ptfWI3e7u-V61fbFDMqn6m",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1BatyA-21gGFESYxtWrdTbhUcyT-NT8LY",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities LLC",
+      "folderId": "19EqMwvKuFJquzkso0HJujYSoT_XM18Ol",
+      "fullPath": "/Root/1. Lucky Communities LLC",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "1.Utility Invoice - Lucky Pecan",
+      "folderId": "1pOsS0Cj5QnVXPQPYzJW-2d1932K_AAMr",
+      "fullPath": "/Root/1.Utility Invoice - Lucky Pecan",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Acadiana Land Services LLC",
+      "folderId": "101ompVM_6m3Ccz-B8U6u40RV0RpnGnjC",
+      "fullPath": "/Root/Acadiana Land Services LLC",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "B&B Tree Services",
+      "folderId": "1kivSAp-BEs8RkBShQ8dGSAuwQzd3frVa",
+      "fullPath": "/Root/B&B Tree Services",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Bantaa,LLC",
+      "folderId": "1zmk8SnlwTgHoA-vn54KYD-TFeFPxsDLT",
+      "fullPath": "/Root/Bantaa,LLC",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Boudreaux Brothers Contruction LLC",
+      "folderId": "1992Uc8c-_vWyjb5TXRRQIAU3-fWi5y7T",
+      "fullPath": "/Root/Boudreaux Brothers Contruction LLC",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Bryan Pierre",
+      "folderId": "1bHqI7Ux8sPuKEae089AgpFZutk5kOJrU",
+      "fullPath": "/Root/Bryan Pierre",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "C.J.'s Plumbing Repair",
+      "folderId": "1BCvc9Yv2Yrw4qGDbmihNAuUvHwNTmbe7",
+      "fullPath": "/Root/C.J.'s Plumbing Repair",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "CAPEX Work",
+      "folderId": "1z7SQbD4Z_rxG_L9vWvsK5YNNIG_mLQJP",
+      "fullPath": "/Root/CAPEX Work",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Chris' Paving",
+      "folderId": "17bqUpnrPJJLsBAxexJJt2sNH2LNIvd2r",
+      "fullPath": "/Root/Chris' Paving",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "CSC",
+      "folderId": "1-5r9rOsbzeznTa-XjruIh0NVxj4R1F_i",
+      "fullPath": "/Root/CSC",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Enterprise",
+      "folderId": "1qzONPJ2DQ7fqZKhb6cuiJw94YUWz-PVe",
+      "fullPath": "/Root/Enterprise",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Fastsign",
+      "folderId": "1RaXyKIb3njQX18gB3jGxVwG226v4tVvs",
+      "fullPath": "/Root/Fastsign",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1KbzmQmPH01DIulydrToeStMEzT6nBNKu",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Holland Tree Care",
+      "folderId": "1uiQJxMTGhC9k8ZuwH-xvwhctgYr3dIqB",
+      "fullPath": "/Root/Holland Tree Care",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Hub City Tree & Preservation",
+      "folderId": "1tDu0LAgljNFlwqvEIpGPP4AY2H2fq-6t",
+      "fullPath": "/Root/Hub City Tree & Preservation",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Next Plumbing",
+      "folderId": "14N7se40EBJ0PCGEv_8xKWSj8vsRSptGm",
+      "fullPath": "/Root/Next Plumbing",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Parish Electrical",
+      "folderId": "1Hlt99cL2AfxQjtk4ucvfOH1OOr86e043",
+      "fullPath": "/Root/Parish Electrical",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Pressure Washing & Exterior Cleaning",
+      "folderId": "15UJTczfvjy08bI3PetvdlTZ1qdtNSyKO",
+      "fullPath": "/Root/Pressure Washing & Exterior Cleaning",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "Scott's Tree Service, LLC",
+      "folderId": "1fGsQ1I2EoltLI9pFqAeIAICZ1SbGSZ53",
+      "fullPath": "/Root/Scott's Tree Service, LLC",
+      "community": "Lucky Pecan MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1F91jQ55_jdXdhr8hshZcpdiW1YGMAnqY",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1CpQYDej11usE06wRa0wsR7GUYMWbpqso",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "1. Lucky Communities",
+      "folderId": "1qkGjmfCuRA4KBVOphdKk6FL2-UWtwSw9",
+      "fullPath": "/Root/1. Lucky Communities",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "1. Utility Bill Lucky Acadian MHP",
+      "folderId": "1cexMvJ5_Ryz3XHdB5bDwceuiX3f7wve0",
+      "fullPath": "/Root/1. Utility Bill Lucky Acadian MHP",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "AAA Services",
+      "folderId": "1i1DfOhmcj46k_aZRZOvByIdelJ1t8zu-",
+      "fullPath": "/Root/AAA Services",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Acadian Construction Service",
+      "folderId": "1CbzZSfbrgN68GFurJsNo6v0jxVBxngHM",
+      "fullPath": "/Root/Acadian Construction Service",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Acadiana Waste Services",
+      "folderId": "1kdphjXkDJIxpcLQhcbQJuFSO6OP6QVLW",
+      "fullPath": "/Root/Acadiana Waste Services",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "B&B Tree Services",
+      "folderId": "1yYSO6Smv94MMA_jS2XJ0D3FMaXy6plVP",
+      "fullPath": "/Root/B&B Tree Services",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Cashio's Home Improvements LLC",
+      "folderId": "1XKCLjgW1uehc4A0sNBUV8HwQJBCKOFYK",
+      "fullPath": "/Root/Cashio's Home Improvements LLC",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Charles Cassio",
+      "folderId": "186TjRPN-kiDWFyimO8UkpoXaRtyNHoeb",
+      "fullPath": "/Root/Charles Cassio",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Clearstream Services Inc",
+      "folderId": "11NnSY0AugNrrCX2_oOh2dbf6l6Y3A0J4",
+      "fullPath": "/Root/Clearstream Services Inc",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Corporation Services Company",
+      "folderId": "1JEjcn9NaDAkWvh27WZ3fwChmxuiPNBPe",
+      "fullPath": "/Root/Corporation Services Company",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "CSC De_Formation",
+      "folderId": "1OEXelmEAu4wt9ii-0ztiQjFkptNiw11D",
+      "fullPath": "/Root/CSC De_Formation",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Droneguinity",
+      "folderId": "1jOVFeEK-8iYGzsRGpc_x6gzMGxedh0J7",
+      "fullPath": "/Root/Droneguinity",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Fastsign",
+      "folderId": "1q1TqvC1Z5nG-XH7T_Eb-LlRVRb0oZhuC",
+      "fullPath": "/Root/Fastsign",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "FlyGuys",
+      "folderId": "1sUTqSFUp0OO1rRR9KTYe46GiLi-wisGS",
+      "fullPath": "/Root/FlyGuys",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Fuselier Surveying & Mapping",
+      "folderId": "1GSbLiH1BbQYdvOrbK0cysBObJ5kp4u9r",
+      "fullPath": "/Root/Fuselier Surveying & Mapping",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1zbtWcQf7cSuVESqgntHEoaaRtdPsdeFl",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "18lmvu8GmvtoDXNglcEQQ50s-V0kl4SI8",
+      "fullPath": "/Root/Home Depot",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Hub International",
+      "folderId": "1Vb1VzYuZlAKq2g9j35RlMwIvAtjW5RVg",
+      "fullPath": "/Root/Hub International",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Jack Fencing LLC",
+      "folderId": "1F8MtCaOaWVWCJ7HXzIE-WM59KbFB1qcv",
+      "fullPath": "/Root/Jack Fencing LLC",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Joseph Davis",
+      "folderId": "1_XaJzazTgI9t2gL99JTBcGwpD4PwxjYy",
+      "fullPath": "/Root/Joseph Davis",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Joseph Dwayne Davis & Jessica Domingue",
+      "folderId": "1Wy4oZ_l8uoXwp0mn0xICbDrPolAlZTX1",
+      "fullPath": "/Root/Joseph Dwayne Davis & Jessica Domingue",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Lynnard Bell",
+      "folderId": "16iPcj9AAR6_xAwxnyatSo3DGwEK1ZVXq",
+      "fullPath": "/Root/Lynnard Bell",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "New folder",
+      "folderId": "18QavOpu4LXKHdoPb3JMumrbhiz0SpyZv",
+      "fullPath": "/Root/New folder",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Next Plumbing LLC",
+      "folderId": "14qTQ6gDDZIACguQRU6S956ii5JhLQu_J",
+      "fullPath": "/Root/Next Plumbing LLC",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Normand Land Surveying LLC",
+      "folderId": "1ML029Ri4gIFHJ-EFRHXOTKfH4mjfVAoD",
+      "fullPath": "/Root/Normand Land Surveying LLC",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Parish Electrical Solutions",
+      "folderId": "1xvh6ZRZ9Bx1IHt3l6mSBMDUdE8w4Flud",
+      "fullPath": "/Root/Parish Electrical Solutions",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Pelican Waste & Debris LLC",
+      "folderId": "1o4u-tNak7z6ADtPDPIptdOJiN46GPpyW",
+      "fullPath": "/Root/Pelican Waste & Debris LLC",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Pioneer Surveying",
+      "folderId": "1jEk7pfV0_Q-XOi8yeK8aQ6gqrTaYLtEA",
+      "fullPath": "/Root/Pioneer Surveying",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Renz & Associates",
+      "folderId": "1SKx9VSZoYrfqy_arujr8wYaB8yDZMfVC",
+      "fullPath": "/Root/Renz & Associates",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Republic Services",
+      "folderId": "1A2C9unVGhbGT_SGU7VUoqfl0wMQeJaIK",
+      "fullPath": "/Root/Republic Services",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Vista Print",
+      "folderId": "10qem6TXrfCaSzR5O-ljwpoYW3-pDlq5l",
+      "fullPath": "/Root/Vista Print",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "Waste Connections",
+      "folderId": "1t0nEem3fzXYdHSdyGfS1mlZeAr_SVQoc",
+      "fullPath": "/Root/Waste Connections",
+      "community": "Lucky Acadian"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "folderId": "1GHJePGszu9GXMKlPAm9RaLHg_M7OxwuG",
+      "fullPath": "/Root/{Vendor Name_Vendor Category } TEMPLATE ONLY PLEASE COPY",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "00 | ALL INVOICES",
+      "folderId": "1fhmfVonn7Mak1d3rmhKnAIkuE9tzSH3O",
+      "fullPath": "/Root/00 | ALL INVOICES",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "1. Lucky Communities LLC",
+      "folderId": "1GtF_y6BHOEyvKHm6j8uAPasaadDZ2yFD",
+      "fullPath": "/Root/1. Lucky Communities LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "1. Utility-Pecanland MHP & RV Park",
+      "folderId": "1UH5yfDGdDYdrPZT2vgnf2YFpzpH8DIma",
+      "fullPath": "/Root/1. Utility-Pecanland MHP & RV Park",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "3B Outdoor Equipment",
+      "folderId": "1vdaCqEUhfUcvw_Xwn6-K3l2yeDeTNbv9",
+      "fullPath": "/Root/3B Outdoor Equipment",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Acquisition Fee",
+      "folderId": "1z7fY93jDlTXRpE-TM2ypw7T_Cs4gCmfN",
+      "fullPath": "/Root/Acquisition Fee",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "AGS Tree Services",
+      "folderId": "19xJCJowEfrScbWVOfvspyD3oGdSDvI7O",
+      "fullPath": "/Root/AGS Tree Services",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "All Plumbing",
+      "folderId": "19i8QyklN5Of2D_-GLYI-o_7MoBpIeft8",
+      "fullPath": "/Root/All Plumbing",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Amazon",
+      "folderId": "1nDhtpGCa4wqxnjOAVV5zv8hS_c4AmkzI",
+      "fullPath": "/Root/Amazon",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "American Exterminating Inc",
+      "folderId": "10dDuBP8ycLux8M29kV42GChs7aS06x5j",
+      "fullPath": "/Root/American Exterminating Inc",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Anderson land surveying LLC",
+      "folderId": "1Q6MzzavjEVpdLLGa8dbNLZaIGnHQPgxb",
+      "fullPath": "/Root/Anderson land surveying LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Atmos Energy",
+      "folderId": "1h1pQO-0NeDhuGhvN1I7R6uzlJmEELdWe",
+      "fullPath": "/Root/Atmos Energy",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "B&B Tree Service",
+      "folderId": "1Ba-vRdrDnensiJ5JIONmkyPBRHOjbc1G",
+      "fullPath": "/Root/B&B Tree Service",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Bayou Fence",
+      "folderId": "1QDVigiknyfzpg0PHndAupCofF_ZU8niO",
+      "fullPath": "/Root/Bayou Fence",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Bishop Painters",
+      "folderId": "1mo7aOqoKGDUqbpm4AQxhM6RC1EMsfFZ5",
+      "fullPath": "/Root/Bishop Painters",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Blevins",
+      "folderId": "1nv5KNj91UYnXWCMiQ9HDt89P7UHgEWru",
+      "fullPath": "/Root/Blevins",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Bonner Dirt Contractors, Inc",
+      "folderId": "1uMfeaabimbcQXUafw_SUaNPXj6M6Qx-M",
+      "fullPath": "/Root/Bonner Dirt Contractors, Inc",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Bring 'Em Down Universal Tree",
+      "folderId": "1gmgoIopVbZ7ouwGrfKW1CIg39WNLW9qN",
+      "fullPath": "/Root/Bring 'Em Down Universal Tree",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Brown's Roofing",
+      "folderId": "1iWhElbH-MgSJ9ZVZdu3tR4Yc7wqyxq6g",
+      "fullPath": "/Root/Brown's Roofing",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Build Core",
+      "folderId": "1D73jGB0lhtfGvyavCkc8gzODVHTXGlzE",
+      "fullPath": "/Root/Build Core",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Chad Curfman",
+      "folderId": "1fARZ85TcGF9tDBxkjqLKlci-MncGQKsp",
+      "fullPath": "/Root/Chad Curfman",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Charles Earls",
+      "folderId": "1DlPJFXLHkGXj0net5esHhHtouogzreqG",
+      "fullPath": "/Root/Charles Earls",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Chris Harrizon",
+      "folderId": "1YK94cpiYPkYCcH4HHYyfyUHrXUj05wwY",
+      "fullPath": "/Root/Chris Harrizon",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Christina Palmer",
+      "folderId": "1uhHWTjGt8YDJb9JDXwZKukPlhYTESnEz",
+      "fullPath": "/Root/Christina Palmer",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Clack Land Surveying LLC",
+      "folderId": "1dNghSKEidObDWlWU1mJvOmHxE2-8e6Lf",
+      "fullPath": "/Root/Clack Land Surveying LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Clearsteam Services Inc",
+      "folderId": "1v2HLK-0o286iZruOmEJrvIX4RkDgIaEC",
+      "fullPath": "/Root/Clearsteam Services Inc",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Clinton Cole",
+      "folderId": "1PsvaXww0AVaXwIM4jmAuF7z5ITBiggvb",
+      "fullPath": "/Root/Clinton Cole",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Costco",
+      "folderId": "1dFVJmxcaL4F4bQ7F8ydr-Pfyq3QhfB10",
+      "fullPath": "/Root/Costco",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Country Estate Fence of the South",
+      "folderId": "1eOAhiCN9irD47XC0O7AQLfnxfTkb9Inu",
+      "fullPath": "/Root/Country Estate Fence of the South",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Creditcard",
+      "folderId": "1L3TsCnq5bQm5FerVuG5XxqnDfzbjMZUY",
+      "fullPath": "/Root/Creditcard",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Delta Land Construction LLC",
+      "folderId": "1H6t4uSIK_drzDtckI0bg3wpDSvGrM-oo",
+      "fullPath": "/Root/Delta Land Construction LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Delta Land Surveying LLC",
+      "folderId": "1ivFi4qIuZ01-3CQM1KmOW7uxjtt4tfWb",
+      "fullPath": "/Root/Delta Land Surveying LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Denzel's Heating & A:C Solutions",
+      "folderId": "1IVrsoiC2bKIEZd8a5Mfz6KFJ2kq1X1F0",
+      "fullPath": "/Root/Denzel's Heating & A:C Solutions",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Derrick Sanders",
+      "folderId": "1V6O1BCak7qWI4cnlu9WhuqmkHx9odgGg",
+      "fullPath": "/Root/Derrick Sanders",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Drop Line Electric, LLC",
+      "folderId": "1wU04cT4Av2tsl4UKkVrYWSJwLfrc-MZ0",
+      "fullPath": "/Root/Drop Line Electric, LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Erica Palmer",
+      "folderId": "17KfXhq9GlUd4OWInyWTvnaAXIumGtcEm",
+      "fullPath": "/Root/Erica Palmer",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Fox Family Electric",
+      "folderId": "1V1ofS31nqWcBKvG_sFQmp-ZOECIWKN7O",
+      "fullPath": "/Root/Fox Family Electric",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Fuzzell Tree Services",
+      "folderId": "1sOv3bYrY19ONlaagS-mk6GWweTBpMct0",
+      "fullPath": "/Root/Fuzzell Tree Services",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Gallagher Construction Services",
+      "folderId": "1KmI2TEBCQ-MmkmaibaR9vj1uq_5ruyvX",
+      "fullPath": "/Root/Gallagher Construction Services",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Giron Consulting",
+      "folderId": "1hJ8YKo0qpTTbUrUvo58u4MURh1-J1Cm4",
+      "fullPath": "/Root/Giron Consulting",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Given Concrete & Dirt Works",
+      "folderId": "1kpwsoOxlBiCkt0O9UiB0uQnAZHWnmaD6",
+      "fullPath": "/Root/Given Concrete & Dirt Works",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Grainger",
+      "folderId": "1aNWUsAXePeqZnvV8v__X8NheslMw0hDi",
+      "fullPath": "/Root/Grainger",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Ground Penetrating Radas Systems LLC",
+      "folderId": "1eWiVwGhXV3dtsJQxQqL5OsnykQd1Rzrd",
+      "fullPath": "/Root/Ground Penetrating Radas Systems LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "H&J Excavating",
+      "folderId": "1GeMiCHvRAIBFdEHiO0xLimm-BjVtiWNQ",
+      "fullPath": "/Root/H&J Excavating",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Hammet Well Service Inc",
+      "folderId": "12knvUG8NKNubWZifrSl7KVFLkzHUAkKI",
+      "fullPath": "/Root/Hammet Well Service Inc",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Harris Construction Remodeling",
+      "folderId": "1qB-xQQHy-B8OhVY469_rFRnZ3XxwG9sF",
+      "fullPath": "/Root/Harris Construction Remodeling",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Home Depot",
+      "folderId": "1uPDiKXQq4LImT4PWEH_gm6zK1IaoArbM",
+      "fullPath": "/Root/Home Depot",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Hub International",
+      "folderId": "1EXk0xH5ZlO5K1rZz2ttn6QVPRFaz1B1M",
+      "fullPath": "/Root/Hub International",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Jason - Local Contractor",
+      "folderId": "1gl0pjFOD6C4qMRNLQ3iSeSakR2kgMFCH",
+      "fullPath": "/Root/Jason - Local Contractor",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Jeremy Perkins",
+      "folderId": "1ScP7tbEAkWnIeuUpqSOMa-64djiye_n4",
+      "fullPath": "/Root/Jeremy Perkins",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Jerry Arrant",
+      "folderId": "19w_TUhhA6cGVStK3ItkotQ7FlAkENv7h",
+      "fullPath": "/Root/Jerry Arrant",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Jimmy Lee Jackson",
+      "folderId": "1MI211JkxByXw7bSBwlxVRZi3X02YOQXQ",
+      "fullPath": "/Root/Jimmy Lee Jackson",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "JMM Interests LLC - Jim Mccormick",
+      "folderId": "1wo_TLc8F2--UlCkELxwMUXQa7OrjhKHR",
+      "fullPath": "/Root/JMM Interests LLC - Jim Mccormick",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Josh Blackmon",
+      "folderId": "1LSZE2nZVN6ot4XFfZWpsE3pEHzlUOw2Z",
+      "fullPath": "/Root/Josh Blackmon",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Joshua C. Blackmon",
+      "folderId": "1NgpxUP71JdyScPWlvZtkJz9rGoiYYS4h",
+      "fullPath": "/Root/Joshua C. Blackmon",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Joshua Whirley-Lewis",
+      "folderId": "1_tVJ1cKcWth_Y3ho_voKrlAwcyg-mkJB",
+      "fullPath": "/Root/Joshua Whirley-Lewis",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Keith Galdmor",
+      "folderId": "1Z6l-KrQCblKQA-0aRzpcNA9zao60yj6c",
+      "fullPath": "/Root/Keith Galdmor",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Keith Gallman",
+      "folderId": "1i-xcpDuORMynlnQ3wa7D7W52Ea43kc3S",
+      "fullPath": "/Root/Keith Gallman",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Legacy Constructions LLC",
+      "folderId": "1X-GAopKker_1SUhYw671yK_PDThmXVA_",
+      "fullPath": "/Root/Legacy Constructions LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Legacy Homes",
+      "folderId": "1Ix38cftKuA8tkqOoSikrkXamYOwdpnsn",
+      "fullPath": "/Root/Legacy Homes",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Level Tech",
+      "folderId": "1OlhYnF7oit32C6qoTat2WBWaclSPX1yT",
+      "fullPath": "/Root/Level Tech",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "louisian logo interstate",
+      "folderId": "1fh2MgoznrVvo4hyQQCkuF_P5pUeQT-hh",
+      "fullPath": "/Root/louisian logo interstate",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Marlon's Tree Removal & Logging",
+      "folderId": "1mZXEgPxll7cBOU2Lv-88psiHSWo9mObv",
+      "fullPath": "/Root/Marlon's Tree Removal & Logging",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "MATAT",
+      "folderId": "1o67GnnUn6DQ-oyguIcJo-xt6Nz0WUwfl",
+      "fullPath": "/Root/MATAT",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Matthew Tree and Dirt Servics",
+      "folderId": "128NOm0zlLbQNDJKcXSvfeg1RgJKqhj3J",
+      "fullPath": "/Root/Matthew Tree and Dirt Servics",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Miller Sullivan & Demarcay",
+      "folderId": "1dF1LZhKbtoTyst2yIr9OELgFjSksGERB",
+      "fullPath": "/Root/Miller Sullivan & Demarcay",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Next Level Home Installations",
+      "folderId": "1nH6ByojSIdzRyNWA_sdMmQ9B8pN7LsBZ",
+      "fullPath": "/Root/Next Level Home Installations",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Northeast Louisiana Containers LLC",
+      "folderId": "1E9KCZR_JArGq7cXqZMdSAhliWiHPFiKt",
+      "fullPath": "/Root/Northeast Louisiana Containers LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Pennington Service_Water Filter",
+      "folderId": "1SPpQf9E1M7-RGllLEMGhgl5o9cBME1rV",
+      "fullPath": "/Root/Pennington Service_Water Filter",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Phipps Mobile Home Service",
+      "folderId": "1o0PwPnucxcVzyxx7K920ZJgzVEfOQKVv",
+      "fullPath": "/Root/Phipps Mobile Home Service",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Pleasant Repairs LLC",
+      "folderId": "1R-J9M8sK7tnEUYIj7Dc8U1cPdr-9TZcb",
+      "fullPath": "/Root/Pleasant Repairs LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Plumbing Solutions",
+      "folderId": "11qYxCtyeRK4GlnGzpW3BFa46oyGFh-gt",
+      "fullPath": "/Root/Plumbing Solutions",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Posey's Air Conditioning and Heating",
+      "folderId": "1NArMjt3T6iIWUauNaX9spVRPW9H2K2mm",
+      "fullPath": "/Root/Posey's Air Conditioning and Heating",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Professional Land Surveying Co",
+      "folderId": "1SUJrBp9rygJL2DaCJ7wF3T_h_f_KWk-B",
+      "fullPath": "/Root/Professional Land Surveying Co",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Renz & Associates",
+      "folderId": "1QbLAvMGD383250-_m6befoKNfpvzjctG",
+      "fullPath": "/Root/Renz & Associates",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Riley Wilson Electric LLC",
+      "folderId": "1eEfAiirbf5k8QD9S8SjS2cHkpJNLzwC0",
+      "fullPath": "/Root/Riley Wilson Electric LLC",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Roto Rooter Plumbers",
+      "folderId": "1CFiIj3G7kLxGVAibpa7GKAj1WWYLxA5l",
+      "fullPath": "/Root/Roto Rooter Plumbers",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "S.E. Huey Co",
+      "folderId": "12iJCREmLpL1Rl1Ih_awYD4l0RStoom7F",
+      "fullPath": "/Root/S.E. Huey Co",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Signsnow",
+      "folderId": "1czTbUWxkRQ2rNvNh4YuW3eLHEUnl2hcu",
+      "fullPath": "/Root/Signsnow",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Solar King Window Tint",
+      "folderId": "1KTmz-hJRduveArRfeh__xX7Nr7F2krF-",
+      "fullPath": "/Root/Solar King Window Tint",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Sparks Heat & Air",
+      "folderId": "1IjfUC2qL0PGim-3W4EcM28eM5hmSu19X",
+      "fullPath": "/Root/Sparks Heat & Air",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Speedread Technologies",
+      "folderId": "1jA-ruXkU-3ouI9XgkhG4dJCt-mtSnKSS",
+      "fullPath": "/Root/Speedread Technologies",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Speedread Technologies_Water Meter Installation",
+      "folderId": "1corvqFRmAmewPXVXchjzBBYJARyLssn9",
+      "fullPath": "/Root/Speedread Technologies_Water Meter Installation",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Spence's Fences & Decks",
+      "folderId": "1HnWrDzQTEFZ5L9qfOYMc2zMsM1iyCmB1",
+      "fullPath": "/Root/Spence's Fences & Decks",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Spence's Fences and Decks",
+      "folderId": "1TFMHAaqdvHZi3gdJdPftxAFNjLSrUbrX",
+      "fullPath": "/Root/Spence's Fences and Decks",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Taco Bell",
+      "folderId": "1u6CBf_Fuyr72cnajxeuVPpfAsG_2EzKm",
+      "fullPath": "/Root/Taco Bell",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Vista Print",
+      "folderId": "12h6YdFgH8ASraCyIwgWcVaV2vEnCcX--",
+      "fullPath": "/Root/Vista Print",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Weather Pro -Roofing",
+      "folderId": "1v_XboDFKZ4sg9fCToogIX8lGvpUZUSUH",
+      "fullPath": "/Root/Weather Pro -Roofing",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Winters Title",
+      "folderId": "14aaHC_tSZTMLuFqhOF_R48sMZCXAhkMR",
+      "fullPath": "/Root/Winters Title",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "Young Construction & Handymen",
+      "folderId": "12J0PuQbBzo8Is20pAP2jubdgTbh6YqAv",
+      "fullPath": "/Root/Young Construction & Handymen",
+      "community": "Market Cross Monroe MHP"
+    },
+    {
+      "folderName": "{Vendor Name_Vendor Category }",
+      "folderId": "1URSeMQDU-9vQMKSIEBakpDZhqI_Y6Z9c",
+      "fullPath": "/Root/{Vendor Name_Vendor Category }",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "1 Lucky Communities",
+      "folderId": "1fxPcPabl_Q7Wv98lhPwfHWfJYpcM9xxF",
+      "fullPath": "/Root/1 Lucky Communities",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "B&B Tree Service",
+      "folderId": "1XLbrawHD79PIQz6QuMBFPERRl9e8xl-J",
+      "fullPath": "/Root/B&B Tree Service",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Cajun Fencing and Improvements, LLC",
+      "folderId": "12YYRqeadSuVMbY1R73HZP1hlZjo1EMSS",
+      "fullPath": "/Root/Cajun Fencing and Improvements, LLC",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Chris' Paving LLC",
+      "folderId": "1w_Kjs6Xb7CM-tIzkUZsNxfN0bjJS0N7o",
+      "fullPath": "/Root/Chris' Paving LLC",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Coburn's",
+      "folderId": "1tlWkV9RBocQKjAP4xmqnRaJvIPcvS6r1",
+      "fullPath": "/Root/Coburn's",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Dragon Boys Lawn Care",
+      "folderId": "16tHpfzabaP8WKXmQ3uJIQJdKN5KZWCth",
+      "fullPath": "/Root/Dragon Boys Lawn Care",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Fast Signs of New Orleans",
+      "folderId": "1eN2DPWdpO5h8_qjU13Ss_Iios91PYHdZ",
+      "fullPath": "/Root/Fast Signs of New Orleans",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Fuselier Surveying",
+      "folderId": "1HcNPZ0DTnEb1HEe5MniGnCdCDvzi3FZu",
+      "fullPath": "/Root/Fuselier Surveying",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Henderson-Nina Water System",
+      "folderId": "1WTAMGqixqlXfGVsLBZx4xeDtGKURaBQI",
+      "fullPath": "/Root/Henderson-Nina Water System",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Homestore Directs",
+      "folderId": "1OAh-Blxc4XxdsVu8uSRJvKNtgOu-cqFq",
+      "fullPath": "/Root/Homestore Directs",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Hub International",
+      "folderId": "1lFpthj8me5OOg9mzpJimDp-iHRHuFL9R",
+      "fullPath": "/Root/Hub International",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Joe Maniscalco, Jr. Land Surveyor",
+      "folderId": "1Ayg-l5GveIqoLXJUNDJ7euPuEn9fSLCn",
+      "fullPath": "/Root/Joe Maniscalco, Jr. Land Surveyor",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Let's Get It Done Lawn Care LLC",
+      "folderId": "1XnANnO5JAcU6gp9eQQcGrvGQwhbfT7Yd",
+      "fullPath": "/Root/Let's Get It Done Lawn Care LLC",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Normand Land Surveying",
+      "folderId": "14HjUHoihC7AA9jjZ-Kq43K9-GhpFMObJ",
+      "fullPath": "/Root/Normand Land Surveying",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Renz & Associates",
+      "folderId": "1FvS1u_dj58n-9bNoAonhOiybbDzjCl43",
+      "fullPath": "/Root/Renz & Associates",
+      "community": "Henderson MHP"
+    },
+    {
+      "folderName": "Schwing Electric",
+      "folderId": "1btjD0EoSXVFd6Nh5MspMddPmiYkP3ONn",
+      "fullPath": "/Root/Schwing Electric",
+      "community": "Henderson MHP"
+    }
+  ]
+}

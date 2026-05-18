@@ -1,0 +1,909 @@
+{
+  "glAccounts": [
+    {
+      "glAccountId": 8,
+      "name": "Pet Fees",
+      "reference": "4111"
+    },
+    {
+      "glAccountId": 9,
+      "name": "Other Receivables",
+      "reference": "1299"
+    },
+    {
+      "glAccountId": 12,
+      "name": "Furniture",
+      "reference": "1750"
+    },
+    {
+      "glAccountId": 14,
+      "name": "Other Assets",
+      "reference": "1799"
+    },
+    {
+      "glAccountId": 19,
+      "name": "Other Payables",
+      "reference": "2101"
+    },
+    {
+      "glAccountId": 21,
+      "name": "Vehicle Loans",
+      "reference": "2411"
+    },
+    {
+      "glAccountId": 22,
+      "name": "Short Term Loans",
+      "reference": "2410"
+    },
+    {
+      "glAccountId": 24,
+      "name": "REFUNDABLE DEPOSITS",
+      "reference": "2250"
+    },
+    {
+      "glAccountId": 31,
+      "name": "RENTAL PROPERTY INCOME",
+      "reference": "4100"
+    },
+    {
+      "glAccountId": 33,
+      "name": "UTILITY INCOME",
+      "reference": "4400"
+    },
+    {
+      "glAccountId": 34,
+      "name": "Home Sales",
+      "reference": "4502"
+    },
+    {
+      "glAccountId": 35,
+      "name": "HOME SALES, FINANCING, & LEASING",
+      "reference": "4500"
+    },
+    {
+      "glAccountId": 36,
+      "name": "Interest Income",
+      "reference": "4501"
+    },
+    {
+      "glAccountId": 39,
+      "name": "CONCESSIONS",
+      "reference": "4130"
+    },
+    {
+      "glAccountId": 41,
+      "name": "Marketing",
+      "reference": "5010"
+    },
+    {
+      "glAccountId": 42,
+      "name": "Travel",
+      "reference": "5023"
+    },
+    {
+      "glAccountId": 43,
+      "name": "REPAIRS & MAINTENANCE",
+      "reference": "5100"
+    },
+    {
+      "glAccountId": 44,
+      "name": "Management Fees Expense",
+      "reference": "5000"
+    },
+    {
+      "glAccountId": 45,
+      "name": "INSURANCE EXPENSE",
+      "reference": "5050"
+    },
+    {
+      "glAccountId": 47,
+      "name": "Interest Expense",
+      "reference": "6230"
+    },
+    {
+      "glAccountId": 49,
+      "name": "UTILITIES EXPENSE",
+      "reference": "5400"
+    },
+    {
+      "glAccountId": 50,
+      "name": "Licenses & Permits",
+      "reference": "5303"
+    },
+    {
+      "glAccountId": 52,
+      "name": "Telephone Services",
+      "reference": "5603"
+    },
+    {
+      "glAccountId": 53,
+      "name": "PAYROLL EXPENSES",
+      "reference": "5700"
+    },
+    {
+      "glAccountId": 58,
+      "name": "Rental Expense",
+      "reference": "5900"
+    },
+    {
+      "glAccountId": 59,
+      "name": "AUTO & TRAVEL EXPENSE",
+      "reference": "5020"
+    },
+    {
+      "glAccountId": 60,
+      "name": "Depreciation Expense",
+      "reference": "6200"
+    },
+    {
+      "glAccountId": 61,
+      "name": "Other Expenses",
+      "reference": "6000"
+    },
+    {
+      "glAccountId": 68,
+      "name": "Country Estates Mobile Home Park Equity",
+      "reference": "3020"
+    },
+    {
+      "glAccountId": 73,
+      "name": "Security Deposit Forfeitures",
+      "reference": "4800"
+    },
+    {
+      "glAccountId": 74,
+      "name": "Landscaping (Income)",
+      "reference": "4303"
+    },
+    {
+      "glAccountId": 76,
+      "name": "MAINTENANCE INCOME",
+      "reference": "4300"
+    },
+    {
+      "glAccountId": 77,
+      "name": "Storage Fees",
+      "reference": "4112"
+    },
+    {
+      "glAccountId": 80,
+      "name": "Parking",
+      "reference": "4119"
+    },
+    {
+      "glAccountId": 85,
+      "name": "Accounts Receivable",
+      "reference": "1200"
+    },
+    {
+      "glAccountId": 86,
+      "name": "Accounts Payable",
+      "reference": "2100"
+    },
+    {
+      "glAccountId": 87,
+      "name": "Undeposited Funds",
+      "reference": "1450"
+    },
+    {
+      "glAccountId": 88,
+      "name": "Prepaid Income",
+      "reference": "4700"
+    },
+    {
+      "glAccountId": 93,
+      "name": "Labor",
+      "reference": "4304"
+    },
+    {
+      "glAccountId": 94,
+      "name": "Inventory",
+      "reference": "1300"
+    },
+    {
+      "glAccountId": 95,
+      "name": "Windows",
+      "reference": "5111"
+    },
+    {
+      "glAccountId": 96,
+      "name": "Carpet",
+      "reference": "5101.1"
+    },
+    {
+      "glAccountId": 103,
+      "name": "CAM EXPENSES",
+      "reference": "5500"
+    },
+    {
+      "glAccountId": 110,
+      "name": "Late Fees",
+      "reference": "4118"
+    },
+    {
+      "glAccountId": 113,
+      "name": "Net Income",
+      "reference": "3090"
+    },
+    {
+      "glAccountId": 114,
+      "name": "Retained Earnings",
+      "reference": "3080"
+    },
+    {
+      "glAccountId": 115,
+      "name": "CAM INCOME",
+      "reference": "4200"
+    },
+    {
+      "glAccountId": 116,
+      "name": "Cleaning (Income)",
+      "reference": "4302"
+    },
+    {
+      "glAccountId": 119,
+      "name": "Gas & Propane (Income)",
+      "reference": "4401"
+    },
+    {
+      "glAccountId": 120,
+      "name": "Electric (Income)",
+      "reference": "4403"
+    },
+    {
+      "glAccountId": 121,
+      "name": "Waste Removal",
+      "reference": "4404"
+    },
+    {
+      "glAccountId": 125,
+      "name": "Gas & Propane",
+      "reference": "5401"
+    },
+    {
+      "glAccountId": 127,
+      "name": "Car Insurance Expense",
+      "reference": "5051"
+    },
+    {
+      "glAccountId": 128,
+      "name": "Property Insurance Expense",
+      "reference": "5052"
+    },
+    {
+      "glAccountId": 129,
+      "name": "Liability Insurance Expense",
+      "reference": "5053"
+    },
+    {
+      "glAccountId": 136,
+      "name": "OFFICE EXPENSES",
+      "reference": "5600"
+    },
+    {
+      "glAccountId": 142,
+      "name": "Loan Payable Home Bank PPR (Messer)",
+      "reference": "2610"
+    },
+    {
+      "glAccountId": 146,
+      "name": "Subsidized Housing Income",
+      "reference": "4125"
+    },
+    {
+      "glAccountId": 147,
+      "name": "Condo Fees",
+      "reference": "4115"
+    },
+    {
+      "glAccountId": 149,
+      "name": "Management Fee Income",
+      "reference": "4000"
+    },
+    {
+      "glAccountId": 150,
+      "name": "Steele Creek MHP Equity",
+      "reference": "3030"
+    },
+    {
+      "glAccountId": 151,
+      "name": "Make Ready",
+      "reference": "5106"
+    },
+    {
+      "glAccountId": 153,
+      "name": "Supplies (Income)",
+      "reference": "4301"
+    },
+    {
+      "glAccountId": 154,
+      "name": "Not Linked Income",
+      "reference": "4999"
+    },
+    {
+      "glAccountId": 159,
+      "name": "Association Dues",
+      "reference": "4114"
+    },
+    {
+      "glAccountId": 160,
+      "name": "Application Fees",
+      "reference": "4116"
+    },
+    {
+      "glAccountId": 162,
+      "name": "Plumbing",
+      "reference": "5108"
+    },
+    {
+      "glAccountId": 164,
+      "name": "CAM - Repairs & Maintenance (Exp)",
+      "reference": "5501"
+    },
+    {
+      "glAccountId": 165,
+      "name": "CAM - Property Tax (Exp)",
+      "reference": "5502"
+    },
+    {
+      "glAccountId": 171,
+      "name": "CAM - Repairs & Maintenance (Inc)",
+      "reference": "4201"
+    },
+    {
+      "glAccountId": 172,
+      "name": "CAM - Property Tax (Inc)",
+      "reference": "4202"
+    },
+    {
+      "glAccountId": 176,
+      "name": "Move in Specials",
+      "reference": "4131"
+    },
+    {
+      "glAccountId": 177,
+      "name": "Cash Basis Write-Offs",
+      "reference": "4600"
+    },
+    {
+      "glAccountId": 178,
+      "name": "Early Payment Discount",
+      "reference": "4132"
+    },
+    {
+      "glAccountId": 179,
+      "name": "Notes Receivable",
+      "reference": "1510"
+    },
+    {
+      "glAccountId": 191,
+      "name": "Owner Reserves",
+      "reference": "3031"
+    },
+    {
+      "glAccountId": 193,
+      "name": "Bad Debt",
+      "reference": "6120"
+    },
+    {
+      "glAccountId": 195,
+      "name": "NSF Fees",
+      "reference": "4117"
+    },
+    {
+      "glAccountId": 200,
+      "name": "Internet Services",
+      "reference": "5602"
+    },
+    {
+      "glAccountId": 202,
+      "name": "Sales Tax Payable",
+      "reference": "2560"
+    },
+    {
+      "glAccountId": 207,
+      "name": "Landscaping",
+      "reference": "5104"
+    },
+    {
+      "glAccountId": 212,
+      "name": "Water & Sewer",
+      "reference": "5402"
+    },
+    {
+      "glAccountId": 213,
+      "name": "Software",
+      "reference": "5604"
+    },
+    {
+      "glAccountId": 215,
+      "name": "Office Supplies",
+      "reference": "5601"
+    },
+    {
+      "glAccountId": 217,
+      "name": "State Taxes",
+      "reference": "5302"
+    },
+    {
+      "glAccountId": 219,
+      "name": "Electric",
+      "reference": "5403"
+    },
+    {
+      "glAccountId": 221,
+      "name": "Lot Rental Income",
+      "reference": "4110"
+    },
+    {
+      "glAccountId": 229,
+      "name": "Work Credit",
+      "reference": "4133"
+    },
+    {
+      "glAccountId": 230,
+      "name": "Legal Fees",
+      "reference": "5062"
+    },
+    {
+      "glAccountId": 232,
+      "name": "LEGAL & PROFESSIONAL FEES",
+      "reference": "5060"
+    },
+    {
+      "glAccountId": 233,
+      "name": "Pet Deposits",
+      "reference": "2252"
+    },
+    {
+      "glAccountId": 234,
+      "name": "Security Deposits",
+      "reference": "2251"
+    },
+    {
+      "glAccountId": 235,
+      "name": "Damages",
+      "reference": "4305"
+    },
+    {
+      "glAccountId": 238,
+      "name": "Garage",
+      "reference": "4113"
+    },
+    {
+      "glAccountId": 241,
+      "name": "Security Deposit Interest",
+      "reference": "2253"
+    },
+    {
+      "glAccountId": 246,
+      "name": "Cleaning",
+      "reference": "5102.1"
+    },
+    {
+      "glAccountId": 250,
+      "name": "Water & Sewer (Income)",
+      "reference": "4402"
+    },
+    {
+      "glAccountId": 253,
+      "name": "Meals",
+      "reference": "5021"
+    },
+    {
+      "glAccountId": 254,
+      "name": "Entertainment",
+      "reference": "5022"
+    },
+    {
+      "glAccountId": 256,
+      "name": "TAXES & LICENSES EXPENSE",
+      "reference": "5300"
+    },
+    {
+      "glAccountId": 257,
+      "name": "Property Taxes",
+      "reference": "5301"
+    },
+    {
+      "glAccountId": 258,
+      "name": "CAM - Insurance (Exp)",
+      "reference": "5503"
+    },
+    {
+      "glAccountId": 261,
+      "name": "CAM - Utilities (Exp)",
+      "reference": "5504"
+    },
+    {
+      "glAccountId": 262,
+      "name": "Garbage",
+      "reference": "5404"
+    },
+    {
+      "glAccountId": 263,
+      "name": "Supplies Expense",
+      "reference": "5110"
+    },
+    {
+      "glAccountId": 267,
+      "name": "CAM - Insurance (Inc)",
+      "reference": "4203"
+    },
+    {
+      "glAccountId": 269,
+      "name": "CAM - Utilities (Inc)",
+      "reference": "4204"
+    },
+    {
+      "glAccountId": 270,
+      "name": "Postage",
+      "reference": "5605"
+    },
+    {
+      "glAccountId": 271,
+      "name": "Bank Fees",
+      "reference": "5650"
+    },
+    {
+      "glAccountId": 272,
+      "name": "Clearing Account",
+      "reference": "1298"
+    },
+    {
+      "glAccountId": 273,
+      "name": "Accumulated Depreciation",
+      "reference": "1710"
+    },
+    {
+      "glAccountId": 274,
+      "name": "Unearned Income",
+      "reference": "2599"
+    },
+    {
+      "glAccountId": 275,
+      "name": "Accounting Fees",
+      "reference": "5063"
+    },
+    {
+      "glAccountId": 276,
+      "name": "HVAC Repair",
+      "reference": "5103"
+    },
+    {
+      "glAccountId": 277,
+      "name": "Salaries & Wages",
+      "reference": "5701"
+    },
+    {
+      "glAccountId": 278,
+      "name": "Payroll Taxes",
+      "reference": "5702"
+    },
+    {
+      "glAccountId": 279,
+      "name": "Health Insurance",
+      "reference": "5703"
+    },
+    {
+      "glAccountId": 280,
+      "name": "Employee Benefits",
+      "reference": "5704"
+    },
+    {
+      "glAccountId": 281,
+      "name": "Retirement Plan Expense",
+      "reference": "5705"
+    },
+    {
+      "glAccountId": 282,
+      "name": "General Repairs (Income)",
+      "reference": "4306"
+    },
+    {
+      "glAccountId": 284,
+      "name": "Computers & Software",
+      "reference": "1740"
+    },
+    {
+      "glAccountId": 286,
+      "name": "Other Equipment",
+      "reference": "1770"
+    },
+    {
+      "glAccountId": 287,
+      "name": "Vehicles",
+      "reference": "1780"
+    },
+    {
+      "glAccountId": 288,
+      "name": "OTHER CURRENT LIABILITIES",
+      "reference": "2300"
+    },
+    {
+      "glAccountId": 289,
+      "name": "Line of Credit",
+      "reference": "2301"
+    },
+    {
+      "glAccountId": 290,
+      "name": "Payroll Liabilities",
+      "reference": "2540"
+    },
+    {
+      "glAccountId": 291,
+      "name": "Retirement Plan Payable",
+      "reference": "2550"
+    },
+    {
+      "glAccountId": 292,
+      "name": "CAM Reconciliation",
+      "reference": "4205"
+    },
+    {
+      "glAccountId": 295,
+      "name": "Suspense",
+      "reference": "9000"
+    },
+    {
+      "glAccountId": 300,
+      "name": "Payroll Service Fees",
+      "reference": "5064"
+    },
+    {
+      "glAccountId": 301,
+      "name": "Consulting",
+      "reference": "5061"
+    },
+    {
+      "glAccountId": 302,
+      "name": "Virtual Employees | Contractors",
+      "reference": "5708"
+    },
+    {
+      "glAccountId": 303,
+      "name": "Permits",
+      "reference": "5304"
+    },
+    {
+      "glAccountId": 304,
+      "name": "Contract Labor",
+      "reference": "5706"
+    },
+    {
+      "glAccountId": 306,
+      "name": "Acquisition and Development Fees",
+      "reference": "4001"
+    },
+    {
+      "glAccountId": 315,
+      "name": "Conferences, Education & Training",
+      "reference": "5030"
+    },
+    {
+      "glAccountId": 336,
+      "name": "Reimbursements",
+      "reference": "8000"
+    },
+    {
+      "glAccountId": 337,
+      "name": "Billable Expenses",
+      "reference": "6001"
+    },
+    {
+      "glAccountId": 338,
+      "name": "Lost Deals",
+      "reference": "6002"
+    },
+    {
+      "glAccountId": 339,
+      "name": "Manufactured Home Rental Income",
+      "reference": "4120"
+    },
+    {
+      "glAccountId": 349,
+      "name": "Eviction Costs",
+      "reference": "5065"
+    },
+    {
+      "glAccountId": 350,
+      "name": "Parking & Tolls",
+      "reference": "5024"
+    },
+    {
+      "glAccountId": 371,
+      "name": "Autopay Discount",
+      "reference": "4134"
+    },
+    {
+      "glAccountId": 372,
+      "name": "Paper Processing Fee",
+      "reference": "4121"
+    },
+    {
+      "glAccountId": 447,
+      "name": "Homes Sales - Non Operating",
+      "reference": "8500"
+    },
+    {
+      "glAccountId": 456,
+      "name": "Lawn/Landscaping Fee",
+      "reference": "1100"
+    },
+    {
+      "glAccountId": 457,
+      "name": "Chargeback Fee",
+      "reference": "4122"
+    },
+    {
+      "glAccountId": 463,
+      "name": "Other Fees",
+      "reference": "4123"
+    },
+    {
+      "glAccountId": 481,
+      "name": "Violation Charge Fee",
+      "reference": "4124"
+    },
+    {
+      "glAccountId": 490,
+      "name": "Commissions & Fees",
+      "reference": "5200"
+    },
+    {
+      "glAccountId": 511,
+      "name": "Mineral Reservation Escrow",
+      "reference": "1250"
+    },
+    {
+      "glAccountId": 514,
+      "name": "Mobile Homes Inventory",
+      "reference": "1900"
+    },
+    {
+      "glAccountId": 515,
+      "name": "Home Purchase",
+      "reference": "1901"
+    },
+    {
+      "glAccountId": 516,
+      "name": "Transport & Setup",
+      "reference": "1902"
+    },
+    {
+      "glAccountId": 537,
+      "name": "Down Payment",
+      "reference": "4503"
+    },
+    {
+      "glAccountId": 557,
+      "name": "Environmental Expense",
+      "reference": "5112"
+    },
+    {
+      "glAccountId": 562,
+      "name": "Due to Lucky Communities",
+      "reference": "2701"
+    },
+    {
+      "glAccountId": 565,
+      "name": "Loan to Partners",
+      "reference": "1451"
+    },
+    {
+      "glAccountId": 571,
+      "name": "Option Payment (Income)",
+      "reference": "4504"
+    },
+    {
+      "glAccountId": 612,
+      "name": "Sales Referral Credit",
+      "reference": "4135"
+    },
+    {
+      "glAccountId": 616,
+      "name": "Homes Expense",
+      "reference": "9500"
+    },
+    {
+      "glAccountId": 617,
+      "name": "Sales Payroll and Commission",
+      "reference": "9501"
+    },
+    {
+      "glAccountId": 618,
+      "name": "Home Repairs (POH)",
+      "reference": "9001"
+    },
+    {
+      "glAccountId": 619,
+      "name": "Home Administrative Expense",
+      "reference": "9502"
+    },
+    {
+      "glAccountId": 621,
+      "name": "Insurance Proceeds Received",
+      "reference": "8501"
+    },
+    {
+      "glAccountId": 622,
+      "name": "Moving Cost",
+      "reference": "5113"
+    },
+    {
+      "glAccountId": 639,
+      "name": "Home Rental Expense",
+      "reference": "9503"
+    },
+    {
+      "glAccountId": 671,
+      "name": "Reward Discount",
+      "reference": "4136"
+    },
+    {
+      "glAccountId": 674,
+      "name": "Returns & Allowances",
+      "reference": "5001"
+    },
+    {
+      "glAccountId": 679,
+      "name": "Loss on Sale of Homes",
+      "reference": "4900"
+    },
+    {
+      "glAccountId": 683,
+      "name": "Moving Cost Reimbursement - Sales",
+      "reference": "9504"
+    },
+    {
+      "glAccountId": 695,
+      "name": "481a Adjustment",
+      "reference": "4910"
+    },
+    {
+      "glAccountId": 696,
+      "name": "Option Payment (Liability)",
+      "reference": "2900"
+    },
+    {
+      "glAccountId": 700,
+      "name": "CapEx - Renovation",
+      "reference": "1903"
+    },
+    {
+      "glAccountId": 702,
+      "name": "Acadian - paid from previous owner",
+      "reference": "1201"
+    },
+    {
+      "glAccountId": 718,
+      "name": "Non Operating Overhead",
+      "reference": "9600"
+    },
+    {
+      "glAccountId": 719,
+      "name": "Non-Operating Expenses - Financing, Accounting, Homes",
+      "reference": "9700"
+    },
+    {
+      "glAccountId": 723,
+      "name": "Asset Management Fee",
+      "reference": "8502"
+    },
+    {
+      "glAccountId": 754,
+      "name": "Home Insurance",
+      "reference": "9701"
+    },
+    {
+      "glAccountId": 755,
+      "name": "General Repairs & Maintenance",
+      "reference": "5101"
+    },
+    {
+      "glAccountId": 756,
+      "name": "Private Utility Maintenance",
+      "reference": "5102"
+    }
+  ]
+}

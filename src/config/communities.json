@@ -1,0 +1,165 @@
+{
+  "communities": [
+    {
+      "label": "Messer Community",
+      "rmPropertyId": 1,
+      "rmBankId": 293,
+      "melioEmail": "messercommunity_1184@invoicesmelio.com",
+      "folderId": "12uiX-3Z5Qq36sIoY1cu_fGOxOS3O_ww1"
+    },
+    {
+      "label": "Lucky Communities",
+      "rmPropertyId": 2,
+      "rmBankId": null,
+      "melioEmail": "luckycommunities_2786@invoicesinbox.com",
+      "folderId": null
+    },
+    {
+      "label": "Chef One MHP",
+      "rmPropertyId": 3,
+      "rmBankId": 429,
+      "melioEmail": "chefonemobilehomepark_3147@invoicesmelio.com",
+      "folderId": "1kblgNhVSr7CU9DhVV0aOg8uPLcvxjjBn"
+    },
+    {
+      "label": "Shady Pines MHP",
+      "rmPropertyId": 4,
+      "rmBankId": 340,
+      "melioEmail": "shadypinescommunity_1429@invoicesmelio.com",
+      "folderId": "1PMmoA-NjP-yX5-WExcDucMa4-xt7CXNZ"
+    },
+    {
+      "label": "Oakview MHP",
+      "rmPropertyId": 5,
+      "rmBankId": 352,
+      "melioEmail": "oakviewmhccommunityllc_3463@invoicesmelio.com",
+      "folderId": "1ffElGhUz8mhmBGC-lynoDEl6xQu4KMvI"
+    },
+    {
+      "label": "Steele Creek MHP",
+      "rmPropertyId": 6,
+      "rmBankId": 370,
+      "melioEmail": "steelecreekmobilehomepark_2642@invoicesinbox.com",
+      "folderId": "1SmtGt3eMetDsPR-HVZaLBqrgwn6Wk2Xw"
+    },
+    {
+      "label": "Country Estates MHP",
+      "rmPropertyId": 7,
+      "rmBankId": 369,
+      "melioEmail": "countryestatesmhp_1216@invoicesmelio.com",
+      "folderId": "1E2mqBJfUdjL9UsalY6ekGQ6a04QRbkTI"
+    },
+    {
+      "label": "Muscle Shoals MHP",
+      "rmPropertyId": 8,
+      "rmBankId": 448,
+      "melioEmail": "luckycommunities_148@invoicesmelio.com",
+      "folderId": "1q9Gzx21P7HiAtRhjfHEilKPhIcKJ6RVY"
+    },
+    {
+      "label": "Sidlenie MHP",
+      "rmPropertyId": 10,
+      "rmBankId": 460,
+      "melioEmail": "sidleniemobilehomeparkllc_409@invoicesmelio.com",
+      "folderId": "17RyY-KCo3IJ5txYYs2DICeIcc6V2B0Le"
+    },
+    {
+      "label": "Satsuma Heights MHP",
+      "rmPropertyId": 12,
+      "rmBankId": 486,
+      "melioEmail": "satsumaheightsmobilehomep_41@invoicesmelio.com",
+      "folderId": "1BSmrr_uHMjO_xqzTEjcUbwKLC3DWmVEX"
+    },
+    {
+      "label": "Lafayette MHP LLC",
+      "rmPropertyId": 13,
+      "rmBankId": 536,
+      "melioEmail": "lafayettemhpllc_872@invoicesmelio.com",
+      "folderId": "17ibu-iVIrMPBQ7CjX_utX2-OkJEtTuYO"
+    },
+    {
+      "label": "Rainbow Terrace MHP",
+      "rmPropertyId": 14,
+      "rmBankId": 542,
+      "melioEmail": "rainbowterracemobilehomep_457@invoicesmelio.com",
+      "folderId": "1b8l4WgxDYHcrDb3bHhDnkPCogj0PhLhM"
+    },
+    {
+      "label": "Parkwood MHP",
+      "rmPropertyId": 15,
+      "rmBankId": 570,
+      "melioEmail": "parkwoodmobilehomeparkllc_183@invoicesmelio.com",
+      "folderId": "1nECrsW1B2-9w2mCE4-V376r6kGr_KcX1"
+    },
+    {
+      "label": "Sonnier MHP",
+      "rmPropertyId": 16,
+      "rmBankId": 584,
+      "melioEmail": "sonniermobilehomeparkllc_1376@invoicesinbox.com",
+      "folderId": "1UkAqZL0rSw0J2CAXb1qP_REb4f4y4HPY"
+    },
+    {
+      "label": "Remwood MHP",
+      "rmPropertyId": 17,
+      "rmBankId": 598,
+      "melioEmail": "remwoodmobilehomeparkllc_5137@invoicesinbox.com",
+      "folderId": "1O9QypmUgQBk9oxqyNoZVB4D8pKJp7mFP"
+    },
+    {
+      "label": "Glen Echo MHP",
+      "rmPropertyId": 18,
+      "rmBankId": 620,
+      "melioEmail": "glenechomobilehomeparkllc_4520@invoicesmelio.com",
+      "folderId": "16yYyCo4lfnMB__RMA4HzU8zKdSYmZWHb"
+    },
+    {
+      "label": "Lucky Pecan MHP",
+      "rmPropertyId": 19,
+      "rmBankId": 641,
+      "melioEmail": "luckypecanmobilehomeparkl_5254@invoicesmelio.com",
+      "folderId": "1BatyA-21gGFESYxtWrdTbhUcyT-NT8LY"
+    },
+    {
+      "label": "Malapart Oaks MHP",
+      "rmPropertyId": 20,
+      "rmBankId": 642,
+      "melioEmail": "malapartoakmobilehomepark_2407@invoicesmelio.com",
+      "folderId": "1wswLsjdATSOLdD_TgrlkWIeOGAW-q9ZK"
+    },
+    {
+      "label": "Lucky Oak MHP",
+      "rmPropertyId": 21,
+      "rmBankId": 640,
+      "melioEmail": "luckyoakmobilehomeparkllc_838@invoicesmelio.com",
+      "folderId": "1p8tXC5gABaa7iYc4q94YY_J4qdFeGr-U"
+    },
+    {
+      "label": "Lucky Acadian",
+      "rmPropertyId": 24,
+      "rmBankId": 684,
+      "melioEmail": "luckyacadianmobilehomepar_5324@invoicesmelio.com",
+      "folderId": "1CpQYDej11usE06wRa0wsR7GUYMWbpqso"
+    },
+    {
+      "label": "Market Cross Monroe MHP",
+      "rmPropertyId": 25,
+      "rmBankId": 720,
+      "melioEmail": "marketcrossmonroemhpllc_1366@invoicesmelio.com",
+      "folderId": "1fhmfVonn7Mak1d3rmhKnAIkuE9tzSH3O"
+    },
+    {
+      "label": "Campeche",
+      "rmPropertyId": null,
+      "rmBankId": null,
+      "melioEmail": "632northwhitestreetllc_7546@invoicesmelio.com",
+      "folderId": null
+    },
+    {
+      "label": "Henderson park",
+      "rmPropertyId": 38,
+      "rmBankId": 759,
+      "melioEmail": null,
+      "folderId": "1bEkvOSTjBPjSibS5m4ywm8JvByMePYW7"
+    }
+  ]
+}

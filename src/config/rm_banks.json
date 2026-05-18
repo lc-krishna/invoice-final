@@ -1,0 +1,148 @@
+{
+  "banks": [
+    {
+      "bankId": 293,
+      "name": "Home Bank - 7969 Messer"
+    },
+    {
+      "bankId": 294,
+      "name": "Chase Bank - 9580"
+    },
+    {
+      "bankId": 340,
+      "name": "Home Bank - 0276 Pines"
+    },
+    {
+      "bankId": 351,
+      "name": "Bank Plus - Oakview"
+    },
+    {
+      "bankId": 352,
+      "name": "Chase Bank - Oakview"
+    },
+    {
+      "bankId": 367,
+      "name": "Chase Bank 1866 Lucky Oz Fund"
+    },
+    {
+      "bankId": 368,
+      "name": "Chase Bank - Oakview"
+    },
+    {
+      "bankId": 369,
+      "name": "ServisFirst - Country Estates"
+    },
+    {
+      "bankId": 370,
+      "name": "ServisFirst - Steele Creek"
+    },
+    {
+      "bankId": 429,
+      "name": "Red River Bank - Chef One"
+    },
+    {
+      "bankId": 448,
+      "name": "ServisFirst - Muscle Shoals"
+    },
+    {
+      "bankId": 460,
+      "name": "Chase Bank - Sidlenie"
+    },
+    {
+      "bankId": 486,
+      "name": "Chase Bank - Satsuma Heights"
+    },
+    {
+      "bankId": 487,
+      "name": "Chase Bank - Pinhook Lafayette 1255"
+    },
+    {
+      "bankId": 535,
+      "name": "Cash Due From Terry"
+    },
+    {
+      "bankId": 536,
+      "name": "Chase Bank Lafayette MHP 1255"
+    },
+    {
+      "bankId": 542,
+      "name": "Chase Bank - Rainbow Terrace"
+    },
+    {
+      "bankId": 568,
+      "name": "First Bank Money Market - Chef One 6069"
+    },
+    {
+      "bankId": 569,
+      "name": "First Bank Checking - Chef One"
+    },
+    {
+      "bankId": 570,
+      "name": "Chase - Parkwood"
+    },
+    {
+      "bankId": 584,
+      "name": "Chase - Sonnier"
+    },
+    {
+      "bankId": 598,
+      "name": "Chase - Remwood"
+    },
+    {
+      "bankId": 620,
+      "name": "Chase Bank - Glen Echo"
+    },
+    {
+      "bankId": 638,
+      "name": "Arvest Bank-Glen Echo"
+    },
+    {
+      "bankId": 640,
+      "name": "Chase - Lucky Oak"
+    },
+    {
+      "bankId": 641,
+      "name": "Chase - Lucky Pecan"
+    },
+    {
+      "bankId": 642,
+      "name": "Chase - Malapart Oaks"
+    },
+    {
+      "bankId": 672,
+      "name": "Arvest Bank MM Sidlenie"
+    },
+    {
+      "bankId": 684,
+      "name": "Chase-Lucky Acadian Mobile Home Park LLC"
+    },
+    {
+      "bankId": 704,
+      "name": "Trailer Trade-In Clearing"
+    },
+    {
+      "bankId": 720,
+      "name": "Chase-Market Cross Monroe MHP LLC"
+    },
+    {
+      "bankId": 721,
+      "name": "Chase- CSM Realty,LLC"
+    },
+    {
+      "bankId": 722,
+      "name": "Capital One- Baudin Living LLC"
+    },
+    {
+      "bankId": 724,
+      "name": "Red River Bank Lucky Acadian 7143"
+    },
+    {
+      "bankId": 751,
+      "name": "Home Federal Bank- Market Cross/Pecanland"
+    },
+    {
+      "bankId": 759,
+      "name": "Chase-Henderson Mobile Home Park LLC"
+    }
+  ]
+}
