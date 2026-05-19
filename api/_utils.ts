@@ -244,3 +244,99 @@ export function extractDriveFileId(value: string): string {
 export function driveWebViewLink(fileId: string): string {
   return `https://drive.google.com/file/d/${fileId}/view`;
 }
+
+/**
+ * Bridges Vercel's Node.js function runtime (req, res) with Web-Standard
+ * handlers that take a `Request` and return a `Response`. Vercel's Node
+ * runtime passes IncomingMessage-style objects with no `.json()` method,
+ * so we build a proper Web `Request` from it, call the handler, then
+ * stream the `Response` back through `res`.
+ */
+type WebHandler = (request: Request) => Promise<Response>;
+
+export function adapt(handler: WebHandler) {
+  return async (req: any, res?: any) => {
+    // If Vercel actually invoked us Web-Standard style, pass through.
+    if (res === undefined && typeof req?.json === "function") {
+      return handler(req as Request);
+    }
+
+    try {
+      const host = (req.headers?.host as string) ?? "localhost";
+      const proto =
+        (req.headers?.["x-forwarded-proto"] as string | undefined) ?? "https";
+      const url = `${proto}://${host}${req.url ?? "/"}`;
+
+      const headers = new Headers();
+      for (const [key, value] of Object.entries(req.headers ?? {})) {
+        if (value === undefined) continue;
+        if (Array.isArray(value)) {
+          for (const v of value) headers.append(key, String(v));
+        } else {
+          headers.set(key, String(value));
+        }
+      }
+
+      const method = (req.method ?? "GET").toUpperCase();
+      let body: BodyInit | undefined = undefined;
+      if (method !== "GET" && method !== "HEAD") {
+        if (req.body !== undefined && req.body !== null) {
+          // Vercel pre-parsed the body (object or string)
+          body =
+            typeof req.body === "string" ? req.body : JSON.stringify(req.body);
+          if (typeof req.body !== "string" && !headers.has("content-type")) {
+            headers.set("content-type", "application/json");
+          }
+        } else if (typeof req[Symbol.asyncIterator] === "function") {
+          const chunks: Buffer[] = [];
+          for await (const chunk of req) {
+            chunks.push(Buffer.isBuffer(chunk) ? chunk : Buffer.from(chunk));
+          }
+          if (chunks.length) body = Buffer.concat(chunks);
+        }
+      }
+
+      const webRequest = new Request(url, {
+        method,
+        headers,
+        body: body as BodyInit | undefined,
+        // @ts-ignore — duplex is required by Node when a body is present
+        duplex: body !== undefined ? "half" : undefined,
+      });
+
+      const response = await handler(webRequest);
+
+      res.statusCode = response.status;
+      response.headers.forEach((value: string, key: string) => {
+        if (key.toLowerCase() === "set-cookie") {
+          const existing = res.getHeader("set-cookie");
+          if (Array.isArray(existing)) {
+            res.setHeader("set-cookie", [...existing, value]);
+          } else if (typeof existing === "string") {
+            res.setHeader("set-cookie", [existing, value]);
+          } else {
+            res.setHeader("set-cookie", value);
+          }
+        } else {
+          res.setHeader(key, value);
+        }
+      });
+
+      const buf = Buffer.from(await response.arrayBuffer());
+      res.end(buf);
+    } catch (err) {
+      console.error("Handler error:", err);
+      try {
+        res.statusCode = 500;
+        res.setHeader("Content-Type", "application/json");
+        res.end(
+          JSON.stringify({
+            error: err instanceof Error ? err.message : String(err),
+          }),
+        );
+      } catch {
+        // res already closed
+      }
+    }
+  };
+}

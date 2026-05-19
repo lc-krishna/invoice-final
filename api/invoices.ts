@@ -1,6 +1,6 @@
-import { error, fetchSheetInvoices, json, requireAuth } from "./_utils.js";
+import { adapt, error, fetchSheetInvoices, json, requireAuth } from "./_utils.js";
 
-export default async function handler(request: Request) {
+async function handler(request: Request) {
   const unauthorized = await requireAuth(request);
   if (unauthorized) return unauthorized;
   if (request.method !== "GET") return error("Method not allowed", 405);
@@ -10,3 +10,5 @@ export default async function handler(request: Request) {
     return error(e instanceof Error ? e.message : String(e), 500);
   }
 }
+
+export default adapt(handler);

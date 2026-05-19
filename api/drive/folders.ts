@@ -1,10 +1,10 @@
-import { error, googleFetch, json, readJson, requireAuth } from "../_utils.js";
+import { adapt, error, googleFetch, json, readJson, requireAuth } from "../_utils.js";
 
 function escapeDriveQuery(value: string) {
   return value.replace(/\\/g, "\\\\").replace(/'/g, "\\'");
 }
 
-export default async function handler(request: Request) {
+async function handler(request: Request) {
   const unauthorized = await requireAuth(request);
   if (unauthorized) return unauthorized;
   try {
@@ -43,3 +43,5 @@ export default async function handler(request: Request) {
     return error(e instanceof Error ? e.message : String(e), 500);
   }
 }
+
+export default adapt(handler);

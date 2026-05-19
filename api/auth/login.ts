@@ -1,6 +1,6 @@
-import { clearSessionCookie, createSessionCookie, error, json, readJson } from "../_utils.js";
+import { adapt, clearSessionCookie, createSessionCookie, error, json, readJson } from "../_utils.js";
 
-export default async function handler(request: Request) {
+async function handler(request: Request) {
   if (request.method !== "POST") return error("Method not allowed", 405);
   const body = await readJson<{ username?: string; password?: string }>(request);
   const expectedUser = process.env.APP_USERNAME ?? "admin";
@@ -16,3 +16,5 @@ export default async function handler(request: Request) {
     { headers: { "Set-Cookie": await createSessionCookie(body.username) } },
   );
 }
+
+export default adapt(handler);
