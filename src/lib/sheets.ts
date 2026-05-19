@@ -30,6 +30,8 @@ export function mapSheetRows(rows: unknown[][]): InvoiceRow[] {
     if (!r || r.length === 0) return;
     const serialNo = s(r[0]);
     const status = s(r[9]);
+    // Deleted rows stay in the sheet but never reach the dashboard.
+    if (status.toLowerCase() === "deleted") return;
     const isManual = status.startsWith("Manual") || serialNo.startsWith("MANUAL-");
     const community = s(r[2]);
     const invoiceNumber = s(r[6]);

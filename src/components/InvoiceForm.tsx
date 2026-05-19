@@ -9,7 +9,18 @@ import {
   Receipt,
   CheckCheck,
   CalendarIcon,
+  Trash2,
 } from "lucide-react";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@/components/ui/alert-dialog";
 import { format } from "date-fns";
 import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
@@ -56,6 +67,7 @@ interface InvoiceFormProps {
   invoice: InvoiceRow;
   state: InvoiceState;
   onStateChange: (updater: (prev: InvoiceState) => InvoiceState) => void;
+  onDeleted?: (invoice: InvoiceRow) => void;
 }
 
 function newLine(): BillDetailLine {
@@ -220,8 +232,36 @@ export function InvoiceForm({
   invoice,
   state,
   onStateChange,
+  onDeleted,
 }: InvoiceFormProps) {
   const isManual = invoice.source === "manual";
+  const [deleteOpen, setDeleteOpen] = useState(false);
+  const [deleting, setDeleting] = useState(false);
+
+  const handleDelete = async () => {
+    setDeleting(true);
+    try {
+      const res = await fetch("/api/invoice-delete", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        credentials: "same-origin",
+        body: JSON.stringify({ rowNumber: invoice.rowNumber }),
+      });
+      if (!res.ok) {
+        const txt = await res.text().catch(() => `HTTP ${res.status}`);
+        throw new Error(txt || `HTTP ${res.status}`);
+      }
+      toast.success("Invoice deleted");
+      setDeleteOpen(false);
+      onDeleted?.(invoice);
+    } catch (e) {
+      toast.error(
+        `Delete failed: ${e instanceof Error ? e.message : String(e)}`,
+      );
+    } finally {
+      setDeleting(false);
+    }
+  };
 
   // Pre-fill bank from community config when state hasn't been set yet.
   useEffect(() => {
@@ -362,6 +402,13 @@ export function InvoiceForm({
 
   const finalStatusDone = invoice.finalStatus === "Done";
   const isDone = finalStatusDone || state.doneSubmitted;
+
+  // Whether a stage is already complete according to the sheet OR the
+  // current session. Falling back to invoice data so the workflow survives
+  // a page refresh: if Drive and RM are already on file, the user can still
+  // click "Mark as Done" without redoing earlier steps.
+  const driveDone = state.driveSubmitted || !!invoice.driveVendorFileId;
+  const rmDone = state.rmSubmitted || !!invoice.rmBillId;
 
   const submitDrive = async () => {
     if (!state.driveFolderId) {
@@ -543,8 +590,56 @@ export function InvoiceForm({
           <h3 className="text-sm font-semibold">
             {isManual ? "Invoice Details" : "Extracted Data"}
           </h3>
-          <StatusBadge status={isDone ? "Done" : invoice.status} />
+          <div className="flex items-center gap-2">
+            <StatusBadge status={isDone ? "Done" : invoice.status} />
+            {onDeleted && (
+              <Button
+                type="button"
+                variant="ghost"
+                size="icon"
+                className="h-7 w-7 text-muted-foreground hover:bg-destructive/10 hover:text-destructive"
+                onClick={() => setDeleteOpen(true)}
+                aria-label="Delete invoice"
+                title="Delete invoice"
+              >
+                <Trash2 className="h-3.5 w-3.5" />
+              </Button>
+            )}
+          </div>
         </div>
+
+        <AlertDialog open={deleteOpen} onOpenChange={setDeleteOpen}>
+          <AlertDialogContent>
+            <AlertDialogHeader>
+              <AlertDialogTitle>Delete this invoice?</AlertDialogTitle>
+              <AlertDialogDescription>
+                The row will be marked <strong>Deleted</strong> in the Invoice
+                Log sheet and hidden from the dashboard. The Drive file is left
+                untouched. This can be reversed by editing the sheet directly.
+              </AlertDialogDescription>
+            </AlertDialogHeader>
+            <AlertDialogFooter>
+              <AlertDialogCancel disabled={deleting}>Cancel</AlertDialogCancel>
+              <AlertDialogAction
+                disabled={deleting}
+                onClick={(e) => {
+                  e.preventDefault();
+                  handleDelete();
+                }}
+                className="bg-destructive text-white hover:bg-destructive/90"
+              >
+                {deleting ? (
+                  <>
+                    <Loader2 className="mr-2 h-3.5 w-3.5 animate-spin" />
+                    Deleting…
+                  </>
+                ) : (
+                  "Delete"
+                )}
+              </AlertDialogAction>
+            </AlertDialogFooter>
+          </AlertDialogContent>
+        </AlertDialog>
 
         {isManual ? (
           /* Editable form for manual invoices */
@@ -955,7 +1050,7 @@ export function InvoiceForm({
       </Card>
 
       {/* Section 4: Mark as done */}
-      {(state.driveSubmitted && state.rmSubmitted) || isDone ? (
+      {(driveDone && rmDone) || isDone ? (
         <Card className="p-4">
           <div className="mb-3 flex items-center gap-2">
             <CheckCheck className="h-4 w-4 text-emerald-600" />

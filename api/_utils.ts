@@ -230,9 +230,19 @@ export async function fetchSheetInvoices() {
     sheetId(),
   )}/values/${encodedRange}?majorDimension=ROWS&valueRenderOption=UNFORMATTED_VALUE&dateTimeRenderOption=FORMATTED_STRING`;
   const res = await googleFetch(url);
-  if (!res.ok) throw new Error(`Sheets ${res.status}: ${await res.text()}`);
+  if (!res.ok) throw sheetsError("read", res.status, await res.text());
   const body = (await res.json()) as { values?: unknown[][] };
   return mapSheetRows(body.values ?? []);
+}
+
+function sheetsError(action: string, status: number, body: string): Error {
+  if (status === 403 && /PERMISSION_DENIED/i.test(body)) {
+    const sa = getServiceAccount().client_email;
+    return new Error(
+      `Google Sheets denied ${action}. Share the Invoice Log sheet (id ${sheetId()}) with ${sa} as Editor.`,
+    );
+  }
+  return new Error(`Sheets ${action} ${status}: ${body}`);
 }
 
 export async function appendInvoiceRow(values: unknown[]) {
@@ -245,7 +255,7 @@ export async function appendInvoiceRow(values: unknown[]) {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ values: [values] }),
   });
-  if (!res.ok) throw new Error(`Sheets append ${res.status}: ${await res.text()}`);
+  if (!res.ok) throw sheetsError("append", res.status, await res.text());
   const body = (await res.json()) as { updates?: { updatedRange?: string } };
   const match = body.updates?.updatedRange?.match(/!A(\d+)/);
   return match ? Number(match[1]) : null;
@@ -262,7 +272,27 @@ export async function updateInvoiceRow(rowNumber: number, values: unknown[]) {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ values: [values] }),
   });
-  if (!res.ok) throw new Error(`Sheets update ${res.status}: ${await res.text()}`);
+  if (!res.ok) throw sheetsError("update", res.status, await res.text());
+}
+
+/**
+ * Marks an invoice row as Deleted by writing "Deleted" to column J (status).
+ * The row stays in the sheet — the frontend filters Deleted rows out of the
+ * dashboard. Uses a targeted single-cell update so n8n-written columns (Asana
+ * GID, final status, etc.) are never disturbed.
+ */
+export async function markInvoiceDeleted(rowNumber: number) {
+  const range = `${SHEET_TAB}!J${rowNumber}`;
+  const encodedRange = range.replace(/ /g, "%20");
+  const url = `https://sheets.googleapis.com/v4/spreadsheets/${encodeURIComponent(
+    sheetId(),
+  )}/values/${encodedRange}?valueInputOption=USER_ENTERED`;
+  const res = await googleFetch(url, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ values: [["Deleted"]] }),
+  });
+  if (!res.ok) throw sheetsError("delete", res.status, await res.text());
 }
 
 export async function proxyWebhook(envName: string, payload: unknown) {

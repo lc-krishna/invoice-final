@@ -235,6 +235,11 @@ function Dashboard({ onLogout }: DashboardProps) {
   }, []);
 
   // Called when a manual invoice is created via the upload modal
+  const onInvoiceDeleted = useCallback((inv: InvoiceRow) => {
+    setInvoices((prev) => prev.filter((i) => i.rowNumber !== inv.rowNumber));
+    if (activeKey === invoiceKey(inv)) setActiveKey(null);
+  }, [activeKey]);
+
   const onInvoiceCreated = useCallback((inv: InvoiceRow) => {
     setInvoices((prev) => [inv, ...prev]);
     const dateKey = inv.timestamp
@@ -319,6 +324,7 @@ function Dashboard({ onLogout }: DashboardProps) {
                       invoice={inv}
                       state={getInvoiceState(key)}
                       onStateChange={(updater) => updateInvoiceState(key, updater)}
+                      onDeleted={onInvoiceDeleted}
                     />
                   </ScrollArea>
                 </TabsContent>

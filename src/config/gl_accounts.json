@@ -152,7 +152,7 @@
     },
     {
       "glAccountId": 74,
-      "name": "Landscaping (Income)",
+      "name": "Landscaping",
       "reference": "4303"
     },
     {
@@ -237,17 +237,17 @@
     },
     {
       "glAccountId": 116,
-      "name": "Cleaning (Income)",
+      "name": "Cleaning",
       "reference": "4302"
     },
     {
       "glAccountId": 119,
-      "name": "Gas & Propane (Income)",
+      "name": "Gas & Propane",
       "reference": "4401"
     },
     {
       "glAccountId": 120,
-      "name": "Electric (Income)",
+      "name": "Electric",
       "reference": "4403"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "glAccountId": 153,
-      "name": "Supplies (Income)",
+      "name": "Supplies",
       "reference": "4301"
     },
     {
@@ -337,22 +337,22 @@
     },
     {
       "glAccountId": 164,
-      "name": "CAM - Repairs & Maintenance (Exp)",
+      "name": "CAM - Repairs & Maintenance",
       "reference": "5501"
     },
     {
       "glAccountId": 165,
-      "name": "CAM - Property Tax (Exp)",
+      "name": "CAM - Property Tax",
       "reference": "5502"
     },
     {
       "glAccountId": 171,
-      "name": "CAM - Repairs & Maintenance (Inc)",
+      "name": "CAM - Repairs & Maintenance",
       "reference": "4201"
     },
     {
       "glAccountId": 172,
-      "name": "CAM - Property Tax (Inc)",
+      "name": "CAM - Property Tax",
       "reference": "4202"
     },
     {
@@ -482,7 +482,7 @@
     },
     {
       "glAccountId": 250,
-      "name": "Water & Sewer (Income)",
+      "name": "Water & Sewer",
       "reference": "4402"
     },
     {
@@ -507,12 +507,12 @@
     },
     {
       "glAccountId": 258,
-      "name": "CAM - Insurance (Exp)",
+      "name": "CAM - Insurance",
       "reference": "5503"
     },
     {
       "glAccountId": 261,
-      "name": "CAM - Utilities (Exp)",
+      "name": "CAM - Utilities",
       "reference": "5504"
     },
     {
@@ -527,12 +527,12 @@
     },
     {
       "glAccountId": 267,
-      "name": "CAM - Insurance (Inc)",
+      "name": "CAM - Insurance",
       "reference": "4203"
     },
     {
       "glAccountId": 269,
-      "name": "CAM - Utilities (Inc)",
+      "name": "CAM - Utilities",
       "reference": "4204"
     },
     {
@@ -597,7 +597,7 @@
     },
     {
       "glAccountId": 282,
-      "name": "General Repairs (Income)",
+      "name": "General Repairs",
       "reference": "4306"
     },
     {
@@ -641,9 +641,39 @@
       "reference": "4205"
     },
     {
+      "glAccountId": 293,
+      "name": "Home Bank - 7969 Messer",
+      "reference": "1000"
+    },
+    {
+      "glAccountId": 294,
+      "name": "Chase Bank - 9580",
+      "reference": "1001"
+    },
+    {
       "glAccountId": 295,
       "name": "Suspense",
       "reference": "9000"
+    },
+    {
+      "glAccountId": 296,
+      "name": "24172 Hwy 41 (Messer/Pelican Pearl River)",
+      "reference": "1500"
+    },
+    {
+      "glAccountId": 297,
+      "name": "Land",
+      "reference": "1501"
+    },
+    {
+      "glAccountId": 298,
+      "name": "Site Improvements",
+      "reference": "1502"
+    },
+    {
+      "glAccountId": 299,
+      "name": "Soft Costs",
+      "reference": "1503"
     },
     {
       "glAccountId": 300,
@@ -671,14 +701,159 @@
       "reference": "5706"
     },
     {
+      "glAccountId": 305,
+      "name": "Acquisition Fees",
+      "reference": "1503A"
+    },
+    {
       "glAccountId": 306,
       "name": "Acquisition and Development Fees",
       "reference": "4001"
     },
     {
+      "glAccountId": 307,
+      "name": "Chase Ink Lucky-2835",
+      "reference": "2102"
+    },
+    {
+      "glAccountId": 308,
+      "name": "Pelican Pearl River Equity",
+      "reference": "3000"
+    },
+    {
+      "glAccountId": 309,
+      "name": "STR Holdings Equity",
+      "reference": "3001"
+    },
+    {
+      "glAccountId": 310,
+      "name": "Lucky Communities Equity",
+      "reference": "3002"
+    },
+    {
+      "glAccountId": 311,
+      "name": "Pearl River LLC Equity",
+      "reference": "3003"
+    },
+    {
+      "glAccountId": 312,
+      "name": "Lucky Communities LLC Equity",
+      "reference": "3010"
+    },
+    {
+      "glAccountId": 313,
+      "name": "Alex Ramirez Equity",
+      "reference": "3011"
+    },
+    {
+      "glAccountId": 314,
+      "name": "Zach Kupperman Equity",
+      "reference": "3012"
+    },
+    {
       "glAccountId": 315,
       "name": "Conferences, Education & Training",
       "reference": "5030"
+    },
+    {
+      "glAccountId": 316,
+      "name": "Capex Electrical",
+      "reference": "1502A"
+    },
+    {
+      "glAccountId": 317,
+      "name": "CapEx Sewer & Plumbing",
+      "reference": "1502B"
+    },
+    {
+      "glAccountId": 318,
+      "name": "CapEx Road Repair",
+      "reference": "1505C"
+    },
+    {
+      "glAccountId": 319,
+      "name": "CapEx Landscaping",
+      "reference": "1505D"
+    },
+    {
+      "glAccountId": 320,
+      "name": "CapEx Homes | Buildings",
+      "reference": "1502E"
+    },
+    {
+      "glAccountId": 321,
+      "name": "Tenant Screenings & Background Checks",
+      "reference": "5066"
+    },
+    {
+      "glAccountId": 322,
+      "name": "Financing | Originaton Fee",
+      "reference": "1503B"
+    },
+    {
+      "glAccountId": 323,
+      "name": "Legal Fees",
+      "reference": "1503C"
+    },
+    {
+      "glAccountId": 324,
+      "name": "Appraisal",
+      "reference": "1503D"
+    },
+    {
+      "glAccountId": 325,
+      "name": "Environmental",
+      "reference": "1503E"
+    },
+    {
+      "glAccountId": 326,
+      "name": "Survey",
+      "reference": "1503F"
+    },
+    {
+      "glAccountId": 327,
+      "name": "Cost Seg Analysis",
+      "reference": "1503G"
+    },
+    {
+      "glAccountId": 328,
+      "name": "Due Diligence Expenses",
+      "reference": "1503H"
+    },
+    {
+      "glAccountId": 329,
+      "name": "Start-Up Capital",
+      "reference": "1503I"
+    },
+    {
+      "glAccountId": 330,
+      "name": "Closing & Title Costs",
+      "reference": "1503J"
+    },
+    {
+      "glAccountId": 331,
+      "name": "Architect",
+      "reference": "1503K"
+    },
+    {
+      "glAccountId": 332,
+      "name": "Engineeer",
+      "reference": "1503L"
+    },
+    {
+      "glAccountId": 333,
+      "name": "Guaranteed Payments to Partners",
+      "reference": "5707"
+    },
+    {
+      "glAccountId": 334,
+      "name": "Deferred Compensation - Alex",
+      "reference": "2200"
+    },
+    {
+      "glAccountId": 335,
+      "name": "Misc. Lender Fees",
+      "reference": "1503M"
     },
     {
       "glAccountId": 336,
@@ -701,6 +876,51 @@
       "reference": "4120"
     },
     {
+      "glAccountId": 340,
+      "name": "Home Bank - 0276 Pines",
+      "reference": "1002"
+    },
+    {
+      "glAccountId": 341,
+      "name": "59275 Shady Lane",
+      "reference": "1600"
+    },
+    {
+      "glAccountId": 342,
+      "name": "Loan Payable Home Bank Shady Pines",
+      "reference": "2620"
+    },
+    {
+      "glAccountId": 343,
+      "name": "Shady Pines Community Equity",
+      "reference": "3040"
+    },
+    {
+      "glAccountId": 344,
+      "name": "Carlos Ramirez Equity",
+      "reference": "3041"
+    },
+    {
+      "glAccountId": 345,
+      "name": "Nathan Hulling Equity",
+      "reference": "3042"
+    },
+    {
+      "glAccountId": 346,
+      "name": "Aaron Creek Equity",
+      "reference": "3043"
+    },
+    {
+      "glAccountId": 347,
+      "name": "CSM Realty, LLC Equity",
+      "reference": "3044"
+    },
+    {
+      "glAccountId": 348,
+      "name": "Kupperman Companies Equity",
+      "reference": "3045"
+    },
+    {
       "glAccountId": 349,
       "name": "Eviction Costs",
       "reference": "5065"
@@ -709,6 +929,106 @@
       "glAccountId": 350,
       "name": "Parking & Tolls",
       "reference": "5024"
+    },
+    {
+      "glAccountId": 351,
+      "name": "Bank Plus - Oakview",
+      "reference": "1003"
+    },
+    {
+      "glAccountId": 352,
+      "name": "Chase Bank - Oakview",
+      "reference": "1004"
+    },
+    {
+      "glAccountId": 353,
+      "name": "Oakview MHC Equity",
+      "reference": "3050"
+    },
+    {
+      "glAccountId": 354,
+      "name": "Alex Ramirez Equity",
+      "reference": "3051"
+    },
+    {
+      "glAccountId": 355,
+      "name": "Kupperman Companies Equity",
+      "reference": "3052"
+    },
+    {
+      "glAccountId": 356,
+      "name": "Jonathan Ende Equity",
+      "reference": "3053"
+    },
+    {
+      "glAccountId": 357,
+      "name": "Millenium Age, LLC Equity",
+      "reference": "3054"
+    },
+    {
+      "glAccountId": 358,
+      "name": "Ezra Tuchman Equity",
+      "reference": "3055"
+    },
+    {
+      "glAccountId": 359,
+      "name": "Virginia, LLC Equity",
+      "reference": "3056"
+    },
+    {
+      "glAccountId": 360,
+      "name": "Aryn Spahr Equity",
+      "reference": "3057"
+    },
+    {
+      "glAccountId": 361,
+      "name": "MJ Meek Limted Partnership Equity",
+      "reference": "3058"
+    },
+    {
+      "glAccountId": 362,
+      "name": "Matt Cooper Equity",
+      "reference": "3059"
+    },
+    {
+      "glAccountId": 363,
+      "name": "Eloise Investments, LLC Equity",
+      "reference": "3051-2"
+    },
+    {
+      "glAccountId": 364,
+      "name": "CTP, LLC Equity",
+      "reference": "3051-1"
+    },
+    {
+      "glAccountId": 365,
+      "name": "Loan Payable Bank Plus Oakview",
+      "reference": "2630"
+    },
+    {
+      "glAccountId": 366,
+      "name": "748 Malapart Rd (Oakview)",
+      "reference": "1700"
+    },
+    {
+      "glAccountId": 367,
+      "name": "Chase Bank 1866 Lucky Oz Fund",
+      "reference": "1005"
+    },
+    {
+      "glAccountId": 368,
+      "name": "Chase Bank - Oakview",
+      "reference": "1006"
+    },
+    {
+      "glAccountId": 369,
+      "name": "ServisFirst - Country Estates",
+      "reference": "1007"
+    },
+    {
+      "glAccountId": 370,
+      "name": "ServisFirst - Steele Creek",
+      "reference": "1008"
     },
     {
       "glAccountId": 371,
@@ -721,9 +1041,419 @@
       "reference": "4121"
     },
     {
+      "glAccountId": 373,
+      "name": "FF&E",
+      "reference": "1701.1"
+    },
+    {
+      "glAccountId": 374,
+      "name": "Land Improvements",
+      "reference": "1701.2"
+    },
+    {
+      "glAccountId": 375,
+      "name": "Building",
+      "reference": "1701.3"
+    },
+    {
+      "glAccountId": 376,
+      "name": "Land",
+      "reference": "1715"
+    },
+    {
+      "glAccountId": 377,
+      "name": "Amortization Expense",
+      "reference": "6250"
+    },
+    {
+      "glAccountId": 378,
+      "name": "Accumulated Amortization",
+      "reference": "1720"
+    },
+    {
+      "glAccountId": 379,
+      "name": "Lucky Communities LLC Equity",
+      "reference": "3060"
+    },
+    {
+      "glAccountId": 380,
+      "name": "Land Improvements",
+      "reference": "1500B"
+    },
+    {
+      "glAccountId": 381,
+      "name": "Property Signage",
+      "reference": "1500C"
+    },
+    {
+      "glAccountId": 382,
+      "name": "Trailer Utilities / Service",
+      "reference": "1500D"
+    },
+    {
+      "glAccountId": 383,
+      "name": "Mobile Homes Purchased",
+      "reference": "1500E"
+    },
+    {
+      "glAccountId": 384,
+      "name": "FF&E",
+      "reference": "1601"
+    },
+    {
+      "glAccountId": 385,
+      "name": "Land Improvements",
+      "reference": "1602"
+    },
+    {
+      "glAccountId": 386,
+      "name": "Land",
+      "reference": "1620"
+    },
+    {
+      "glAccountId": 387,
+      "name": "Lucky Communities, LLC Equity",
+      "reference": "3046"
+    },
+    {
+      "glAccountId": 388,
+      "name": "Steel Creek (7901 Old Pascagoula Rd)",
+      "reference": "1650"
+    },
+    {
+      "glAccountId": 389,
+      "name": "Country Estates (7941 Old Pascagouls Rd)",
+      "reference": "1550"
+    },
+    {
+      "glAccountId": 390,
+      "name": "Loan Payable ServisFirst Bank Steel Creek",
+      "reference": "2640"
+    },
+    {
+      "glAccountId": 391,
+      "name": "Loan Payable ServisFirst Bank Country Estates",
+      "reference": "2650"
+    },
+    {
+      "glAccountId": 392,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3051D"
+    },
+    {
+      "glAccountId": 393,
+      "name": "Kupperman Companies Distributions",
+      "reference": "3052D"
+    },
+    {
+      "glAccountId": 394,
+      "name": "Jonathan Ende Distributions",
+      "reference": "3053D"
+    },
+    {
+      "glAccountId": 395,
+      "name": "Millenium Age Distributions",
+      "reference": "3054D"
+    },
+    {
+      "glAccountId": 396,
+      "name": "Ezra Tuchman Distributions",
+      "reference": "3055D"
+    },
+    {
+      "glAccountId": 397,
+      "name": "Virginia LLC Distributions",
+      "reference": "3056D"
+    },
+    {
+      "glAccountId": 398,
+      "name": "Aryn Spahr Distributions",
+      "reference": "3057D"
+    },
+    {
+      "glAccountId": 399,
+      "name": "MJ Meek LP Distributions",
+      "reference": "3058D"
+    },
+    {
+      "glAccountId": 400,
+      "name": "Matt Cooper Distributions",
+      "reference": "3059D"
+    },
+    {
+      "glAccountId": 401,
+      "name": "Lucky Communities Distributions",
+      "reference": "3060D"
+    },
+    {
+      "glAccountId": 402,
+      "name": "CTP, LLC Distributions",
+      "reference": "3051-1D"
+    },
+    {
+      "glAccountId": 403,
+      "name": "Eloise Investments Distributions",
+      "reference": "3051-2D"
+    },
+    {
+      "glAccountId": 404,
+      "name": "Carlos Ramirez Distributions",
+      "reference": "3041D"
+    },
+    {
+      "glAccountId": 405,
+      "name": "Nathan Hulling Distributions",
+      "reference": "3042D"
+    },
+    {
+      "glAccountId": 406,
+      "name": "Aaron Creek Distributions",
+      "reference": "3043D"
+    },
+    {
+      "glAccountId": 407,
+      "name": "CSM Realty Distributions",
+      "reference": "3044D"
+    },
+    {
+      "glAccountId": 408,
+      "name": "Kupperman Companies Distributions",
+      "reference": "3045D"
+    },
+    {
+      "glAccountId": 409,
+      "name": "Lucky Communities Distributions",
+      "reference": "3046D"
+    },
+    {
+      "glAccountId": 410,
+      "name": "STR Holdings Distributions",
+      "reference": "3001D"
+    },
+    {
+      "glAccountId": 411,
+      "name": "Lucky Communities Distributions",
+      "reference": "3002D"
+    },
+    {
+      "glAccountId": 412,
+      "name": "Pearl River LLC Distributions",
+      "reference": "3003D"
+    },
+    {
+      "glAccountId": 413,
+      "name": "CTP, LLC Equity",
+      "reference": "3021"
+    },
+    {
+      "glAccountId": 414,
+      "name": "Kupperman Companies, LLC Equity",
+      "reference": "3022"
+    },
+    {
+      "glAccountId": 415,
+      "name": "Alex Ramirez Equity",
+      "reference": "3023"
+    },
+    {
+      "glAccountId": 416,
+      "name": "Lucky Communities, LLC Equity",
+      "reference": "3024"
+    },
+    {
+      "glAccountId": 417,
+      "name": "CTP, LLC Distributions",
+      "reference": "3021D"
+    },
+    {
+      "glAccountId": 418,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3023D"
+    },
+    {
+      "glAccountId": 419,
+      "name": "Kupperman Companies Distributions",
+      "reference": "3022D"
+    },
+    {
+      "glAccountId": 420,
+      "name": "Lucky Communities Distributions",
+      "reference": "3024D"
+    },
+    {
+      "glAccountId": 421,
+      "name": "CTP, LLC Equity",
+      "reference": "3032"
+    },
+    {
+      "glAccountId": 422,
+      "name": "Kupperman Companies, LLC Equity",
+      "reference": "3033"
+    },
+    {
+      "glAccountId": 423,
+      "name": "Alex Ramirez Equity",
+      "reference": "3034"
+    },
+    {
+      "glAccountId": 424,
+      "name": "Lucky Communities, LLC Equity",
+      "reference": "3035"
+    },
+    {
+      "glAccountId": 425,
+      "name": "Lucky Communities Distributions",
+      "reference": "3035D"
+    },
+    {
+      "glAccountId": 426,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3034D"
+    },
+    {
+      "glAccountId": 427,
+      "name": "Kupperman Companies Distributions",
+      "reference": "3033D"
+    },
+    {
+      "glAccountId": 428,
+      "name": "CTP, LLC Distributions",
+      "reference": "3032D"
+    },
+    {
+      "glAccountId": 429,
+      "name": "Red River Bank - Chef One",
+      "reference": "1009"
+    },
+    {
+      "glAccountId": 430,
+      "name": "Chef One MHP",
+      "reference": "1640"
+    },
+    {
+      "glAccountId": 431,
+      "name": "Loan Payable Red River Bank Chef One",
+      "reference": "2660"
+    },
+    {
+      "glAccountId": 432,
+      "name": "Alex Ramirez Equity",
+      "reference": "3004"
+    },
+    {
+      "glAccountId": 433,
+      "name": "Zach Kupperman Equity",
+      "reference": "3005"
+    },
+    {
+      "glAccountId": 434,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3004D"
+    },
+    {
+      "glAccountId": 435,
+      "name": "Zach Kupperman Distributions",
+      "reference": "3005D"
+    },
+    {
+      "glAccountId": 436,
+      "name": "Chef One",
+      "reference": "3015"
+    },
+    {
+      "glAccountId": 437,
+      "name": "Spru Chef 1, LLC Equity",
+      "reference": "3015-1"
+    },
+    {
+      "glAccountId": 438,
+      "name": "Spru Chef 1, LLC Distributions",
+      "reference": "3015-1D"
+    },
+    {
+      "glAccountId": 439,
+      "name": "Kupperman Companies, LLC Equity",
+      "reference": "3015-2"
+    },
+    {
+      "glAccountId": 440,
+      "name": "Kupperman Companies, LLC Distributions",
+      "reference": "3015-2D"
+    },
+    {
+      "glAccountId": 441,
+      "name": "Alexander Ramirez Equity",
+      "reference": "3015-3"
+    },
+    {
+      "glAccountId": 442,
+      "name": "Alexander Ramirez Distributions",
+      "reference": "3015-3D"
+    },
+    {
+      "glAccountId": 443,
+      "name": "MJ MEEK LIMITED PARTNERSHIP EQUITY",
+      "reference": "3015-4"
+    },
+    {
+      "glAccountId": 444,
+      "name": "MJ MEEK LIMITED PARTNERSHIP DISTRIBUTIONS",
+      "reference": "3015-4D"
+    },
+    {
+      "glAccountId": 445,
+      "name": "Lucky Communities, LLC Equity",
+      "reference": "3015-5"
+    },
+    {
+      "glAccountId": 446,
+      "name": "Lucky Communities, LLC Distributions",
+      "reference": "3015-5D"
+    },
+    {
       "glAccountId": 447,
       "name": "Homes Sales - Non Operating",
       "reference": "8500"
+    },
+    {
+      "glAccountId": 448,
+      "name": "ServisFirst - Muscle Shoals",
+      "reference": "1010"
+    },
+    {
+      "glAccountId": 449,
+      "name": "Muscle Shoals MHP 2600 E Avalon",
+      "reference": "1520"
+    },
+    {
+      "glAccountId": 450,
+      "name": "Loan Payable ServisFirst Bank Muscle Shoals",
+      "reference": "2670"
+    },
+    {
+      "glAccountId": 451,
+      "name": "Muscle Shoals MHP Equity",
+      "reference": "3070"
+    },
+    {
+      "glAccountId": 452,
+      "name": "Alex Ramirez Equity",
+      "reference": "3071"
+    },
+    {
+      "glAccountId": 453,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3071-D"
+    },
+    {
+      "glAccountId": 454,
+      "name": "Kupperman Companies Equity",
+      "reference": "3072"
+    },
+    {
+      "glAccountId": 455,
+      "name": "Kupperman Companies Distributions",
+      "reference": "3072-D"
     },
     {
       "glAccountId": 456,
@@ -736,9 +1466,119 @@
       "reference": "4122"
     },
     {
+      "glAccountId": 458,
+      "name": "Aaron Creek Equity",
+      "reference": "3073"
+    },
+    {
+      "glAccountId": 459,
+      "name": "Aaron Creek Distributions",
+      "reference": "3073-D"
+    },
+    {
+      "glAccountId": 460,
+      "name": "Chase Bank - Sidlenie",
+      "reference": "1011"
+    },
+    {
+      "glAccountId": 461,
+      "name": "Shane Kupperman Equity",
+      "reference": "3074"
+    },
+    {
+      "glAccountId": 462,
+      "name": "Shane Kupperman Distributions",
+      "reference": "3074D"
+    },
+    {
       "glAccountId": 463,
       "name": "Other Fees",
       "reference": "4123"
+    },
+    {
+      "glAccountId": 464,
+      "name": "Sidlenie MHP 8301 W Judge Perez Drive",
+      "reference": "1800"
+    },
+    {
+      "glAccountId": 465,
+      "name": "Loan Payable Sidlenie, LLC",
+      "reference": "2680"
+    },
+    {
+      "glAccountId": 466,
+      "name": "Sidlenie MHP Equity",
+      "reference": "3100"
+    },
+    {
+      "glAccountId": 467,
+      "name": "Aaron Creek Equity",
+      "reference": "3101"
+    },
+    {
+      "glAccountId": 468,
+      "name": "Alex Ramirez Equity",
+      "reference": "3102"
+    },
+    {
+      "glAccountId": 469,
+      "name": "Kupperman Companies Equity",
+      "reference": "3103"
+    },
+    {
+      "glAccountId": 470,
+      "name": "JN 400 Equity",
+      "reference": "3104"
+    },
+    {
+      "glAccountId": 471,
+      "name": "Market Cross Poydras Equity",
+      "reference": "3105"
+    },
+    {
+      "glAccountId": 472,
+      "name": "Lofman Family Trust Equity",
+      "reference": "3106"
+    },
+    {
+      "glAccountId": 473,
+      "name": "Aaron Creek Distributions",
+      "reference": "3101-D"
+    },
+    {
+      "glAccountId": 474,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3102-D"
+    },
+    {
+      "glAccountId": 475,
+      "name": "Kupperman Companies Distributions",
+      "reference": "3103-D"
+    },
+    {
+      "glAccountId": 476,
+      "name": "JN 400 Distributions",
+      "reference": "3104-D"
+    },
+    {
+      "glAccountId": 477,
+      "name": "Market Cross Poydras Distributions",
+      "reference": "3105-D"
+    },
+    {
+      "glAccountId": 478,
+      "name": "Lofman Family Trust Distributions",
+      "reference": "3106-D"
+    },
+    {
+      "glAccountId": 479,
+      "name": "Lucky Communities Equity",
+      "reference": "3107"
+    },
+    {
+      "glAccountId": 480,
+      "name": "Lucky Communities Distributions",
+      "reference": "3107-D"
     },
     {
       "glAccountId": 481,
@@ -746,14 +1586,164 @@
       "reference": "4124"
     },
     {
+      "glAccountId": 482,
+      "name": "JTM Capital Equity",
+      "reference": "3015-6"
+    },
+    {
+      "glAccountId": 483,
+      "name": "JTM Capital Distributions",
+      "reference": "3015-6D"
+    },
+    {
+      "glAccountId": 484,
+      "name": "SLK Ventures,LLC Distributions",
+      "reference": "3076-D"
+    },
+    {
+      "glAccountId": 485,
+      "name": "SLK Ventures, LLC Equity",
+      "reference": "3076"
+    },
+    {
+      "glAccountId": 486,
+      "name": "Chase Bank - Satsuma Heights",
+      "reference": "1012"
+    },
+    {
+      "glAccountId": 487,
+      "name": "Chase Bank - Pinhook Lafayette 1255",
+      "reference": "1013"
+    },
+    {
+      "glAccountId": 488,
+      "name": "STR Holdings Equity",
+      "reference": "3108"
+    },
+    {
+      "glAccountId": 489,
+      "name": "STR Holdings Distributions",
+      "reference": "3108-D"
+    },
+    {
       "glAccountId": 490,
       "name": "Commissions & Fees",
       "reference": "5200"
     },
     {
+      "glAccountId": 491,
+      "name": "Satsuma Heights Equity",
+      "reference": "3200"
+    },
+    {
+      "glAccountId": 492,
+      "name": "Alex Ramirez Equity-Satsuma",
+      "reference": "3201"
+    },
+    {
+      "glAccountId": 493,
+      "name": "Alex Ramirez Distributions-Satsuma",
+      "reference": "3201-D"
+    },
+    {
+      "glAccountId": 494,
+      "name": "Zach Kupperman Equity-Satsuma",
+      "reference": "3202"
+    },
+    {
+      "glAccountId": 495,
+      "name": "Zach Kupperman Distributions-Satsuma",
+      "reference": "3202-D"
+    },
+    {
+      "glAccountId": 496,
+      "name": "Cole Garner Equity-Satsuma",
+      "reference": "3203"
+    },
+    {
+      "glAccountId": 497,
+      "name": "Cole Garner Distributions-Satsuma",
+      "reference": "3203-D"
+    },
+    {
+      "glAccountId": 498,
+      "name": "Beatrice Forlano Equity-Satsuma",
+      "reference": "3204"
+    },
+    {
+      "glAccountId": 499,
+      "name": "Beatrice Forlano Distributions-Satsuma",
+      "reference": "3204-D"
+    },
+    {
+      "glAccountId": 500,
+      "name": "SLK Equity-Satsuma",
+      "reference": "3205"
+    },
+    {
+      "glAccountId": 501,
+      "name": "SLK Distributions-Satsuma",
+      "reference": "3205-D"
+    },
+    {
+      "glAccountId": 502,
+      "name": "Carlos Ramirez Equity-Satsuma",
+      "reference": "3206"
+    },
+    {
+      "glAccountId": 503,
+      "name": "Carlos Ramirez Distributions-Satsuma",
+      "reference": "3206-D"
+    },
+    {
+      "glAccountId": 504,
+      "name": "CTP LLC Equity-Satsuma",
+      "reference": "3207"
+    },
+    {
+      "glAccountId": 505,
+      "name": "CTP LLC Distributions-Satsuma",
+      "reference": "3207-D"
+    },
+    {
+      "glAccountId": 506,
+      "name": "Satsuma Heights MHP 12398 FL Blvd",
+      "reference": "1850"
+    },
+    {
+      "glAccountId": 507,
+      "name": "FF&E",
+      "reference": "1851"
+    },
+    {
+      "glAccountId": 508,
+      "name": "Land Improvements",
+      "reference": "1852"
+    },
+    {
+      "glAccountId": 509,
+      "name": "Land",
+      "reference": "1853"
+    },
+    {
+      "glAccountId": 510,
+      "name": "Loan Payable N&G Assets LLC (Satsuma)",
+      "reference": "2690"
+    },
+    {
       "glAccountId": 511,
       "name": "Mineral Reservation Escrow",
       "reference": "1250"
+    },
+    {
+      "glAccountId": 512,
+      "name": "Lucky Communities Equity -Satsuma",
+      "reference": "3208"
+    },
+    {
+      "glAccountId": 513,
+      "name": "Lucky Communities Distributions-Satsuma",
+      "reference": "3208-D"
     },
     {
       "glAccountId": 514,
@@ -771,9 +1761,204 @@
       "reference": "1902"
     },
     {
+      "glAccountId": 517,
+      "name": "Lafayette MHP (Pinhook)",
+      "reference": "1860"
+    },
+    {
+      "glAccountId": 518,
+      "name": "Trailer Homes",
+      "reference": "1861"
+    },
+    {
+      "glAccountId": 519,
+      "name": "Land Improvements",
+      "reference": "1862"
+    },
+    {
+      "glAccountId": 520,
+      "name": "Land",
+      "reference": "1863"
+    },
+    {
+      "glAccountId": 521,
+      "name": "Lafayette MHP (Pinhook) Equity",
+      "reference": "3300"
+    },
+    {
+      "glAccountId": 522,
+      "name": "Alex Ramirez Equity",
+      "reference": "3301"
+    },
+    {
+      "glAccountId": 523,
+      "name": "Kupperman Companies Equity",
+      "reference": "3302"
+    },
+    {
+      "glAccountId": 524,
+      "name": "Lucky Communities Equity",
+      "reference": "3303"
+    },
+    {
+      "glAccountId": 525,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3301-D"
+    },
+    {
+      "glAccountId": 526,
+      "name": "Kupperman Commpanies Distributions",
+      "reference": "3302-D"
+    },
+    {
+      "glAccountId": 527,
+      "name": "Lucky Communities Distributions",
+      "reference": "3303-D"
+    },
+    {
+      "glAccountId": 528,
+      "name": "Loan Payable TJ Lavergne LLC Pinhook",
+      "reference": "2700"
+    },
+    {
+      "glAccountId": 529,
+      "name": "Brittany Joslyn, Ph.D Equity",
+      "reference": "3209"
+    },
+    {
+      "glAccountId": 530,
+      "name": "Brittany Joslyn, Ph.D Distributions",
+      "reference": "3209-D"
+    },
+    {
+      "glAccountId": 531,
+      "name": "Aryn Spahr Equity",
+      "reference": "3015-7"
+    },
+    {
+      "glAccountId": 532,
+      "name": "Aryn Spahr Distributions",
+      "reference": "3015-7D"
+    },
+    {
+      "glAccountId": 533,
+      "name": "Lucky Communities Equity",
+      "reference": "3075"
+    },
+    {
+      "glAccountId": 534,
+      "name": "Lucky Communities Distributions",
+      "reference": "3075-D"
+    },
+    {
+      "glAccountId": 535,
+      "name": "Cash Due From Terry",
+      "reference": "1120"
+    },
+    {
+      "glAccountId": 536,
+      "name": "Chase Bank Lafayette MHP 1255",
+      "reference": "1014"
+    },
+    {
       "glAccountId": 537,
       "name": "Down Payment",
       "reference": "4503"
+    },
+    {
+      "glAccountId": 538,
+      "name": "LAFAYETTE MHP LLC Equity",
+      "reference": "3304"
+    },
+    {
+      "glAccountId": 539,
+      "name": "LAFAYETTE MHP LLC Distributions",
+      "reference": "3304-D"
+    },
+    {
+      "glAccountId": 540,
+      "name": "Bottom 3 LLC Equity",
+      "reference": "3305"
+    },
+    {
+      "glAccountId": 541,
+      "name": "Bottom 3 LLC Distributions",
+      "reference": "3305-D"
+    },
+    {
+      "glAccountId": 542,
+      "name": "Chase Bank - Rainbow Terrace",
+      "reference": "1015"
+    },
+    {
+      "glAccountId": 543,
+      "name": "Rainbow Terrace",
+      "reference": "1630"
+    },
+    {
+      "glAccountId": 544,
+      "name": "Rainbow Terrace Equity",
+      "reference": "3065"
+    },
+    {
+      "glAccountId": 545,
+      "name": "Lucky Communities Equity",
+      "reference": "3065-1"
+    },
+    {
+      "glAccountId": 546,
+      "name": "Lucky Communities LLC Distributions",
+      "reference": "3065-1D"
+    },
+    {
+      "glAccountId": 547,
+      "name": "Kupperman Companies Equity",
+      "reference": "3065-2"
+    },
+    {
+      "glAccountId": 548,
+      "name": "Kupperman Companies Distribution",
+      "reference": "3065-2D"
+    },
+    {
+      "glAccountId": 549,
+      "name": "Alex Ramirez Equity",
+      "reference": "3065-3"
+    },
+    {
+      "glAccountId": 550,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3605-3D"
+    },
+    {
+      "glAccountId": 551,
+      "name": "Bottom 3 LLC RAINBOW Equity",
+      "reference": "3065-4"
+    },
+    {
+      "glAccountId": 552,
+      "name": "Bottom 3 LLC RAINBOW Distributions",
+      "reference": "3065-4D"
+    },
+    {
+      "glAccountId": 553,
+      "name": "Loan Payable Rainbow Terrace KY LLC",
+      "reference": "2800"
+    },
+    {
+      "glAccountId": 554,
+      "name": "Land",
+      "reference": "1506"
+    },
+    {
+      "glAccountId": 555,
+      "name": "5 Year Property",
+      "reference": "1507"
+    },
+    {
+      "glAccountId": 556,
+      "name": "15 Year Property",
+      "reference": "1508"
     },
     {
       "glAccountId": 557,
@@ -781,9 +1966,39 @@
       "reference": "5112"
     },
     {
+      "glAccountId": 558,
+      "name": "Land",
+      "reference": "1551"
+    },
+    {
+      "glAccountId": 559,
+      "name": "15 Year Property",
+      "reference": "1552"
+    },
+    {
+      "glAccountId": 560,
+      "name": "Land",
+      "reference": "1521"
+    },
+    {
+      "glAccountId": 561,
+      "name": "15 Year Property",
+      "reference": "1522"
+    },
+    {
       "glAccountId": 562,
       "name": "Due to Lucky Communities",
       "reference": "2701"
+    },
+    {
+      "glAccountId": 563,
+      "name": "15 Year Property",
+      "reference": "1801"
+    },
+    {
+      "glAccountId": 564,
+      "name": "Land",
+      "reference": "1802"
     },
     {
       "glAccountId": 565,
@@ -791,14 +2006,254 @@
       "reference": "1451"
     },
     {
+      "glAccountId": 566,
+      "name": "Land",
+      "reference": "1651"
+    },
+    {
+      "glAccountId": 567,
+      "name": "15 Year Property",
+      "reference": "1652"
+    },
+    {
+      "glAccountId": 568,
+      "name": "First Bank Money Market - Chef One 6069",
+      "reference": "1016"
+    },
+    {
+      "glAccountId": 569,
+      "name": "First Bank Checking - Chef One",
+      "reference": "1017"
+    },
+    {
+      "glAccountId": 570,
+      "name": "Chase - Parkwood",
+      "reference": "1018"
+    },
+    {
       "glAccountId": 571,
-      "name": "Option Payment (Income)",
+      "name": "Option Payment",
       "reference": "4504"
+    },
+    {
+      "glAccountId": 572,
+      "name": "Parkwood MHP (3766 Parkwood Rd)",
+      "reference": "1530"
+    },
+    {
+      "glAccountId": 573,
+      "name": "Land",
+      "reference": "1531"
+    },
+    {
+      "glAccountId": 574,
+      "name": "Land Improvements",
+      "reference": "1532"
+    },
+    {
+      "glAccountId": 575,
+      "name": "Parkwood Equity",
+      "reference": "3400"
+    },
+    {
+      "glAccountId": 576,
+      "name": "Lucky Communities Equity Parkwood",
+      "reference": "3401"
+    },
+    {
+      "glAccountId": 577,
+      "name": "Lucky Communities Distributions Parkwood",
+      "reference": "3401-D"
+    },
+    {
+      "glAccountId": 578,
+      "name": "Bottom 3 LLC Equity Parkwood",
+      "reference": "3402"
+    },
+    {
+      "glAccountId": 579,
+      "name": "Bottom 3 LLC Distributions Parkwood",
+      "reference": "3402-D"
+    },
+    {
+      "glAccountId": 580,
+      "name": "Kupperman Companies Equity (Parkwood)",
+      "reference": "3403"
+    },
+    {
+      "glAccountId": 581,
+      "name": "Kupperman Companies Distributions (Parkwood)",
+      "reference": "3403-D"
+    },
+    {
+      "glAccountId": 582,
+      "name": "Alex Ramirez Equity (Parkwood)",
+      "reference": "3404"
+    },
+    {
+      "glAccountId": 583,
+      "name": "Alex Ramirez Distributions (Parkwood)",
+      "reference": "3404-D"
+    },
+    {
+      "glAccountId": 584,
+      "name": "Chase - Sonnier",
+      "reference": "1019"
+    },
+    {
+      "glAccountId": 585,
+      "name": "Sonnier MHP 1740 6th St Lake Charles",
+      "reference": "1540"
+    },
+    {
+      "glAccountId": 586,
+      "name": "Land",
+      "reference": "1541"
+    },
+    {
+      "glAccountId": 587,
+      "name": "Land Improvements",
+      "reference": "1542"
+    },
+    {
+      "glAccountId": 588,
+      "name": "Sonnier MHP Equity",
+      "reference": "3120"
+    },
+    {
+      "glAccountId": 589,
+      "name": "Philips Member Equity Sonnier",
+      "reference": "3121"
+    },
+    {
+      "glAccountId": 590,
+      "name": "Philips Member Distributions Sonnier",
+      "reference": "3121D"
+    },
+    {
+      "glAccountId": 591,
+      "name": "Lucky Equity Sonnier",
+      "reference": "3122"
+    },
+    {
+      "glAccountId": 592,
+      "name": "Lucky Distributions Sonnier",
+      "reference": "3122D"
+    },
+    {
+      "glAccountId": 593,
+      "name": "Kupperman Equity Sonnier",
+      "reference": "3123"
+    },
+    {
+      "glAccountId": 594,
+      "name": "Kupperman Distributions Sonnier",
+      "reference": "3123D"
+    },
+    {
+      "glAccountId": 595,
+      "name": "Alex Ramirez Equity Sonnier",
+      "reference": "3124"
+    },
+    {
+      "glAccountId": 596,
+      "name": "Alex Ramirez Distributions Sonnier",
+      "reference": "3124D"
+    },
+    {
+      "glAccountId": 597,
+      "name": "Loan Payable First Bank Sonnier",
+      "reference": "2710"
+    },
+    {
+      "glAccountId": 598,
+      "name": "Chase - Remwood",
+      "reference": "1020"
+    },
+    {
+      "glAccountId": 599,
+      "name": "Remwood MHP Houma",
+      "reference": "1870"
+    },
+    {
+      "glAccountId": 600,
+      "name": "Land",
+      "reference": "1871"
+    },
+    {
+      "glAccountId": 601,
+      "name": "Land Improvements",
+      "reference": "1872"
+    },
+    {
+      "glAccountId": 602,
+      "name": "Buildings",
+      "reference": "1873"
+    },
+    {
+      "glAccountId": 603,
+      "name": "FF&E",
+      "reference": "1874"
+    },
+    {
+      "glAccountId": 604,
+      "name": "Remwood MHP Equity",
+      "reference": "3500"
+    },
+    {
+      "glAccountId": 605,
+      "name": "A Ramirez Equity (Remwood)",
+      "reference": "3501"
+    },
+    {
+      "glAccountId": 606,
+      "name": "A Ramirez Distributions (Remwood)",
+      "reference": "3501-D"
+    },
+    {
+      "glAccountId": 607,
+      "name": "Kupperman Companies Equity (Remwood)",
+      "reference": "3502"
+    },
+    {
+      "glAccountId": 608,
+      "name": "Kupperman Companies Distributions (Remwood)",
+      "reference": "3502-D"
+    },
+    {
+      "glAccountId": 609,
+      "name": "Lucky Communities Equity (Remwood)",
+      "reference": "3503"
+    },
+    {
+      "glAccountId": 610,
+      "name": "Lucky Communities Distributions (Remwood)",
+      "reference": "3503-D"
+    },
+    {
+      "glAccountId": 611,
+      "name": "Loan Payable First Bank Remwood",
+      "reference": "2720"
     },
     {
       "glAccountId": 612,
       "name": "Sales Referral Credit",
       "reference": "4135"
+    },
+    {
+      "glAccountId": 613,
+      "name": "Philips Member Equity (Remwood)",
+      "reference": "3504"
+    },
+    {
+      "glAccountId": 614,
+      "name": "Philips Member Distributions (Remwood)",
+      "reference": "3504-D"
+    },
+    {
+      "glAccountId": 615,
+      "name": "Loan#2 Payable Home Bank PPR (Messer)",
+      "reference": "2611"
     },
     {
       "glAccountId": 616,
@@ -821,6 +2276,11 @@
       "reference": "9502"
     },
     {
+      "glAccountId": 620,
+      "name": "Chase Bank - Glen Echo",
+      "reference": "1021"
+    },
+    {
       "glAccountId": 621,
       "name": "Insurance Proceeds Received",
       "reference": "8501"
@@ -831,9 +2291,229 @@
       "reference": "5113"
     },
     {
+      "glAccountId": 623,
+      "name": "Glen Echo MHP Conway AR",
+      "reference": "1660"
+    },
+    {
+      "glAccountId": 624,
+      "name": "Land Glen Echo",
+      "reference": "1661"
+    },
+    {
+      "glAccountId": 625,
+      "name": "Mobile Homes",
+      "reference": "1662"
+    },
+    {
+      "glAccountId": 626,
+      "name": "FF&E Glen Echo",
+      "reference": "1663"
+    },
+    {
+      "glAccountId": 627,
+      "name": "Land Improvements Glen Echo",
+      "reference": "1664"
+    },
+    {
+      "glAccountId": 628,
+      "name": "Loan Payable Arvest Bank Glen Echo",
+      "reference": "2780"
+    },
+    {
+      "glAccountId": 629,
+      "name": "Glen Echo MHP Equity",
+      "reference": "3130"
+    },
+    {
+      "glAccountId": 631,
+      "name": "Alex Ramirez Equity Glen Echo",
+      "reference": "3132"
+    },
+    {
+      "glAccountId": 632,
+      "name": "Kupperman Companies Equity Glen Echo",
+      "reference": "3133"
+    },
+    {
+      "glAccountId": 634,
+      "name": "Alex Ramirez Distributions Glen Echo",
+      "reference": "3132-D"
+    },
+    {
+      "glAccountId": 635,
+      "name": "Kupperman Companies Distributions Glen Echo",
+      "reference": "3133-D"
+    },
+    {
+      "glAccountId": 636,
+      "name": "Philip Pilevsky Equity Glen Echo",
+      "reference": "3134"
+    },
+    {
+      "glAccountId": 637,
+      "name": "Philip Pilevsky Distributions Glen Echo",
+      "reference": "3134-D"
+    },
+    {
+      "glAccountId": 638,
+      "name": "Arvest Bank-Glen Echo",
+      "reference": "1022"
+    },
+    {
       "glAccountId": 639,
       "name": "Home Rental Expense",
       "reference": "9503"
+    },
+    {
+      "glAccountId": 640,
+      "name": "Chase - Lucky Oak",
+      "reference": "1023"
+    },
+    {
+      "glAccountId": 641,
+      "name": "Chase - Lucky Pecan",
+      "reference": "1024"
+    },
+    {
+      "glAccountId": 642,
+      "name": "Chase - Malapart Oaks",
+      "reference": "1025"
+    },
+    {
+      "glAccountId": 644,
+      "name": "Lucky Oak 13 Country Air Dr",
+      "reference": "1560"
+    },
+    {
+      "glAccountId": 645,
+      "name": "Land",
+      "reference": "1561"
+    },
+    {
+      "glAccountId": 646,
+      "name": "Improvements",
+      "reference": "1562"
+    },
+    {
+      "glAccountId": 647,
+      "name": "Lukcy Oaks Equity",
+      "reference": "3600"
+    },
+    {
+      "glAccountId": 648,
+      "name": "Philip Pilevsky Equity Lucky Oak",
+      "reference": "3601"
+    },
+    {
+      "glAccountId": 649,
+      "name": "Alex Rmirez Equity Lucky Oak",
+      "reference": "3602"
+    },
+    {
+      "glAccountId": 650,
+      "name": "Kupperman Equity Lucky Oak",
+      "reference": "3603"
+    },
+    {
+      "glAccountId": 651,
+      "name": "Philip Pilevsky Distributions Lucky Oak",
+      "reference": "3601-D"
+    },
+    {
+      "glAccountId": 652,
+      "name": "Alex Ramirez Distributions Lucky Oak",
+      "reference": "3602-D"
+    },
+    {
+      "glAccountId": 653,
+      "name": "Kupperman Distributions Lucky Oak",
+      "reference": "3603-D"
+    },
+    {
+      "glAccountId": 654,
+      "name": "Loan Payable First Bank Lucky Pecan",
+      "reference": "2790"
+    },
+    {
+      "glAccountId": 655,
+      "name": "Loan Payable First Bank Lucky Oaks",
+      "reference": "2791"
+    },
+    {
+      "glAccountId": 656,
+      "name": "Loan Payable First Bank Malapart Oaks",
+      "reference": "2792"
+    },
+    {
+      "glAccountId": 657,
+      "name": "Malapart Oaks Equity",
+      "reference": "3610"
+    },
+    {
+      "glAccountId": 658,
+      "name": "Philip Pilevsky Equity Malapart Oaks",
+      "reference": "3611"
+    },
+    {
+      "glAccountId": 659,
+      "name": "Alex Ramirez Equity Malapart Oaks",
+      "reference": "3612"
+    },
+    {
+      "glAccountId": 660,
+      "name": "Kupperman Equity Malapart Oaks",
+      "reference": "3613"
+    },
+    {
+      "glAccountId": 661,
+      "name": "Philip Pilevsky Distributions Malapart Oaks",
+      "reference": "3611-D"
+    },
+    {
+      "glAccountId": 662,
+      "name": "Kupperman Distributions Malapart Oaks",
+      "reference": "3613-D"
+    },
+    {
+      "glAccountId": 663,
+      "name": "Alex Ramirez Distributions Malapart Oaks",
+      "reference": "3612-D"
+    },
+    {
+      "glAccountId": 664,
+      "name": "Lucky Pecan Equity",
+      "reference": "3620"
+    },
+    {
+      "glAccountId": 665,
+      "name": "Philip Pilevsky Equity Lucky Pecan",
+      "reference": "3621"
+    },
+    {
+      "glAccountId": 666,
+      "name": "Alex Ramirez Equity Lucky Pecan",
+      "reference": "3622"
+    },
+    {
+      "glAccountId": 667,
+      "name": "Kupperman Equity Lucky Pecan",
+      "reference": "3623"
+    },
+    {
+      "glAccountId": 668,
+      "name": "Philip Pilevsky Distributions Lucky Pecan",
+      "reference": "3621-D"
+    },
+    {
+      "glAccountId": 669,
+      "name": "Alex Ramirez Distributions Lucky Pecan",
+      "reference": "3622-D"
+    },
+    {
+      "glAccountId": 670,
+      "name": "Kupperman Distributions Lucky Pecan",
+      "reference": "3623-D"
     },
     {
       "glAccountId": 671,
@@ -841,9 +2521,39 @@
       "reference": "4136"
     },
     {
+      "glAccountId": 672,
+      "name": "Arvest Bank MM Sidlenie",
+      "reference": "1026"
+    },
+    {
+      "glAccountId": 673,
+      "name": "Relocatable Office",
+      "reference": "1864"
+    },
+    {
       "glAccountId": 674,
       "name": "Returns & Allowances",
       "reference": "5001"
+    },
+    {
+      "glAccountId": 675,
+      "name": "Mobile Homes",
+      "reference": "1631"
+    },
+    {
+      "glAccountId": 676,
+      "name": "Land",
+      "reference": "1632"
+    },
+    {
+      "glAccountId": 677,
+      "name": "Land Improvements",
+      "reference": "1633"
+    },
+    {
+      "glAccountId": 678,
+      "name": "Brick Home",
+      "reference": "1634"
     },
     {
       "glAccountId": 679,
@@ -851,9 +2561,79 @@
       "reference": "4900"
     },
     {
+      "glAccountId": 680,
+      "name": "Bottom 3 LLC",
+      "reference": "3125"
+    },
+    {
+      "glAccountId": 681,
+      "name": "Bottom 3 LLC Distibutions Sonnier",
+      "reference": "3125D"
+    },
+    {
+      "glAccountId": 682,
+      "name": "Home Bank Escrow Account Pines",
+      "reference": "1101"
+    },
+    {
       "glAccountId": 683,
-      "name": "Moving Cost Reimbursement - Sales",
+      "name": "Moving Cost Reimbursement- Sales",
       "reference": "9504"
+    },
+    {
+      "glAccountId": 684,
+      "name": "Chase-Lucky Acadian Mobile Home Park LLC",
+      "reference": "1027"
+    },
+    {
+      "glAccountId": 685,
+      "name": "Trailer Homes (Remwood)",
+      "reference": "1875"
+    },
+    {
+      "glAccountId": 686,
+      "name": "Lucky Pecan Park",
+      "reference": "1570"
+    },
+    {
+      "glAccountId": 687,
+      "name": "Malapart Oaks Park",
+      "reference": "1580"
+    },
+    {
+      "glAccountId": 688,
+      "name": "Land",
+      "reference": "1571"
+    },
+    {
+      "glAccountId": 689,
+      "name": "Land Improvements",
+      "reference": "1572"
+    },
+    {
+      "glAccountId": 690,
+      "name": "Mobile Homes",
+      "reference": "1573"
+    },
+    {
+      "glAccountId": 691,
+      "name": "Land",
+      "reference": "1581"
+    },
+    {
+      "glAccountId": 692,
+      "name": "Land Improvements",
+      "reference": "1582"
+    },
+    {
+      "glAccountId": 693,
+      "name": "Mobile Homes",
+      "reference": "1583"
+    },
+    {
+      "glAccountId": 694,
+      "name": "Mobile Homes",
+      "reference": "1563"
     },
     {
       "glAccountId": 695,
@@ -862,8 +2642,23 @@
     },
     {
       "glAccountId": 696,
-      "name": "Option Payment (Liability)",
+      "name": "Option Payment",
       "reference": "2900"
+    },
+    {
+      "glAccountId": 697,
+      "name": "Mechanical Plant",
+      "reference": "1564"
+    },
+    {
+      "glAccountId": 698,
+      "name": "Lift Station",
+      "reference": "1584"
+    },
+    {
+      "glAccountId": 699,
+      "name": "Mobile Homes",
+      "reference": "1543"
     },
     {
       "glAccountId": 700,
@@ -872,8 +2667,78 @@
     },
     {
       "glAccountId": 702,
-      "name": "Acadian - paid from previous owner",
+      "name": "Acadian -paid from previous owner",
       "reference": "1201"
+    },
+    {
+      "glAccountId": 704,
+      "name": "Trailer Trade-In Clearing",
+      "reference": "1028"
+    },
+    {
+      "glAccountId": 705,
+      "name": "Loan Payable Red River Bank Lucky Acadian",
+      "reference": "2730"
+    },
+    {
+      "glAccountId": 706,
+      "name": "Lucky Acadian MHP Equity",
+      "reference": "3700"
+    },
+    {
+      "glAccountId": 707,
+      "name": "Kupperman Companies Equity Lucky Acadian",
+      "reference": "3701"
+    },
+    {
+      "glAccountId": 708,
+      "name": "Alex Ramirez Equity Lucky Acadian",
+      "reference": "3702"
+    },
+    {
+      "glAccountId": 709,
+      "name": "Bottom 3 LLC Equity Lucky Acadian",
+      "reference": "3703"
+    },
+    {
+      "glAccountId": 710,
+      "name": "Kupperman Companies Distributions Lucky Acadian",
+      "reference": "3701-D"
+    },
+    {
+      "glAccountId": 711,
+      "name": "Alex Ramirez Distributions Lucky Acadian",
+      "reference": "3702-D"
+    },
+    {
+      "glAccountId": 712,
+      "name": "Bottom 3 LLC Distributions Lucky Acadian",
+      "reference": "3703-D"
+    },
+    {
+      "glAccountId": 713,
+      "name": "Lucky Acadian MHP",
+      "reference": "1590"
+    },
+    {
+      "glAccountId": 714,
+      "name": "Land",
+      "reference": "1591"
+    },
+    {
+      "glAccountId": 715,
+      "name": "Land Improvements",
+      "reference": "1592"
+    },
+    {
+      "glAccountId": 716,
+      "name": "Mobile Homes",
+      "reference": "1593"
+    },
+    {
+      "glAccountId": 717,
+      "name": "FF&E",
+      "reference": "1594"
     },
     {
       "glAccountId": 718,
@@ -882,13 +2747,178 @@
     },
     {
       "glAccountId": 719,
-      "name": "Non-Operating Expenses - Financing, Accounting, Homes",
+      "name": "Non-Operating Expenses -Financing, Accounting, Hom",
       "reference": "9700"
+    },
+    {
+      "glAccountId": 720,
+      "name": "Chase-Market Cross Monroe MHP LLC",
+      "reference": "1029"
+    },
+    {
+      "glAccountId": 721,
+      "name": "Chase- CSM Realty,LLC",
+      "reference": "1030"
+    },
+    {
+      "glAccountId": 722,
+      "name": "Capital One- Baudin Living LLC",
+      "reference": "1031"
     },
     {
       "glAccountId": 723,
       "name": "Asset Management Fee",
       "reference": "8502"
+    },
+    {
+      "glAccountId": 724,
+      "name": "Red River Bank Lucky Acadian 7143",
+      "reference": "1032"
+    },
+    {
+      "glAccountId": 725,
+      "name": "Loan Payable HFB Market Cross/Pecanland",
+      "reference": "2740"
+    },
+    {
+      "glAccountId": 726,
+      "name": "Market Cross /Pecanland MHP 2300 Garrett Rd Monroe",
+      "reference": "1610"
+    },
+    {
+      "glAccountId": 727,
+      "name": "Land",
+      "reference": "1611"
+    },
+    {
+      "glAccountId": 728,
+      "name": "Land Improvements",
+      "reference": "1612"
+    },
+    {
+      "glAccountId": 729,
+      "name": "Mobile Homes",
+      "reference": "1613"
+    },
+    {
+      "glAccountId": 730,
+      "name": "Market Cross/Pecanland Equity",
+      "reference": "3800"
+    },
+    {
+      "glAccountId": 731,
+      "name": "Market Cross LLC Equity Pecanland",
+      "reference": "3801"
+    },
+    {
+      "glAccountId": 732,
+      "name": "Market Cross LLC Pecanland Distributions",
+      "reference": "3801-D"
+    },
+    {
+      "glAccountId": 733,
+      "name": "Gallo Investments LLC Equity Pecanland",
+      "reference": "3802"
+    },
+    {
+      "glAccountId": 734,
+      "name": "Gallo Investments LLC Distributions Pecanland",
+      "reference": "3802-D"
+    },
+    {
+      "glAccountId": 735,
+      "name": "JP Hymel Equity Pecanland",
+      "reference": "3803"
+    },
+    {
+      "glAccountId": 736,
+      "name": "JP Hymel Distributions Pecanland",
+      "reference": "3803-D"
+    },
+    {
+      "glAccountId": 737,
+      "name": "David Poor Equity Pecanland",
+      "reference": "3804"
+    },
+    {
+      "glAccountId": 738,
+      "name": "David Poor Distributions Pecanland",
+      "reference": "3804-D"
+    },
+    {
+      "glAccountId": 739,
+      "name": "Keith Deshautreaux Equity Pecanland",
+      "reference": "3805"
+    },
+    {
+      "glAccountId": 740,
+      "name": "Keith Deshautreaux Distributions Pecanland",
+      "reference": "3805-D"
+    },
+    {
+      "glAccountId": 741,
+      "name": "Katie Baumer Equity Pecanland",
+      "reference": "3806"
+    },
+    {
+      "glAccountId": 742,
+      "name": "Katie Baumer Distributions Pecanland",
+      "reference": "3806-D"
+    },
+    {
+      "glAccountId": 743,
+      "name": "David Gallo Jr Equity Pecanland",
+      "reference": "3807"
+    },
+    {
+      "glAccountId": 744,
+      "name": "David Gallo Jr Distributions Pecanland",
+      "reference": "3807-D"
+    },
+    {
+      "glAccountId": 745,
+      "name": "Augie Gallo Equity Pecanland",
+      "reference": "3808"
+    },
+    {
+      "glAccountId": 746,
+      "name": "Augie Gallo Distributions Pecanland",
+      "reference": "3808-D"
+    },
+    {
+      "glAccountId": 747,
+      "name": "Madison Boyce Equity Pecanland",
+      "reference": "3809"
+    },
+    {
+      "glAccountId": 748,
+      "name": "Madison Boyce Distributions Pecanland",
+      "reference": "3809-D"
+    },
+    {
+      "glAccountId": 749,
+      "name": "Lucky Communities Equity Pecanland",
+      "reference": "3810"
+    },
+    {
+      "glAccountId": 750,
+      "name": "Lucky Communities Distributions Pecanland",
+      "reference": "3810-D"
+    },
+    {
+      "glAccountId": 751,
+      "name": "Home Federal Bank- Market Cross/Pecanland",
+      "reference": "1033"
+    },
+    {
+      "glAccountId": 752,
+      "name": "FF&E",
+      "reference": "1614"
+    },
+    {
+      "glAccountId": 753,
+      "name": "Start-Up & Operating Reserves (One Mth Rev)",
+      "reference": "1504"
     },
     {
       "glAccountId": 754,
@@ -904,6 +2934,111 @@
       "glAccountId": 756,
       "name": "Private Utility Maintenance",
       "reference": "5102"
+    },
+    {
+      "glAccountId": 758,
+      "name": "Alex Ramirez Distributions",
+      "reference": "3047D"
+    },
+    {
+      "glAccountId": 759,
+      "name": "Chase-Henderson Mobile Home Park LLC",
+      "reference": "1034"
+    },
+    {
+      "glAccountId": 760,
+      "name": "Loan Payable Pecan Park Estates (Henderson)",
+      "reference": "2750"
+    },
+    {
+      "glAccountId": 761,
+      "name": "Henderson MHP",
+      "reference": "1730"
+    },
+    {
+      "glAccountId": 762,
+      "name": "Land",
+      "reference": "1731"
+    },
+    {
+      "glAccountId": 763,
+      "name": "Land Improvements",
+      "reference": "1732"
+    },
+    {
+      "glAccountId": 764,
+      "name": "FF&E",
+      "reference": "1733"
+    },
+    {
+      "glAccountId": 765,
+      "name": "Trailer Homes",
+      "reference": "1734"
+    },
+    {
+      "glAccountId": 766,
+      "name": "Henderson MHP Equity",
+      "reference": "3140"
+    },
+    {
+      "glAccountId": 767,
+      "name": "Alex Ramirez Equity (Henderson)",
+      "reference": "3141"
+    },
+    {
+      "glAccountId": 768,
+      "name": "Alex Ramirez Distributions (Henderson)",
+      "reference": "3141D"
+    },
+    {
+      "glAccountId": 769,
+      "name": "Kupperman Equity (Henderson)",
+      "reference": "3142"
+    },
+    {
+      "glAccountId": 770,
+      "name": "Kupperman Distributions (Henderson)",
+      "reference": "3142D"
+    },
+    {
+      "glAccountId": 771,
+      "name": "Nathan Hulling Equity (Henderson)",
+      "reference": "3143"
+    },
+    {
+      "glAccountId": 772,
+      "name": "Nathan Hulling Distributions (Henderson)",
+      "reference": "3143D"
+    },
+    {
+      "glAccountId": 773,
+      "name": "Charles Cantrell Equity (Henderson)",
+      "reference": "3144"
+    },
+    {
+      "glAccountId": 774,
+      "name": "Charles Cantrell Distributions (Henderson)",
+      "reference": "3144D"
+    },
+    {
+      "glAccountId": 775,
+      "name": "Anna & Aaron Creek Equity (Henderson)",
+      "reference": "3145"
+    },
+    {
+      "glAccountId": 776,
+      "name": "Anna & Aaron Creek Distributions (Henderson)",
+      "reference": "3145D"
+    },
+    {
+      "glAccountId": 777,
+      "name": "Aristos Petrou Equity (Henderson)",
+      "reference": "3146"
+    },
+    {
+      "glAccountId": 778,
+      "name": "Aristos Petrou Distributions (Henderson)",
+      "reference": "3146D"
     }
   ]
 }
