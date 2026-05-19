@@ -9,7 +9,11 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import type { InvoiceRow } from "@/lib/types";
-import { completeManual, createUploadSession } from "@/lib/drive";
+import {
+  completeManual,
+  createUploadSession,
+  verifyUpload,
+} from "@/lib/drive";
 
 interface ManualUploadModalProps {
   open: boolean;
@@ -47,30 +51,68 @@ export function ManualUploadModal({ open, onClose, onCreated }: ManualUploadModa
     setError(null);
 
     try {
-      // Step 1: get a resumable upload URL from the server
+      // Step 1: server creates a resumable upload session pointing at the
+      // RAW_INVOICES folder (manualUploadFolderId on the server side).
       const { uploadUrl } = await createUploadSession({
         name: file.name,
         mimeType: file.type || "application/pdf",
         size: file.size,
       });
 
-      // Step 2: PUT file bytes directly to Google (bypasses Vercel 4.5MB limit)
-      const uploadRes = await fetch(uploadUrl, {
-        method: "PUT",
-        headers: { "Content-Type": file.type || "application/pdf" },
-        body: file,
-      });
-      if (!uploadRes.ok && uploadRes.status !== 200) {
-        const msg = await uploadRes.text().catch(() => `HTTP ${uploadRes.status}`);
-        throw new Error(`Drive upload failed: ${msg}`);
+      // Step 2: PUT bytes directly to Google's resumable URL. Don't set
+      // Content-Type — Google already has it via X-Upload-Content-Type from
+      // step 1. Content-Range tells Google this is the entire object.
+      let uploadedId: string | null = null;
+      let uploadedWebViewLink: string | null = null;
+      try {
+        const uploadRes = await fetch(uploadUrl, {
+          method: "PUT",
+          headers: {
+            "Content-Range": `bytes 0-${file.size - 1}/${file.size}`,
+          },
+          body: file,
+        });
+        if (uploadRes.status === 200 || uploadRes.status === 201) {
+          try {
+            const meta = (await uploadRes.json()) as {
+              id?: string;
+              webViewLink?: string;
+            };
+            uploadedId = meta.id ?? null;
+            uploadedWebViewLink = meta.webViewLink ?? null;
+          } catch {
+            // Response body unreadable — fall through to server-side verify
+          }
+        } else if (!uploadRes.ok) {
+          const msg = await uploadRes.text().catch(() => `HTTP ${uploadRes.status}`);
+          throw new Error(`Drive upload failed: ${msg}`);
+        }
+      } catch (e) {
+        // Network/CORS error on reading the response. The PUT itself may have
+        // succeeded — let the verify step below decide.
+        // (Re-throw only if it's clearly not a "response unreadable" case.)
+        if (
+          e instanceof TypeError &&
+          /failed to fetch|networkerror/i.test(e.message)
+        ) {
+          // swallow — verify will confirm
+        } else {
+          throw e;
+        }
       }
-      const uploadedFile = (await uploadRes.json()) as { id?: string; webViewLink?: string };
-      if (!uploadedFile.id) throw new Error("Google did not return a file ID");
 
-      // Step 3: append a row to the Invoice Log sheet and return the new InvoiceRow
+      // Step 2b: if we couldn't read the PUT response, ask the server to find
+      // the just-uploaded file by name in RAW_INVOICES.
+      if (!uploadedId) {
+        const verified = await verifyUpload({ filename: file.name });
+        uploadedId = verified.fileId;
+        uploadedWebViewLink = verified.webViewLink;
+      }
+
+      // Step 3: append the stub row to the Invoice Log sheet.
       const { invoice } = await completeManual({
-        fileId: uploadedFile.id,
-        webViewLink: uploadedFile.webViewLink,
+        fileId: uploadedId,
+        webViewLink: uploadedWebViewLink ?? undefined,
         fileName: file.name,
       });
       if (!invoice) throw new Error("No invoice returned from server");

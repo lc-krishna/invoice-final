@@ -72,6 +72,22 @@ export async function createUploadSession(opts: {
   });
 }
 
+/**
+ * Server-side verification after a resumable PUT. Useful when the browser
+ * can't read the PUT response body (CORS or similar) but the file did land
+ * in Drive — server lists the upload folder by filename and returns the
+ * fresh fileId/webViewLink.
+ */
+export async function verifyUpload(opts: {
+  filename: string;
+  parentId?: string;
+}): Promise<{ fileId: string; fileName: string; webViewLink: string }> {
+  return driveApi<{ fileId: string; fileName: string; webViewLink: string }>({
+    action: "verifyUpload",
+    ...opts,
+  });
+}
+
 export async function completeManual(opts: {
   fileId: string;
   webViewLink?: string;

@@ -125,6 +125,34 @@ async function createUploadSession(
   return json({ uploadUrl });
 }
 
+async function verifyUpload(filename: string, parentId: string) {
+  const q =
+    `'${escapeDriveQuery(parentId)}' in parents ` +
+    `and name='${escapeDriveQuery(filename)}' ` +
+    `and trashed=false`;
+  const url = new URL(`${DRIVE_V3}/files`);
+  url.searchParams.set("q", q);
+  url.searchParams.set("fields", "files(id,name,webViewLink,createdTime)");
+  url.searchParams.set("orderBy", "createdTime desc");
+  url.searchParams.set("supportsAllDrives", "true");
+  url.searchParams.set("includeItemsFromAllDrives", "true");
+  url.searchParams.set("pageSize", "10");
+
+  const res = await googleFetch(url.toString());
+  if (!res.ok)
+    return error(`Drive verifyUpload ${res.status}: ${await res.text()}`, res.status);
+  const data = (await res.json()) as {
+    files?: { id: string; name: string; webViewLink?: string }[];
+  };
+  const file = data.files?.[0];
+  if (!file) return error(`Uploaded file "${filename}" not found in folder`, 404);
+  return json({
+    fileId: file.id,
+    fileName: file.name,
+    webViewLink: file.webViewLink || driveWebViewLink(file.id),
+  });
+}
+
 async function completeManual(fileId: string, webViewLink: string, fileName: string) {
   const rowValues = Array.from({ length: 25 }, () => "");
   rowValues[0] = `MANUAL-${Date.now()}`;
@@ -187,6 +215,13 @@ async function handler(request: Request) {
         const parentId =
           String(body.parentId ?? "").trim() || manualUploadFolderId();
         return await createUploadSession(name, mimeType, size, parentId);
+      }
+      case "verifyUpload": {
+        const filename = String(body.filename ?? "").trim();
+        const parentId =
+          String(body.parentId ?? "").trim() || manualUploadFolderId();
+        if (!filename) return error("Missing filename");
+        return await verifyUpload(filename, parentId);
       }
       case "completeManual": {
         const fileId = String(body.fileId ?? "").trim();

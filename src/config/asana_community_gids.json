@@ -1,0 +1,28 @@
+{
+  "_comment": "Asana project GID per community. Key = community label as it appears in communities.json. Generated from the source list provided 2026-05-19; duplicates (e.g. 'Chef One Mobile Home Park' + 'Chef One MHP') were merged using the MHP-style label. Market Cross Monroe MHP and Pecanland are the same physical place — both share Asana GID 1211600208182900.",
+  "gids": {
+    "Messer Community": "1210359657220806",
+    "Shady Pines MHP": "1210359657220807",
+    "Oakview MHP": "1210359657220808",
+    "Country Estates MHP": "1214170120055043",
+    "Steele Creek MHP": "1210359657220810",
+    "Chef One MHP": "1210359657220811",
+    "Muscle Shoals MHP": "1210359657220812",
+    "Sidlenie MHP": "1210359657220813",
+    "Satsuma Heights MHP": "1210359657220814",
+    "Lafayette MHP LLC": "1210359657220815",
+    "Rainbow Terrace MHP": "1210359657220816",
+    "Parkwood MHP": "1210359657220817",
+    "Sonnier MHP": "1210359657220818",
+    "Remwood MHP": "1210359657220819",
+    "Glen Echo MHP": "1210359657220820",
+    "Lucky Oak MHP": "1210359657220821",
+    "Malapart Oaks MHP": "1210359657220822",
+    "Lucky Pecan MHP": "1210359657220823",
+    "Lucky Acadian": "1210767183465919",
+    "Market Cross Monroe MHP": "1211600208182900",
+    "Henderson park": "1213967414308833",
+    "Lucky Communities": "1210427595340241",
+    "Campeche": "1214020373159838"
+  }
+}

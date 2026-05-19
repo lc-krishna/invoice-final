@@ -43,6 +43,7 @@ import {
   RM_VENDORS,
   getCommunityByLabel,
   getUnitsForProperty,
+  getAsanaGidByCommunity,
 } from "@/lib/configs";
 import { SearchCombobox, type ComboOption } from "./SearchCombobox";
 import { StatusBadge } from "./StatusBadge";
@@ -100,6 +101,54 @@ function invoiceRowToArray(inv: InvoiceRow): unknown[] {
   ];
 }
 
+// Builds the row sent to /api/drive { action: "copyFile" } for a manual invoice
+// at "Copy to Drive" time. Server uses this to replace the existing row, then
+// overwrites cols S/T/U/V with the new vendor-folder Drive info. Result: the
+// sheet row goes from "Manual - fill in details" to fully populated.
+function buildEnrichedManualRow(
+  invoice: InvoiceRow,
+  state: InvoiceState,
+  communityConfig: ReturnType<typeof getCommunityByLabel>,
+): unknown[] {
+  const community = state.manualCommunity || invoice.community;
+  const vendor = state.manualVendor || invoice.vendor;
+  const invoiceNumber = state.manualInvoiceNumber || invoice.invoiceNumber;
+  const amount = state.manualAmount
+    ? Number(state.manualAmount)
+    : invoice.amount;
+  const paymentMethod = state.manualPaymentMethod || invoice.paymentMethod;
+  const asanaGid =
+    invoice.communityAsanaGid || getAsanaGidByCommunity(community) || "";
+
+  return [
+    invoice.serialNo,                                          // A 0
+    invoice.timestamp,                                         // B 1
+    community,                                                 // C 2
+    asanaGid,                                                  // D 3
+    state.jobDescription || invoice.taskName,                  // E 4
+    vendor,                                                    // F 5
+    invoiceNumber,                                             // G 6
+    amount,                                                    // H 7
+    paymentMethod,                                             // I 8
+    "Manual - filled",                                         // J 9
+    communityConfig?.melioEmail || invoice.melioEmail || "",   // K 10
+    communityConfig?.folderId || invoice.communityFolderId || "", // L 11
+    invoice.driveFileId,                                       // M 12  (RAW_INVOICES file)
+    invoice.rmBillId,                                          // N 13
+    invoice.rmBillUploadStatus,                                // O 14
+    invoice.rmBillUploadError,                                 // P 15
+    invoice.rmAttachmentStatus,                                // Q 16
+    invoice.rmAttachmentError,                                 // R 17
+    "",                                                        // S 18  — server fills
+    "",                                                        // T 19  — server fills
+    "",                                                        // U 20  — server fills
+    "",                                                        // V 21  — server fills
+    invoice.asanaTaskGid,                                      // W 22
+    invoice.asanaTaskUrl,                                      // X 23
+    invoice.finalStatus,                                       // Y 24
+  ];
+}
+
 // Builds the fully backfilled 25-element row for manual Done submission
 function buildManualRow(
   invoice: InvoiceRow,
@@ -112,11 +161,14 @@ function buildManualRow(
   const amount = state.manualAmount ? Number(state.manualAmount) : invoice.amount;
   const paymentMethod = state.manualPaymentMethod || invoice.paymentMethod;
 
+  const asanaGid =
+    invoice.communityAsanaGid || getAsanaGidByCommunity(community) || "";
+
   return [
     invoice.serialNo,                                          // A 0
     invoice.timestamp,                                         // B 1
     community,                                                 // C 2
-    invoice.communityAsanaGid,                                 // D 3
+    asanaGid,                                                  // D 3
     state.jobDescription || invoice.taskName,                  // E 4
     vendor,                                                    // F 5
     invoiceNumber,                                             // G 6
@@ -322,12 +374,20 @@ export function InvoiceForm({
     }
     onStateChange((prev) => ({ ...prev, driveLoading: true, driveError: null }));
     try {
+      // For manual invoices the sheet row is mostly empty — replace it with a
+      // fully enriched row (community, GID, vendor, amount, paymentMethod,
+      // melio email, communityFolderId, …). The server will then layer the
+      // new vendor-folder Drive info onto cols S/T/U/V.
+      const rowForServer = isManual
+        ? buildEnrichedManualRow(invoice, state, communityConfig)
+        : invoiceRowToArray(invoice);
+
       const data = await copyDriveFile({
         sourceFileId: invoice.driveFileId,
         targetFolderId: state.driveFolderId,
         name: computedFilename,
         rowNumber: invoice.rowNumber,
-        existingRow: invoiceRowToArray(invoice),
+        existingRow: rowForServer,
       });
       onStateChange((prev) => ({
         ...prev,
