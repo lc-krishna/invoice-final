@@ -1,4 +1,4 @@
-import { error, json, proxyWebhook, readJson, requireAuth } from "./_utils";
+import { error, json, proxyWebhook, readJson, requireAuth } from "./_utils.js";
 
 export default async function handler(request: Request) {
   const unauthorized = await requireAuth(request);

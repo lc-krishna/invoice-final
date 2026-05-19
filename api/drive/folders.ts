@@ -1,4 +1,4 @@
-import { error, googleFetch, json, readJson, requireAuth } from "../_utils";
+import { error, googleFetch, json, readJson, requireAuth } from "../_utils.js";
 
 function escapeDriveQuery(value: string) {
   return value.replace(/\\/g, "\\\\").replace(/'/g, "\\'");

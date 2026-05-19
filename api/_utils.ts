@@ -1,4 +1,4 @@
-import { SHEET_RANGE, SHEET_TAB, mapSheetRows } from "../src/lib/sheets";
+import { SHEET_RANGE, SHEET_TAB, mapSheetRows } from "../src/lib/sheets.js";
 
 const SESSION_COOKIE = "lc-session";
 const TOKEN_AUDIENCE = "https://oauth2.googleapis.com/token";

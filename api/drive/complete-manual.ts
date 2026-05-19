@@ -6,7 +6,7 @@ import {
   json,
   readJson,
   requireAuth,
-} from "../_utils";
+} from "../_utils.js";
 
 export default async function handler(request: Request) {
   const unauthorized = await requireAuth(request);

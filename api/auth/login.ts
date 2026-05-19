@@ -1,4 +1,4 @@
-import { clearSessionCookie, createSessionCookie, error, json, readJson } from "../_utils";
+import { clearSessionCookie, createSessionCookie, error, json, readJson } from "../_utils.js";
 
 export default async function handler(request: Request) {
   if (request.method !== "POST") return error("Method not allowed", 405);
