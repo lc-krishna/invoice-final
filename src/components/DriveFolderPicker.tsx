@@ -22,18 +22,9 @@ interface DriveFolderPickerProps {
   disabled?: boolean;
 }
 
-const INVOICE_PATTERN = /invoice|invoices|billing|accounts.payable/i;
-
-function slugFirst(name: string): string {
-  return name.trim().split(/\s+/)[0].toLowerCase();
-}
-
-function fuzzyMatchVendor(folderName: string, vendor: string): boolean {
-  if (!vendor.trim()) return false;
-  const folderLower = folderName.toLowerCase();
-  const vendorWords = vendor.trim().toLowerCase().split(/\s+/).filter(Boolean);
-  return vendorWords.some((w) => folderLower.includes(w));
-}
+// Flexible matcher for the parent "Vendors" folder under a community root.
+// Matches "Vendors", "Vendor", "10 | Vendors", "Vendor Folder", etc.
+const VENDORS_PATTERN = /vendors?/i;
 
 async function fetchFolders(parentId: string): Promise<DriveFolder[]> {
   const res = await fetch(`/api/drive/folders?parentId=${encodeURIComponent(parentId)}`);
@@ -86,64 +77,49 @@ export function DriveFolderPicker({
     }
   }, []);
 
-  // Init breadcrumb from community root + auto-navigate to vendor→invoices
+  // Auto-navigate: community root → Vendors folder → show its subfolders.
+  // From there the user clicks iteratively to go deeper; the last breadcrumb
+  // is always the upload destination.
   useEffect(() => {
     if (disabled) return;
     const communityConfig = getCommunityByLabel(community);
     const rootId = communityConfig?.folderId;
     if (!rootId) return;
 
-    // Only auto-run once per (community, vendor) pair when breadcrumb is empty
-    const key = `${community}|${vendor}`;
-    if (autoRan.current === key) return;
+    if (autoRan.current === community) return;
     if (breadcrumb.length > 0) return;
 
-    autoRan.current = key;
-
+    autoRan.current = community;
     const rootCrumb: Crumb = { id: rootId, name: community };
 
     (async () => {
       setLoading(true);
       setError(null);
       try {
-        // Level 1: community root children → find vendor folder
         const rootChildren = await fetchFolders(rootId);
-        const vendorFolder = rootChildren.find((f) => fuzzyMatchVendor(f.name, vendor));
+        const vendorsFolder = rootChildren.find((f) => VENDORS_PATTERN.test(f.name));
 
-        if (!vendorFolder) {
-          // Stay at root, show community children
+        if (vendorsFolder) {
+          // Found Vendors — go inside, surface its subfolders (individual vendor folders)
+          const vendorsCrumb: Crumb = { id: vendorsFolder.id, name: vendorsFolder.name };
+          const vendorsChildren = await fetchFolders(vendorsFolder.id);
+          onBreadcrumbChange([rootCrumb, vendorsCrumb]);
+          onSelect(vendorsFolder.id, vendorsFolder.name);
+          setFolders(vendorsChildren);
+        } else {
+          // No Vendors folder under this community — stay at root, let user pick or create
           onBreadcrumbChange([rootCrumb]);
+          onSelect(rootId, community);
           setFolders(rootChildren);
-          return;
         }
-
-        // Level 2: vendor folder children → find invoice folder
-        const vendorCrumb: Crumb = { id: vendorFolder.id, name: vendorFolder.name };
-        const vendorChildren = await fetchFolders(vendorFolder.id);
-        const invoiceFolder = vendorChildren.find((f) => INVOICE_PATTERN.test(f.name));
-
-        if (!invoiceFolder) {
-          // Stay at vendor level
-          onBreadcrumbChange([rootCrumb, vendorCrumb]);
-          setFolders(vendorChildren);
-          return;
-        }
-
-        // Found invoice folder — select it and fetch its children for display
-        const invoiceCrumb: Crumb = { id: invoiceFolder.id, name: invoiceFolder.name };
-        const invoiceChildren = await fetchFolders(invoiceFolder.id);
-        onBreadcrumbChange([rootCrumb, vendorCrumb, invoiceCrumb]);
-        onSelect(invoiceFolder.id, invoiceFolder.name);
-        setFolders(invoiceChildren);
       } catch (e) {
         setError(e instanceof Error ? e.message : String(e));
       } finally {
         setLoading(false);
       }
     })();
-    // Only run when community or vendor changes and breadcrumb is empty
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [community, vendor, disabled]);
+  }, [community, disabled]);
 
   // Load folders whenever the deepest breadcrumb crumb changes (manual navigation)
   useEffect(() => {
