@@ -47,6 +47,7 @@ import {
 import { SearchCombobox, type ComboOption } from "./SearchCombobox";
 import { StatusBadge } from "./StatusBadge";
 import { DriveFolderPicker } from "./DriveFolderPicker";
+import { copyFile as copyDriveFile } from "@/lib/drive";
 import { formatUSD } from "@/lib/format";
 import { formatChicagoFull, toChicagoIso } from "@/lib/time";
 
@@ -321,38 +322,26 @@ export function InvoiceForm({
     }
     onStateChange((prev) => ({ ...prev, driveLoading: true, driveError: null }));
     try {
-      const res = await fetch("/api/drive/copy-invoice", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          rowNumber: invoice.rowNumber,
-          driveFileId: invoice.driveFileId,
-          targetFolderId: state.driveFolderId,
-          targetFolderName: state.driveFolderName,
-          fileName: computedFilename,
-          existingRow: invoiceRowToArray(invoice),
-        }),
+      const data = await copyDriveFile({
+        sourceFileId: invoice.driveFileId,
+        targetFolderId: state.driveFolderId,
+        name: computedFilename,
+        rowNumber: invoice.rowNumber,
+        existingRow: invoiceRowToArray(invoice),
       });
-      const body = await res.text();
-      if (!res.ok) {
-        onStateChange((prev) => ({ ...prev, driveLoading: false, driveError: body || `HTTP ${res.status}` }));
-        toast.error("Drive copy failed");
-        return;
-      }
-      const data = JSON.parse(body) as { fileId?: string; webViewLink?: string };
       onStateChange((prev) => ({
         ...prev,
         driveLoading: false,
         driveSubmitted: true,
         driveError: null,
-        driveVendorFileId: data.fileId ?? "",
-        driveVendorFileLink: data.webViewLink ?? "",
+        driveVendorFileId: data.fileId,
+        driveVendorFileLink: data.webViewLink,
       }));
       toast.success("Copied to Drive");
     } catch (e) {
       const msg = e instanceof Error ? e.message : String(e);
       onStateChange((prev) => ({ ...prev, driveLoading: false, driveError: msg }));
-      toast.error("Drive copy failed");
+      toast.error(`Drive copy failed: ${msg}`);
     }
   };
 

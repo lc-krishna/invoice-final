@@ -4,13 +4,13 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { cn } from "@/lib/utils";
 import { getCommunityByLabel } from "@/lib/configs";
+import {
+  createFolder as apiCreateFolder,
+  listFolders as apiListFolders,
+  type DriveFolder,
+} from "@/lib/drive";
 
 type Crumb = { id: string; name: string };
-
-interface DriveFolder {
-  id: string;
-  name: string;
-}
 
 interface DriveFolderPickerProps {
   community: string;
@@ -25,25 +25,6 @@ interface DriveFolderPickerProps {
 // Flexible matcher for the parent "Vendors" folder under a community root.
 // Matches "Vendors", "Vendor", "10 | Vendors", "Vendor Folder", etc.
 const VENDORS_PATTERN = /vendors?/i;
-
-async function fetchFolders(parentId: string): Promise<DriveFolder[]> {
-  const res = await fetch(`/api/drive/folders?parentId=${encodeURIComponent(parentId)}`);
-  if (!res.ok) throw new Error(`Drive folders ${res.status}`);
-  const body = (await res.json()) as { folders?: DriveFolder[] };
-  return body.folders ?? [];
-}
-
-async function createFolder(parentId: string, name: string): Promise<DriveFolder> {
-  const res = await fetch("/api/drive/folders", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ parentId, name }),
-  });
-  if (!res.ok) throw new Error(`Create folder ${res.status}`);
-  const body = (await res.json()) as { folder?: DriveFolder };
-  if (!body.folder) throw new Error("No folder returned");
-  return body.folder;
-}
 
 export function DriveFolderPicker({
   community,
@@ -67,7 +48,7 @@ export function DriveFolderPicker({
     setLoading(true);
     setError(null);
     try {
-      const list = await fetchFolders(parentId);
+      const list = await apiListFolders(parentId);
       setFolders(list);
     } catch (e) {
       setError(e instanceof Error ? e.message : String(e));
@@ -96,13 +77,13 @@ export function DriveFolderPicker({
       setLoading(true);
       setError(null);
       try {
-        const rootChildren = await fetchFolders(rootId);
+        const rootChildren = await apiListFolders(rootId);
         const vendorsFolder = rootChildren.find((f) => VENDORS_PATTERN.test(f.name));
 
         if (vendorsFolder) {
           // Found Vendors — go inside, surface its subfolders (individual vendor folders)
           const vendorsCrumb: Crumb = { id: vendorsFolder.id, name: vendorsFolder.name };
-          const vendorsChildren = await fetchFolders(vendorsFolder.id);
+          const vendorsChildren = await apiListFolders(vendorsFolder.id);
           onBreadcrumbChange([rootCrumb, vendorsCrumb]);
           onSelect(vendorsFolder.id, vendorsFolder.name);
           setFolders(vendorsChildren);
@@ -139,7 +120,7 @@ export function DriveFolderPicker({
       setLoading(true);
       setError(null);
       try {
-        setFolders(await fetchFolders(folder.id));
+        setFolders(await apiListFolders(folder.id));
       } catch (e) {
         setError(e instanceof Error ? e.message : String(e));
       } finally {
@@ -160,7 +141,7 @@ export function DriveFolderPicker({
       setLoading(true);
       setError(null);
       try {
-        setFolders(await fetchFolders(crumb.id));
+        setFolders(await apiListFolders(crumb.id));
       } catch (e) {
         setError(e instanceof Error ? e.message : String(e));
       } finally {
@@ -176,7 +157,7 @@ export function DriveFolderPicker({
     setCreating(true);
     setError(null);
     try {
-      const created = await createFolder(currentParentId, name);
+      const created = await apiCreateFolder(currentParentId, name);
       setNewFolderName("");
       await enterFolder(created);
     } catch (e) {

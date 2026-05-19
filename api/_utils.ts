@@ -121,21 +121,61 @@ function pemToArrayBuffer(pem: string): ArrayBuffer {
   return fromBase64Url(b64.replace(/\+/g, "-").replace(/\//g, "_")).buffer;
 }
 
+interface ServiceAccount {
+  client_email: string;
+  private_key: string;
+  private_key_id?: string;
+  token_uri?: string;
+}
+
+let cachedServiceAccount: ServiceAccount | null = null;
+
+function getServiceAccount(): ServiceAccount {
+  if (cachedServiceAccount) return cachedServiceAccount;
+
+  // Preferred: full base64-encoded service account JSON in one env var
+  const b64 = process.env.SA_JSON_B64 ?? process.env.GOOGLE_SERVICE_ACCOUNT_B64;
+  if (b64) {
+    try {
+      const raw = Buffer.from(b64, "base64").toString("utf8");
+      cachedServiceAccount = JSON.parse(raw) as ServiceAccount;
+      return cachedServiceAccount;
+    } catch (e) {
+      throw new Error(`SA_JSON_B64 is not valid base64-encoded JSON: ${e}`);
+    }
+  }
+
+  // Fallback: separate env vars (legacy)
+  cachedServiceAccount = {
+    client_email: env("GOOGLE_CLIENT_EMAIL"),
+    private_key: env("GOOGLE_PRIVATE_KEY"),
+    private_key_id: process.env.GOOGLE_PRIVATE_KEY_ID,
+  };
+  return cachedServiceAccount;
+}
+
 async function googleJwt(): Promise<string> {
+  const sa = getServiceAccount();
   const now = Math.floor(Date.now() / 1000);
-  const header = base64Url(JSON.stringify({ alg: "RS256", typ: "JWT" }));
+  const header = base64Url(
+    JSON.stringify({
+      alg: "RS256",
+      typ: "JWT",
+      ...(sa.private_key_id ? { kid: sa.private_key_id } : {}),
+    }),
+  );
   const claim = base64Url(
     JSON.stringify({
-      iss: env("GOOGLE_CLIENT_EMAIL"),
+      iss: sa.client_email,
       scope: GOOGLE_SCOPES,
-      aud: TOKEN_AUDIENCE,
+      aud: sa.token_uri ?? TOKEN_AUDIENCE,
       exp: now + 3600,
       iat: now,
     }),
   );
   const key = await crypto.subtle.importKey(
     "pkcs8",
-    pemToArrayBuffer(env("GOOGLE_PRIVATE_KEY")),
+    pemToArrayBuffer(sa.private_key),
     { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
     false,
     ["sign"],

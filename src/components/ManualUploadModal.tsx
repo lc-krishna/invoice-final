@@ -9,6 +9,7 @@ import {
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import type { InvoiceRow } from "@/lib/types";
+import { completeManual, createUploadSession } from "@/lib/drive";
 
 interface ManualUploadModalProps {
   open: boolean;
@@ -46,25 +47,15 @@ export function ManualUploadModal({ open, onClose, onCreated }: ManualUploadModa
     setError(null);
 
     try {
-      // Step 1: Get a resumable upload session URL from our server
-      const sessionRes = await fetch("/api/drive/upload-session", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: file.name,
-          mimeType: file.type || "application/pdf",
-          size: file.size,
-        }),
+      // Step 1: get a resumable upload URL from the server
+      const { uploadUrl } = await createUploadSession({
+        name: file.name,
+        mimeType: file.type || "application/pdf",
+        size: file.size,
       });
-      if (!sessionRes.ok) {
-        const msg = await sessionRes.text().catch(() => `HTTP ${sessionRes.status}`);
-        throw new Error(`Upload session failed: ${msg}`);
-      }
-      const sessionData = (await sessionRes.json()) as { uploadUrl?: string };
-      if (!sessionData.uploadUrl) throw new Error("No upload URL returned");
 
-      // Step 2: Upload file bytes directly to Google's resumable URL (bypasses Vercel limit)
-      const uploadRes = await fetch(sessionData.uploadUrl, {
+      // Step 2: PUT file bytes directly to Google (bypasses Vercel 4.5MB limit)
+      const uploadRes = await fetch(uploadUrl, {
         method: "PUT",
         headers: { "Content-Type": file.type || "application/pdf" },
         body: file,
@@ -76,24 +67,15 @@ export function ManualUploadModal({ open, onClose, onCreated }: ManualUploadModa
       const uploadedFile = (await uploadRes.json()) as { id?: string; webViewLink?: string };
       if (!uploadedFile.id) throw new Error("Google did not return a file ID");
 
-      // Step 3: Record in the Invoice Log sheet and get back the new InvoiceRow
-      const completeRes = await fetch("/api/drive/complete-manual", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          fileId: uploadedFile.id,
-          webViewLink: uploadedFile.webViewLink,
-          fileName: file.name,
-        }),
+      // Step 3: append a row to the Invoice Log sheet and return the new InvoiceRow
+      const { invoice } = await completeManual({
+        fileId: uploadedFile.id,
+        webViewLink: uploadedFile.webViewLink,
+        fileName: file.name,
       });
-      if (!completeRes.ok) {
-        const msg = await completeRes.text().catch(() => `HTTP ${completeRes.status}`);
-        throw new Error(`Sheet record failed: ${msg}`);
-      }
-      const completeData = (await completeRes.json()) as { invoice?: InvoiceRow };
-      if (!completeData.invoice) throw new Error("No invoice returned from server");
+      if (!invoice) throw new Error("No invoice returned from server");
 
-      onCreated(completeData.invoice);
+      onCreated(invoice as InvoiceRow);
       reset();
       onClose();
     } catch (e) {
