@@ -68,6 +68,23 @@ export function mapSheetRows(rows: unknown[][]): InvoiceRow[] {
 }
 
 export async function fetchInvoices(): Promise<InvoiceRow[]> {
+  const apiKey = import.meta.env.VITE_GOOGLE_API_KEY as string | undefined;
+  const sheetId = import.meta.env.VITE_SHEET_ID as string | undefined;
+
+  if (apiKey && sheetId) {
+    const encodedRange = SHEET_RANGE.replace(/ /g, "%20");
+    const url = `https://sheets.googleapis.com/v4/spreadsheets/${encodeURIComponent(
+      sheetId,
+    )}/values/${encodedRange}?key=${apiKey}&valueRenderOption=UNFORMATTED_VALUE&dateTimeRenderOption=FORMATTED_STRING`;
+    const res = await fetch(url);
+    if (!res.ok) {
+      const body = await res.text().catch(() => "");
+      throw new Error(`Google Sheets ${res.status}: ${body || res.statusText}`);
+    }
+    const json = (await res.json()) as { values?: unknown[][] };
+    return mapSheetRows(json.values ?? []);
+  }
+
   const res = await fetch("/api/invoices", { method: "GET" });
   if (!res.ok) {
     const body = await res.text().catch(() => "");

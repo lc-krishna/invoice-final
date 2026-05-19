@@ -7,6 +7,12 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 .env
+.env.*
+*.local
+# Google service account JSON keys — never commit
+*service-account*.json
+*credentials*.json
+drive-automation-script-*.json
 node_modules
 dist
 dist-ssr

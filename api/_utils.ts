@@ -55,9 +55,13 @@ function fromBase64Url(value: string): Uint8Array<ArrayBuffer> {
 }
 
 async function hmacKey() {
+  const secret =
+    process.env.SESSION_SECRET ??
+    process.env.APP_PASSWORD ??
+    "lc-default-session-secret-please-set-SESSION_SECRET";
   return crypto.subtle.importKey(
     "raw",
-    new TextEncoder().encode(env("SESSION_SECRET")),
+    new TextEncoder().encode(secret),
     { name: "HMAC", hash: "SHA-256" },
     false,
     ["sign", "verify"],
